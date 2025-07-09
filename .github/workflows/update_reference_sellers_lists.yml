@@ -1,8 +1,7 @@
 name: Update Data on Merge
 
 on:
-  pull_request:
-    types: [closed]
+  push:
     branches:
       - main
 
@@ -12,7 +11,6 @@ permissions:
 
 jobs:
   update-sellers:
-    if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
