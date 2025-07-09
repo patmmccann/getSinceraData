@@ -37,18 +37,27 @@ def sample_domains(domains, n=100):
     return random.sample(domains, n)
 
 def fetch_a2cr(domain: str, max_retries: int = 5):
-    delay = 1
+    """Fetch A2CR data for a domain with exponential backoff respecting the Retry-After header."""
+    delay = 1.0
     for _ in range(max_retries):
-        resp = requests.get(API_URL, params={'domain': domain}, headers=HEADERS, timeout=30)
+        resp = requests.get(
+            API_URL, params={"domain": domain}, headers=HEADERS, timeout=30
+        )
         if resp.status_code == 429:
+            retry_after = resp.headers.get("Retry-After")
+            if retry_after:
+                try:
+                    delay = max(delay, float(retry_after))
+                except ValueError:
+                    pass
             time.sleep(delay)
-            delay = min(delay * 2, 30)
+            delay *= 2
             continue
         if resp.status_code != 200:
-            return None, {'error': resp.text, 'status_code': resp.status_code}
+            return None, {"error": resp.text, "status_code": resp.status_code}
         data = resp.json()
-        return data.get('avg_ads_to_content_ratio'), data
-    return None, {'error': 'max retries exceeded', 'status_code': 429}
+        return data.get("avg_ads_to_content_ratio"), data
+    return None, {"error": "max retries exceeded", "status_code": 429}
 
 def process_group(path: str, name: str):
     domains = load_domains(path)
