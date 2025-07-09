@@ -14,6 +14,6 @@ python3 -m json.tool output/ecosystem/ecosystem.json \
 
 ls -l output/ecosystem/ecosystem.json
 
-if [[ -n "${AWS_BUCKET_NAME:-}" ]]; then
+if [[ -n "${AWS_BUCKET_NAME:-}" && -n "${AWS_ROLE_TO_ASSUME:-}" ]]; then
   bash "$(dirname "$0")/sync_output_to_s3.sh"
 fi

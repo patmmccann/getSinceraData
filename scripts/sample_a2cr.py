@@ -19,6 +19,7 @@ API_URL = 'https://open.sincera.io/api/publishers'
 RAW_OUTPUT_DIR = os.path.join('output', 'raw_ac2r')
 ANALYSIS_DIR = os.path.join('output', 'ac2r_analysis')
 AWS_BUCKET_NAME = os.environ.get('AWS_BUCKET_NAME')
+AWS_ROLE_TO_ASSUME = os.environ.get('AWS_ROLE_TO_ASSUME')
 
 API_KEY = os.environ.get('SINCERA_API_KEY')
 
@@ -29,8 +30,8 @@ HEADERS = {'Authorization': f'Bearer {API_KEY}'}
 
 
 def sync_output() -> None:
-    """Sync the entire output directory to S3 if AWS_BUCKET_NAME is set."""
-    if not AWS_BUCKET_NAME:
+    """Sync the entire output directory to S3 if bucket and role are set."""
+    if not AWS_BUCKET_NAME or not AWS_ROLE_TO_ASSUME:
         return
     script = os.path.join(os.path.dirname(__file__), 'sync_output_to_s3.sh')
     subprocess.run(["bash", script], check=True)

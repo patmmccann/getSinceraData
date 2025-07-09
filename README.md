@@ -1,7 +1,7 @@
 # getSinceraData
 
 This repository contains a simple script to fetch the Sincera ecosystem data. The API key is provided via the `SINCERA_API_KEY` GitHub secret. When run, the script stores the result in `output/ecosystem/ecosystem.json`.
-If `AWS_BUCKET_NAME` is set, the entire `output/` directory is synced to the same folder structure in the bucket using `scripts/sync_output_to_s3.sh`.
+If both `AWS_BUCKET_NAME` and `AWS_ROLE_TO_ASSUME` are set, the entire `output/` directory is synced to the same folder structure in the bucket using `scripts/sync_output_to_s3.sh`.
 
 ## Usage
 
@@ -33,7 +33,7 @@ The `sample_a2cr.py` script reads every `sellers.json` file stored in
   The
   script requires the `SINCERA_API_KEY` environment variable and Python
 packages `requests` and `numpy`.
-  When `AWS_BUCKET_NAME` is set, the entire `output/` directory is synced to the bucket
+  When both `AWS_BUCKET_NAME` and `AWS_ROLE_TO_ASSUME` are set, the entire `output/` directory is synced to the bucket
   using `scripts/sync_output_to_s3.sh` so the files appear under `raw_ac2r/` and
   `ac2r_analysis/`.
 
