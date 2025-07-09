@@ -1,9 +1,11 @@
-name: Update Data on Merge
+name: Update Data on Trigger
 
 on:
   push:
     branches:
       - main
+    paths:
+      - trigger_data_pull.txt
 
 permissions:
   id-token: write
