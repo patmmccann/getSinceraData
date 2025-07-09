@@ -1,8 +1,9 @@
 name: Collect Sincera Data
 
 on:
-  deployment:
-    types: [created]
+  push:
+    branches:
+      - master
 
 permissions:
   id-token: write
