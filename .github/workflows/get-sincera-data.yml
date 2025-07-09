@@ -1,0 +1,33 @@
+name: Collect Sincera Data
+
+on:
+  deployment:
+    types: [created]
+
+permissions:
+  id-token: write
+  contents: read
+
+jobs:
+  get-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ secrets.AWS_ROLE_TO_ASSUME }}
+          aws-region: us-east-1
+
+      - name: Fetch Sincera ecosystem data
+        env:
+          SINCERA_API_KEY: ${{ secrets.SINCERA_API_KEY }}
+        run: |
+          bash scripts/fetch_sincera_data.sh
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: sincera-ecosystem-data
+          path: output/ecosystem_data.json
