@@ -6,8 +6,14 @@ import requests
 import numpy as np
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-CAFEMEDIA_FILE = os.path.join(BASE_DIR, 'reference_sellers_lists', 'sellers_cafemedia.json')
-MEDIAVINE_FILE = os.path.join(BASE_DIR, 'reference_sellers_lists', 'sellers_mediavine.json')
+SELLERS_DIR = os.path.join(BASE_DIR, 'reference_sellers_lists')
+
+def list_sellers_files():
+    return [
+        os.path.join(SELLERS_DIR, f)
+        for f in os.listdir(SELLERS_DIR)
+        if f.endswith('.json')
+    ]
 API_URL = 'https://open.sincera.io/api/publishers'
 OUTPUT_DIR = 'data_output'
 
@@ -58,14 +64,15 @@ def process_group(path: str, name: str):
     return percentiles
 
 def main():
-    cafe_stats = process_group(CAFEMEDIA_FILE, 'cafemedia')
-    mediavine_stats = process_group(MEDIAVINE_FILE, 'mediavine')
-    summary = {
-        'cafemedia_percentiles': cafe_stats,
-        'mediavine_percentiles': mediavine_stats,
-    }
+    summary = {}
+    for path in sorted(list_sellers_files()):
+        name = os.path.splitext(os.path.basename(path))[0]
+        stats = process_group(path, name)
+        summary[f'{name}_percentiles'] = stats
+
     with open(os.path.join(OUTPUT_DIR, 'summary.json'), 'w') as f:
         json.dump(summary, f, indent=2)
+
     print(json.dumps(summary, indent=2))
 
 if __name__ == '__main__':
