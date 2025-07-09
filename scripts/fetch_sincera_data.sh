@@ -8,7 +8,9 @@ API_URL="${SINCERA_API_URL:-https://open.sincera.io/api/ecosystem}"
 
 curl -sfSL -H "Authorization: Bearer ${SINCERA_API_KEY}" "$API_URL" -o ecosystem/ecosystem.json
 
-jsonlint -p -i data_output/ecosystem.json
+# Validate and pretty-print the JSON without requiring the jsonlint package
+python3 -m json.tool ecosystem/ecosystem.json \
+  > ecosystem/ecosystem.json.tmp && mv ecosystem/ecosystem.json.tmp ecosystem/ecosystem.json
 
 ls -l ecosystem/ecosystem.json
 
