@@ -35,12 +35,40 @@ jobs:
           curl -fSL https://freestar.com/sellers.json -o reference_sellers_lists/sellers_freestar.json
           curl -fSL https://www.aditude.com/sellers.json -o reference_sellers_lists/sellers_aditude.json
 
+      - name: Commit sellers lists
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git status --porcelain | grep .; then
+            git add reference_sellers_lists/*.json
+            git commit -m "Update sellers lists"
+            git push
+          else
+            echo "No changes to commit"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Fetch Sincera ecosystem data
         env:
           SINCERA_API_KEY: ${{ secrets.SINCERA_API_KEY }}
           AWS_BUCKET_NAME: ${{ secrets.AWS_BUCKET_NAME }}
         run: |
           bash scripts/fetch_sincera_data.sh
+
+      - name: Commit ecosystem data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git status --porcelain | grep .; then
+            git add output/ecosystem/ecosystem.json
+            git commit -m "Update ecosystem data"
+            git push
+          else
+            echo "No changes to commit"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Sample A2CR data
         env:
@@ -50,13 +78,13 @@ jobs:
           pip install requests numpy
           python scripts/sample_a2cr.py
 
-      - name: Commit and push changes
+      - name: Commit A2CR results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           if git status --porcelain | grep .; then
-            git add reference_sellers_lists/*.json output/ecosystem/ecosystem.json output/raw_ac2r/* output/ac2r_analysis/*
-            git commit -m "Update sellers lists and data output"
+            git add output/raw_ac2r/* output/ac2r_analysis/*
+            git commit -m "Update A2CR results"
             git push
           else
             echo "No changes to commit"
