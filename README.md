@@ -24,5 +24,7 @@ The `sample_a2cr.py` script reads every `sellers.json` file stored in
 packages `requests` and `numpy`.
 
 ```bash
-SINCERA_API_KEY=your_token python scripts/sample_a2cr.py
+SINCERA_API_KEY=your_token SAMPLE_SIZE=5 python scripts/sample_a2cr.py
 ```
+The optional `SAMPLE_SIZE` variable controls how many domains are sampled from each
+`sellers.json` file. The default is 100.

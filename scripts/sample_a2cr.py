@@ -31,7 +31,9 @@ def load_domains(path: str):
     domains = [s.get('domain') for s in data.get('sellers', []) if s.get('domain')]
     return list(set(domains))
 
-def sample_domains(domains, n=100):
+SAMPLE_SIZE = int(os.environ.get('SAMPLE_SIZE', '100'))
+
+def sample_domains(domains, n=SAMPLE_SIZE):
     if len(domains) < n:
         n = len(domains)
     return random.sample(domains, n)

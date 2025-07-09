@@ -1,0 +1,124 @@
+{
+  "hotukdeals.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "tusksearch.com": {
+    "a2cr": null,
+    "response": {
+      "publisher_id": 410797,
+      "name": "TUSK Search",
+      "visit_enabled": true,
+      "status": "available",
+      "primary_supply_type": "web",
+      "domain": "tusksearch.com",
+      "pub_description": "Censorship-free Search Engine with an emphasis on Free Speech.",
+      "categories": null,
+      "slug": "tusksearch",
+      "avg_ads_to_content_ratio": null,
+      "avg_ads_in_view": null,
+      "avg_ad_refresh": null,
+      "total_unique_gpids": 0,
+      "id_absorption_rate": null,
+      "avg_page_weight": 0.5883,
+      "avg_cpu": 1.277,
+      "total_supply_paths": 1,
+      "reseller_count": null,
+      "owner_domain": "tusksearch.com",
+      "updated_at": "2025-07-04T01:03:47.661Z"
+    }
+  },
+  "gocomics.com": {
+    "a2cr": 0.18553,
+    "response": {
+      "publisher_id": 2815,
+      "name": "GoComics",
+      "visit_enabled": true,
+      "status": "available",
+      "primary_supply_type": "web",
+      "domain": "gocomics.com",
+      "pub_description": "Welcome to GoComics.com, the world's largest comic strip site for online classic strips like Calvin and Hobbes, Dilbert, Non Sequitur, Get Fuzzy, Luann, Pearl Before Swine, 9 Chickweed Lane and more!",
+      "categories": [
+        "Books and Literature",
+        "Sports",
+        "Genres",
+        "Communication",
+        "Comics and Graphic Novels"
+      ],
+      "slug": "gocomics",
+      "avg_ads_to_content_ratio": 0.18553,
+      "avg_ads_in_view": 2.90052,
+      "avg_ad_refresh": 26.82,
+      "total_unique_gpids": 104,
+      "id_absorption_rate": 0.37000000000000005,
+      "avg_page_weight": 8.054,
+      "avg_cpu": 73.1018,
+      "total_supply_paths": 507,
+      "reseller_count": 447,
+      "owner_domain": null,
+      "updated_at": "2025-07-09T01:01:22.201Z"
+    }
+  },
+  "pepperdeals.se": {
+    "a2cr": 0.11127,
+    "response": {
+      "publisher_id": 420353,
+      "name": "Pepperdeals.se",
+      "visit_enabled": true,
+      "status": "available",
+      "primary_supply_type": "web",
+      "domain": "pepperdeals.se",
+      "pub_description": "Pepperdeals.se \u21d2 Sveriges b\u00e4sta community f\u00f6r deals!  \u2705 Skiljer sig fr\u00e5n andra! \u2705 Ett riktigt community d\u00e4r du kan r\u00f6sta, dela och delta! \u2b50\ufe0f",
+      "categories": null,
+      "slug": "pepperdeals",
+      "avg_ads_to_content_ratio": 0.11127,
+      "avg_ads_in_view": 0.93806,
+      "avg_ad_refresh": null,
+      "total_unique_gpids": 4,
+      "id_absorption_rate": 1.0,
+      "avg_page_weight": 1.0905,
+      "avg_cpu": 31.0287,
+      "total_supply_paths": 433,
+      "reseller_count": 372,
+      "owner_domain": "pepper.com",
+      "updated_at": "2025-07-02T10:47:40.116Z"
+    }
+  },
+  "perezhilton.com": {
+    "a2cr": 0.28673,
+    "response": {
+      "publisher_id": 28739,
+      "name": "Perez Hilton",
+      "visit_enabled": true,
+      "status": "available",
+      "primary_supply_type": "web",
+      "domain": "perezhilton.com",
+      "pub_description": "We guess\u00a0Marques Houston subscribes to the old philosophy that the best defense is a good offense. Because what he just said in defense of his",
+      "categories": [
+        "entertainment",
+        "Family and Relationships",
+        "Pop Culture",
+        "Style & Fashion",
+        "Entertainment",
+        "Celebrity Relationships",
+        "Beauty",
+        "Events"
+      ],
+      "slug": "perezhilton",
+      "avg_ads_to_content_ratio": 0.28673,
+      "avg_ads_in_view": 2.15476,
+      "avg_ad_refresh": 27.282,
+      "total_unique_gpids": 2127,
+      "id_absorption_rate": 0.7142857142857143,
+      "avg_page_weight": 14.3976,
+      "avg_cpu": 399.859,
+      "total_supply_paths": 1002,
+      "reseller_count": 789,
+      "owner_domain": null,
+      "updated_at": "2025-07-09T01:02:25.592Z"
+    }
+  }
+}
