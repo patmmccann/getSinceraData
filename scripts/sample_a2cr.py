@@ -28,11 +28,12 @@ if API_KEY is None:
 HEADERS = {'Authorization': f'Bearer {API_KEY}'}
 
 
-def upload_to_s3(local_path: str, key: str) -> None:
-    """Upload a file to S3 if AWS_BUCKET_NAME is set."""
+def sync_output() -> None:
+    """Sync the entire output directory to S3 if AWS_BUCKET_NAME is set."""
     if not AWS_BUCKET_NAME:
         return
-    subprocess.run(["aws", "s3", "cp", local_path, f"s3://{AWS_BUCKET_NAME}/{key}"], check=True)
+    script = os.path.join(os.path.dirname(__file__), 'sync_output_to_s3.sh')
+    subprocess.run(["bash", script], check=True)
 
 def load_domains(path: str):
     with open(path, 'r') as f:
@@ -82,7 +83,7 @@ def process_group(path: str, name: str):
     result_file = os.path.join(RAW_OUTPUT_DIR, f'{name}_results.json')
     with open(result_file, 'w') as f:
         json.dump(results, f, indent=2)
-    upload_to_s3(result_file, f'raw_ac2r/{name}_results.json')
+    # sync will handle uploading this file if AWS_BUCKET_NAME is set
     values = [r['a2cr'] for r in results.values() if r['a2cr'] is not None]
     percentiles = {}
     if values:
@@ -104,7 +105,7 @@ def main():
     summary_file = os.path.join(ANALYSIS_DIR, 'summary.json')
     with open(summary_file, 'w') as f:
         json.dump(summary, f, indent=2)
-    upload_to_s3(summary_file, 'ac2r_analysis/summary.json')
+    sync_output()
 
     print(json.dumps(summary, indent=2))
 
