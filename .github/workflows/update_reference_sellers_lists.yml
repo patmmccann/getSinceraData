@@ -1,4 +1,4 @@
-name: Update Reference Sellers Lists
+name: Update Data on Merge
 
 on:
   pull_request:
@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write
+  id-token: write
 
 jobs:
   update-sellers:
@@ -20,7 +21,7 @@ jobs:
           fetch-depth: 0
 
       - name: Configure AWS credentials
-        uses: aws-actions/configure-aws-credentials@v4
+        uses: aws-actions/configure-aws-credentials@v2
         with:
           role-to-assume: ${{ secrets.AWS_ROLE_TO_ASSUME }}
           aws-region: us-east-1
