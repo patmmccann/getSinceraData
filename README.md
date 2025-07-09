@@ -16,8 +16,9 @@ On every merge into `main`, a GitHub Actions workflow downloads the latest `sell
 
 ### Sampling publisher A2CR
 
-The `sample_a2cr.py` script takes random samples from CafeMedia and
-Mediavine `sellers.json` files, fetches A2CR data for each domain from
+The `sample_a2cr.py` script reads the CafeMedia and Mediavine
+`sellers.json` files stored in `reference_sellers_lists`, takes random
+samples from those domains, fetches A2CR data for each domain from
 OpenSincera and writes the responses to the `output/` directory.  The
 script requires the `SINCERA_API_KEY` environment variable and Python
 packages `requests` and `numpy`.
