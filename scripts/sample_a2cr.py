@@ -15,7 +15,8 @@ def list_sellers_files():
         if f.endswith('.json')
     ]
 API_URL = 'https://open.sincera.io/api/publishers'
-OUTPUT_DIR = 'data_output'
+RAW_OUTPUT_DIR = 'raw_ac2r'
+ANALYSIS_DIR = 'ac2r_analysis'
 
 API_KEY = os.environ.get('SINCERA_API_KEY')
 
@@ -35,12 +36,19 @@ def sample_domains(domains, n=100):
         n = len(domains)
     return random.sample(domains, n)
 
-def fetch_a2cr(domain: str):
-    resp = requests.get(API_URL, params={'domain': domain}, headers=HEADERS, timeout=30)
-    if resp.status_code != 200:
-        return None, {'error': resp.text, 'status_code': resp.status_code}
-    data = resp.json()
-    return data.get('avg_ads_to_content_ratio'), data
+def fetch_a2cr(domain: str, max_retries: int = 5):
+    delay = 1
+    for _ in range(max_retries):
+        resp = requests.get(API_URL, params={'domain': domain}, headers=HEADERS, timeout=30)
+        if resp.status_code == 429:
+            time.sleep(delay)
+            delay = min(delay * 2, 30)
+            continue
+        if resp.status_code != 200:
+            return None, {'error': resp.text, 'status_code': resp.status_code}
+        data = resp.json()
+        return data.get('avg_ads_to_content_ratio'), data
+    return None, {'error': 'max retries exceeded', 'status_code': 429}
 
 def process_group(path: str, name: str):
     domains = load_domains(path)
@@ -49,9 +57,9 @@ def process_group(path: str, name: str):
     for d in sample:
         a2cr, resp = fetch_a2cr(d)
         results[d] = {'a2cr': a2cr, 'response': resp}
-        time.sleep(1)  # simple throttle
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
-    with open(os.path.join(OUTPUT_DIR, f'{name}_results.json'), 'w') as f:
+        time.sleep(2)  # throttle requests to avoid rate limits
+    os.makedirs(RAW_OUTPUT_DIR, exist_ok=True)
+    with open(os.path.join(RAW_OUTPUT_DIR, f'{name}_results.json'), 'w') as f:
         json.dump(results, f, indent=2)
     values = [r['a2cr'] for r in results.values() if r['a2cr'] is not None]
     percentiles = {}
@@ -70,7 +78,8 @@ def main():
         stats = process_group(path, name)
         summary[f'{name}_percentiles'] = stats
 
-    with open(os.path.join(OUTPUT_DIR, 'summary.json'), 'w') as f:
+    os.makedirs(ANALYSIS_DIR, exist_ok=True)
+    with open(os.path.join(ANALYSIS_DIR, 'summary.json'), 'w') as f:
         json.dump(summary, f, indent=2)
 
     print(json.dumps(summary, indent=2))
