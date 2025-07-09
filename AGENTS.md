@@ -1,7 +1,7 @@
-go read https://partner.thetradedesk.com/v3/portal/opensincera/doc/OpenSinceraGetStarted
+Use the local copy of the OpenSincera "Get Started" documentation. Open `OpenSinceraGetStarted.html` in this repository instead of visiting https://partner.thetradedesk.com/v3/portal/opensincera/doc/OpenSinceraGetStarted.
 
-my api key is in the repo secrets as SINCERA_API_KEY
+My API key is in the repo secrets as `SINCERA_API_KEY`.
 
-aws role to assume is in the repo secrets as AWS_ROLE_TO_ASSUME
+AWS role to assume is in the repo secrets as `AWS_ROLE_TO_ASSUME`.
 
-never expose these keys via a commit even if you know them
+Never expose these keys via a commit even if you know them.
