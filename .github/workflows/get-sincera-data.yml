@@ -32,4 +32,4 @@ jobs:
         env:
           AWS_BUCKET_NAME: ${{ secrets.AWS_BUCKET_NAME }}
         run: |
-          aws s3 cp data_output/ecosystem.json "s3://${AWS_BUCKET_NAME}/ecosystem.json"
+          aws s3 cp ecosystem/ecosystem.json "s3://${AWS_BUCKET_NAME}/ecosystem/ecosystem.json"
