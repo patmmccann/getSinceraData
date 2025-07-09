@@ -1,0 +1,115 @@
+{
+  "immigrantstable.com": {
+    "a2cr": 0.20824,
+    "response": {
+      "publisher_id": 41519,
+      "name": "At the Immigrant's Table",
+      "visit_enabled": true,
+      "status": "available",
+      "primary_supply_type": "web",
+      "domain": "immigrantstable.com",
+      "pub_description": "A food and travel blog showcasing immigrant stories and international recipes that help adventurous home cooks explore the world.",
+      "categories": [
+        "Food & Drink",
+        "Business and Finance",
+        "Technology & Computing",
+        "Home & Garden",
+        "Healthy Living",
+        "World Cuisines",
+        "Desserts and Baking",
+        "Cooking",
+        "Healthy Cooking and Eating"
+      ],
+      "slug": "immigrantstable",
+      "avg_ads_to_content_ratio": 0.20824,
+      "avg_ads_in_view": 1.77252,
+      "avg_ad_refresh": 87.157,
+      "total_unique_gpids": 18,
+      "id_absorption_rate": 0.7833333333333334,
+      "avg_page_weight": 25.8691,
+      "avg_cpu": 80.8823,
+      "total_supply_paths": 84,
+      "reseller_count": 13,
+      "owner_domain": "immigrantstable.com",
+      "updated_at": "2025-07-09T01:03:14.911Z"
+    }
+  },
+  "dreamystays.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "happyhomefairy.com": {
+    "a2cr": 0.18698,
+    "response": {
+      "publisher_id": 39237,
+      "name": "Happy Home Fairy",
+      "visit_enabled": true,
+      "status": "available",
+      "primary_supply_type": "web",
+      "domain": "happyhomefairy.com",
+      "pub_description": null,
+      "categories": [
+        "Family and Relationships",
+        "Events",
+        "Food & Drink",
+        "Style & Fashion",
+        "Parenting",
+        "Desserts and Baking"
+      ],
+      "slug": "happyhomefairy",
+      "avg_ads_to_content_ratio": 0.18698,
+      "avg_ads_in_view": 2.08782,
+      "avg_ad_refresh": 69.471,
+      "total_unique_gpids": 24,
+      "id_absorption_rate": 0.7660000000000001,
+      "avg_page_weight": 19.9352,
+      "avg_cpu": 193.8664,
+      "total_supply_paths": 84,
+      "reseller_count": 13,
+      "owner_domain": "happyhomefairy.com",
+      "updated_at": "2025-07-09T01:03:05.505Z"
+    }
+  },
+  "randompowergenerator.com": {
+    "a2cr": null,
+    "response": {
+      "error": "{}",
+      "status_code": 404
+    }
+  },
+  "healthyheartyrecipes.com": {
+    "a2cr": 0.19327,
+    "response": {
+      "publisher_id": 324130,
+      "name": "Healthy Hearty Recipes",
+      "visit_enabled": true,
+      "status": "available",
+      "primary_supply_type": "web",
+      "domain": "healthyheartyrecipes.com",
+      "pub_description": "Wholesome Comfort Food Recipes",
+      "categories": [
+        "Food & Drink",
+        "Technology & Computing",
+        "Personal Finance",
+        "World Cuisines",
+        "Desserts and Baking",
+        "Cooking"
+      ],
+      "slug": "healthyheartyrecipes-com",
+      "avg_ads_to_content_ratio": 0.19327,
+      "avg_ads_in_view": 2.09913,
+      "avg_ad_refresh": 53.162,
+      "total_unique_gpids": 22,
+      "id_absorption_rate": 0.776,
+      "avg_page_weight": 10.8818,
+      "avg_cpu": 105.8678,
+      "total_supply_paths": 84,
+      "reseller_count": 13,
+      "owner_domain": "wholekitchensink.com",
+      "updated_at": "2025-06-28T23:53:09.988Z"
+    }
+  }
+}
