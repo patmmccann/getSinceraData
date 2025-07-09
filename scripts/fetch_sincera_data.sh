@@ -8,6 +8,8 @@ API_URL="${SINCERA_API_URL:-https://open.sincera.io/api/ecosystem}"
 
 curl -sfSL -H "Authorization: Bearer ${SINCERA_API_KEY}" "$API_URL" -o ecosystem/ecosystem.json
 
+jsonlint -p -i data_output/ecosystem.json
+
 ls -l ecosystem/ecosystem.json
 
 if [[ -n "${AWS_BUCKET_NAME:-}" ]]; then
