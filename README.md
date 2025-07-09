@@ -1,3 +1,11 @@
-# getSinceraData
+#getSinceraData
 
-Basically how this is going to work is via a github action. On any deploy it will go and hit up the sincera api and get what it needs, store it as some object and probably format it and put it on s3. Maybe later we'll add some visualization of that object
+This repository contains a simple script to fetch the Sincera ecosystem data. The API key is provided via the `SINCERA_API_KEY` GitHub secret. When run, the script stores the result as `ecosystem.json`.
+
+## Usage
+
+Ensure that the `SINCERA_API_KEY` environment variable is available (for example via GitHub Actions secrets). Optionally assume the AWS role defined in `AWS_ROLE_TO_ASSUME` before running the script if you need to upload the file to S3.
+
+```bash
+./scripts/fetch_ecosystem.sh
+```
