@@ -9,7 +9,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CAFEMEDIA_FILE = os.path.join(BASE_DIR, 'reference_sellers_lists', 'sellers_cafemedia.json')
 MEDIAVINE_FILE = os.path.join(BASE_DIR, 'reference_sellers_lists', 'sellers_mediavine.json')
 API_URL = 'https://open.sincera.io/api/publishers'
-OUTPUT_DIR = 'output'
+OUTPUT_DIR = 'data_output'
 
 API_KEY = os.environ.get('SINCERA_API_KEY')
 

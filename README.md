@@ -1,6 +1,6 @@
-#getSinceraData
+# getSinceraData
 
-This repository contains a simple script to fetch the Sincera ecosystem data. The API key is provided via the `SINCERA_API_KEY` GitHub secret. When run, the script stores the result in `output/ecosystem_data.json` and uploads it to an S3 bucket if `AWS_BUCKET_NAME` is set.
+This repository contains a simple script to fetch the Sincera ecosystem data. The API key is provided via the `SINCERA_API_KEY` GitHub secret. When run, the script stores the result in `data_output/ecosystem.json` and uploads it to an S3 bucket if `AWS_BUCKET_NAME` is set.
 
 ## Usage
 
@@ -11,7 +11,6 @@ Ensure that the `SINCERA_API_KEY` environment variable is available (for example
 ```
 
 ## Reference sellers lists
-
 On every merge into `main`, a GitHub Actions workflow downloads the latest `sellers.json` files from SheMedia, CafeMedia, Mediavine, Freestar, and Aditude. The files are committed to the `reference_sellers_lists/` directory.
 
 ### Sampling publisher A2CR

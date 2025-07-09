@@ -28,13 +28,26 @@ jobs:
           curl -fSL https://freestar.com/sellers.json -o reference_sellers_lists/sellers_freestar.json
           curl -fSL https://www.aditude.com/sellers.json -o reference_sellers_lists/sellers_aditude.json
 
+      - name: Fetch Sincera ecosystem data
+        env:
+          SINCERA_API_KEY: ${{ secrets.SINCERA_API_KEY }}
+        run: |
+          bash scripts/fetch_sincera_data.sh
+
+      - name: Sample A2CR data
+        env:
+          SINCERA_API_KEY: ${{ secrets.SINCERA_API_KEY }}
+        run: |
+          pip install requests numpy
+          python scripts/sample_a2cr.py
+
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           if git status --porcelain | grep .; then
-            git add reference_sellers_lists/*.json
-            git commit -m "Update reference sellers lists"
+            git add reference_sellers_lists/*.json data_output/*
+            git commit -m "Update sellers lists and data output"
             git push
           else
             echo "No changes to commit"
