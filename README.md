@@ -4,7 +4,7 @@ This repository contains a simple script to fetch the Sincera ecosystem data. Th
 
 ## Usage
 
-Ensure that the `SINCERA_API_KEY` environment variable is available (for example via GitHub Actions secrets). Make sure the AWS role is defined in `AWS_ROLE_TO_ASSUME` before running the script to upload the file to S3 and put the bucket name in AWS_BUCKET_NAME.
+Ensure that the `SINCERA_API_KEY` environment variable is available (for example via GitHub Actions secrets). Make sure the AWS role is defined in `AWS_ROLE_TO_ASSUME` before running the script to upload the file to S3 and put the bucket name in `AWS_BUCKET_NAME`.
 
 ```bash
 ./scripts/fetch_ecosystem.sh
