@@ -20,7 +20,9 @@ The `sample_a2cr.py` script reads every `sellers.json` file stored in
 `reference_sellers_lists`, takes random samples from the domains listed,
   fetches A2CR data for each domain from OpenSincera and writes the
   raw results to the `output/raw_ac2r/` directory. The summary statistics are
-  written to `output/ac2r_analysis/`. The
+  written to `output/ac2r_analysis/`. Each entry in the summary includes the
+  number of domains used to calculate the percentiles.
+  The
   script requires the `SINCERA_API_KEY` environment variable and Python
 packages `requests` and `numpy`.
   When `AWS_BUCKET_NAME` is set, the entire `output/` directory is synced to the bucket

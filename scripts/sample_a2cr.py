@@ -85,13 +85,17 @@ def process_group(path: str, name: str):
         json.dump(results, f, indent=2)
     # sync will handle uploading this file if AWS_BUCKET_NAME is set
     values = [r['a2cr'] for r in results.values() if r['a2cr'] is not None]
-    percentiles = {}
+    percentiles = {
+        'n': len(values),
+    }
     if values:
-        percentiles = {
-            'p25': float(np.percentile(values, 25)),
-            'p50': float(np.percentile(values, 50)),
-            'p75': float(np.percentile(values, 75)),
-        }
+        percentiles.update(
+            {
+                'p25': float(np.percentile(values, 25)),
+                'p50': float(np.percentile(values, 50)),
+                'p75': float(np.percentile(values, 75)),
+            }
+        )
     return percentiles
 
 def main():
