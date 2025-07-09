@@ -13,3 +13,15 @@ Ensure that the `SINCERA_API_KEY` environment variable is available (for example
 ## Reference sellers lists
 
 On every merge into `main`, a GitHub Actions workflow downloads the latest `sellers.json` files from SheMedia, CafeMedia, and Mediavine. The files are committed to the `reference_sellers_lists/` directory.
+
+### Sampling publisher A2CR
+
+The `sample_a2cr.py` script takes random samples from CafeMedia and
+Mediavine `sellers.json` files, fetches A2CR data for each domain from
+OpenSincera and writes the responses to the `output/` directory.  The
+script requires the `SINCERA_API_KEY` environment variable and Python
+packages `requests` and `numpy`.
+
+```bash
+SINCERA_API_KEY=your_token python scripts/sample_a2cr.py
+```
