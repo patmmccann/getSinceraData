@@ -11,5 +11,5 @@ curl -sfSL -H "Authorization: Bearer ${SINCERA_API_KEY}" "$API_URL" -o data_outp
 ls -l data_output/ecosystem.json
 
 if [[ -n "${AWS_BUCKET_NAME:-}" ]]; then
-  aws s3 cp data_output/ecosystem.json "s3://${AWS_BUCKET_NAME}/ecosystem.json"
+  aws s3 cp data_output/ecosystem.json "s3://${AWS_BUCKET_NAME}/ecosystem/ecosystem.json"
 fi
