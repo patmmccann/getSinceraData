@@ -29,7 +29,7 @@ jobs:
           bash scripts/fetch_sincera_data.sh
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: sincera-ecosystem-data
           path: output/ecosystem_data.json
