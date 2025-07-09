@@ -6,6 +6,9 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   update-sellers:
     if: github.event.pull_request.merged == true
