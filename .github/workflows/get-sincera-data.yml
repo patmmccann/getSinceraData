@@ -28,8 +28,8 @@ jobs:
         run: |
           bash scripts/fetch_sincera_data.sh
 
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: sincera-ecosystem-data
-          path: output/ecosystem_data.json
+      - name: Upload to S3
+        env:
+          AWS_BUCKET_NAME: ${{ secrets.AWS_BUCKET_NAME }}
+        run: |
+          aws s3 cp output/ecosystem_data.json "s3://${AWS_BUCKET_NAME}/ecosystem_data.json"
