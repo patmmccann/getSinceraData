@@ -46,7 +46,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           if git status --porcelain | grep .; then
-            git add reference_sellers_lists/*.json ecosystem/ecosystem.json raw_ac2r/* ac2r_analysis/*
+            git add reference_sellers_lists/*.json output/ecosystem/ecosystem.json output/raw_ac2r/* output/ac2r_analysis/*
             git commit -m "Update sellers lists and data output"
             git push
           else

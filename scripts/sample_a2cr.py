@@ -15,8 +15,8 @@ def list_sellers_files():
         if f.endswith('.json')
     ]
 API_URL = 'https://open.sincera.io/api/publishers'
-RAW_OUTPUT_DIR = 'raw_ac2r'
-ANALYSIS_DIR = 'ac2r_analysis'
+RAW_OUTPUT_DIR = os.path.join('output', 'raw_ac2r')
+ANALYSIS_DIR = os.path.join('output', 'ac2r_analysis')
 
 API_KEY = os.environ.get('SINCERA_API_KEY')
 
