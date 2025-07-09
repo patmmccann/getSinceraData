@@ -9,3 +9,7 @@ Ensure that the `SINCERA_API_KEY` environment variable is available (for example
 ```bash
 ./scripts/fetch_sincera_data.sh
 ```
+
+## Reference sellers lists
+
+On every merge into `main`, a GitHub Actions workflow downloads the latest `sellers.json` files from SheMedia, CafeMedia, and Mediavine. The files are committed to the `reference_sellers_lists/` directory.
