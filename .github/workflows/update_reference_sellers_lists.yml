@@ -19,6 +19,12 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ secrets.AWS_ROLE_TO_ASSUME }}
+          aws-region: us-east-1
+
       - name: Fetch sellers.json files
         run: |
           mkdir -p reference_sellers_lists
@@ -31,12 +37,14 @@ jobs:
       - name: Fetch Sincera ecosystem data
         env:
           SINCERA_API_KEY: ${{ secrets.SINCERA_API_KEY }}
+          AWS_BUCKET_NAME: ${{ secrets.AWS_BUCKET_NAME }}
         run: |
           bash scripts/fetch_sincera_data.sh
 
       - name: Sample A2CR data
         env:
           SINCERA_API_KEY: ${{ secrets.SINCERA_API_KEY }}
+          AWS_BUCKET_NAME: ${{ secrets.AWS_BUCKET_NAME }}
         run: |
           pip install requests numpy
           python scripts/sample_a2cr.py

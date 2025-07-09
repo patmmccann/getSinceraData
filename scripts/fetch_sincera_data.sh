@@ -15,5 +15,5 @@ python3 -m json.tool output/ecosystem/ecosystem.json \
 ls -l output/ecosystem/ecosystem.json
 
 if [[ -n "${AWS_BUCKET_NAME:-}" ]]; then
-  aws s3 cp output/ecosystem/ecosystem.json "s3://${AWS_BUCKET_NAME}/ecosystem/ecosystem.json"
+  bash "$(dirname "$0")/sync_output_to_s3.sh"
 fi
