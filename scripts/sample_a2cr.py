@@ -8,7 +8,7 @@ import numpy as np
 CAFEMEDIA_URL = 'https://ads.cafemedia.com/sellers.json'
 MEDIAVINE_URL = 'https://www.mediavine.com/sellers.json'
 API_URL = 'https://open.sincera.io/api/publishers'
-OUTPUT_DIR = 'output'
+OUTPUT_DIR = 'data_output'
 
 API_KEY = os.environ.get('SINCERA_API_KEY')
 
