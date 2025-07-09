@@ -25,6 +25,8 @@ jobs:
           curl -fSL https://ads.shemedia.com/sellers.json -o reference_sellers_lists/sellers_shemedia.json
           curl -fSL https://ads.cafemedia.com/sellers.json -o reference_sellers_lists/sellers_cafemedia.json
           curl -fSL https://www.mediavine.com/sellers.json -o reference_sellers_lists/sellers_mediavine.json
+          curl -fSL https://freestar.com/sellers.json -o reference_sellers_lists/sellers_freestar.json
+          curl -fSL https://www.aditude.com/sellers.json -o reference_sellers_lists/sellers_aditude.json
 
       - name: Fetch Sincera ecosystem data
         env:
