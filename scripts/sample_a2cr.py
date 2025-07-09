@@ -5,8 +5,9 @@ import json
 import requests
 import numpy as np
 
-CAFEMEDIA_URL = 'https://ads.cafemedia.com/sellers.json'
-MEDIAVINE_URL = 'https://www.mediavine.com/sellers.json'
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+CAFEMEDIA_FILE = os.path.join(BASE_DIR, 'reference_sellers_lists', 'sellers_cafemedia.json')
+MEDIAVINE_FILE = os.path.join(BASE_DIR, 'reference_sellers_lists', 'sellers_mediavine.json')
 API_URL = 'https://open.sincera.io/api/publishers'
 OUTPUT_DIR = 'output'
 
@@ -17,8 +18,9 @@ if API_KEY is None:
 
 HEADERS = {'Authorization': f'Bearer {API_KEY}'}
 
-def load_domains(url: str):
-    data = requests.get(url, timeout=30).json()
+def load_domains(path: str):
+    with open(path, 'r') as f:
+        data = json.load(f)
     domains = [s.get('domain') for s in data.get('sellers', []) if s.get('domain')]
     return list(set(domains))
 
@@ -34,8 +36,8 @@ def fetch_a2cr(domain: str):
     data = resp.json()
     return data.get('avg_ads_to_content_ratio'), data
 
-def process_group(url: str, name: str):
-    domains = load_domains(url)
+def process_group(path: str, name: str):
+    domains = load_domains(path)
     sample = sample_domains(domains)
     results = {}
     for d in sample:
@@ -56,8 +58,8 @@ def process_group(url: str, name: str):
     return percentiles
 
 def main():
-    cafe_stats = process_group(CAFEMEDIA_URL, 'cafemedia')
-    mediavine_stats = process_group(MEDIAVINE_URL, 'mediavine')
+    cafe_stats = process_group(CAFEMEDIA_FILE, 'cafemedia')
+    mediavine_stats = process_group(MEDIAVINE_FILE, 'mediavine')
     summary = {
         'cafemedia_percentiles': cafe_stats,
         'mediavine_percentiles': mediavine_stats,
