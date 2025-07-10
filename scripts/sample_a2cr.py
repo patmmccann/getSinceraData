@@ -85,19 +85,37 @@ def process_group(path: str, name: str):
     with open(result_file, 'w') as f:
         json.dump(results, f, indent=2)
     # sync will handle uploading this file if AWS_BUCKET_NAME is set
-    values = [r['a2cr'] for r in results.values() if r['a2cr'] is not None]
-    percentiles = {
-        'n': len(values),
+    def calc(values):
+        stats = {'n': len(values)}
+        if values:
+            stats.update(
+                {
+                    'p25': float(np.percentile(values, 25)),
+                    'p50': float(np.percentile(values, 50)),
+                    'p75': float(np.percentile(values, 75)),
+                }
+            )
+        return stats
+
+    values_a2cr = [r['a2cr'] for r in results.values() if r['a2cr'] is not None]
+    values_tsp = [
+        r['response'].get('total_supply_paths')
+        for r in results.values()
+        if isinstance(r['response'], dict)
+        and r['response'].get('total_supply_paths') is not None
+    ]
+    values_apw = [
+        r['response'].get('avg_page_weight')
+        for r in results.values()
+        if isinstance(r['response'], dict)
+        and r['response'].get('avg_page_weight') is not None
+    ]
+
+    return {
+        'a2cr': calc(values_a2cr),
+        'total_supply_paths': calc(values_tsp),
+        'avg_page_weight': calc(values_apw),
     }
-    if values:
-        percentiles.update(
-            {
-                'p25': float(np.percentile(values, 25)),
-                'p50': float(np.percentile(values, 50)),
-                'p75': float(np.percentile(values, 75)),
-            }
-        )
-    return percentiles
 
 def main():
     summary = {}
