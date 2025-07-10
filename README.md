@@ -12,7 +12,7 @@ Ensure that the `SINCERA_API_KEY` environment variable is available (for example
 ```
 
 ## Reference sellers lists
-When the `trigger_data_pull.txt` file changes on `main`, a GitHub Actions workflow downloads the latest `sellers.json` files from SheMedia, CafeMedia, Mediavine, Freestar, and Aditude. The files are committed to the `reference_sellers_lists/` directory.
+When the `trigger_data_pull.txt` file changes on `main`, a GitHub Actions workflow downloads the latest `sellers.json` files from SheMedia, CafeMedia, Mediavine, Freestar, Aditude, and Playwire. The files are committed to the `reference_sellers_lists/` directory.
 
 To trigger the data pull, edit `trigger_data_pull.txt` and change the value after `last_pull =` to a new date or version, for example:
 
