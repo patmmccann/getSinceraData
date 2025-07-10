@@ -7,7 +7,6 @@ from collections import deque
 
 import requests
 import numpy as np
-import subprocess
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SELLERS_DIR = os.path.join(BASE_DIR, 'reference_sellers_lists')
@@ -21,8 +20,6 @@ def list_sellers_files():
 API_URL = 'https://open.sincera.io/api/publishers'
 RAW_OUTPUT_DIR = os.path.join('output', 'raw_ac2r')
 ANALYSIS_DIR = os.path.join('output', 'ac2r_analysis')
-AWS_BUCKET_NAME = os.environ.get('AWS_BUCKET_NAME')
-AWS_ROLE_TO_ASSUME = os.environ.get('AWS_ROLE_TO_ASSUME')
 
 API_KEY = os.environ.get('SINCERA_API_KEY')
 
@@ -76,13 +73,6 @@ def respect_rate_limits() -> None:
     _REQUESTS_TODAY += 1
 
 
-def sync_output() -> None:
-    """Sync the entire output directory to S3 if bucket and role are set."""
-    if not AWS_BUCKET_NAME or not AWS_ROLE_TO_ASSUME:
-        return
-    script = os.path.join(os.path.dirname(__file__), 'sync_output_to_s3.sh')
-    subprocess.run(["bash", script], check=True)
-
 def load_domains(path: str):
     with open(path, 'r') as f:
         data = json.load(f)
@@ -132,7 +122,6 @@ def process_group(path: str, name: str):
     result_file = os.path.join(RAW_OUTPUT_DIR, f'{name}_results.json')
     with open(result_file, 'w') as f:
         json.dump(results, f, indent=2)
-    # sync will handle uploading this file if AWS_BUCKET_NAME is set
     def calc(values):
         stats = {'n': len(values)}
         if values:
