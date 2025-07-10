@@ -1,656 +1,5 @@
 {
-  "jetsetterjournals.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "tri-cityherald.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "autismpartnershipfoundation.org": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "racingdudes.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "publir.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "jambase.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "listchallenges.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "travelreveal.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "chiefsfocus.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "conservativeactionalerts.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "wheregoes.com ": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "minecraftshader.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "game.tv": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "popctrivia.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "ads.garticphone.io": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "destinyrecipes.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "onlymomsknow.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "memes.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "pepperdeals.se": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "thedailyentertainment.in": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "kansas.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "huskermax.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "travelsupermarket.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "gamepix.com ": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "drivewaydreams.com ": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "thecollegefix.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "onthisday.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "my.funfactfeed.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "diply.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "motortrend.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "newsonyx.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "teamblind.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "oceanygame.com ": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "gamesyy.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "pepper.pl": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "thedailyupside.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "discord-ads.mobinozer.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "breakingmuscle.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "c-span.org": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "chat.direqt.ai": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "sudokuwiki.org": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "glensidelocal.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "rockytopinsider.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "discordads.bloxd.io": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "gamersberg.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "chatib.us": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "gocomics.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "thelibertydaily.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "famvia.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "yardbarker.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "notthebee.com ": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "tik.warpfrontarena.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "pepper.it": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "uncrate.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "neopets.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "choicehotelswifi.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "equibase.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "jdpower.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "unboxword.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "feathermc.com ": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "amazinggamesnetwork.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "endeared.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "pgatour.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "hollywoodteatalk.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "mydramalist.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "blitz.gg": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "obsev.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "kkfm.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "dailywire.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "chollometro.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "statmuse.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "financefinest.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "thedailyquiz.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "moneywise.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "icelolly.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "sweepstakesfanatics.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "thepostmillennial.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "liquipedia.net": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "mydealz.de": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "vikatan.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "tusksearch.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "magma.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "talentrecap.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "familiakitchen.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "soundcloud.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "conservativenewsfeed.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "getemoji.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "tradera.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "blackenterprise.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "rainberry.tv": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "pregged.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "plex.tv ": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "runeforge.io": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "preisjaeger.at": {
+  "studentdoctor.net": {
     "a2cr": null,
     "response": {
       "error": "max retries exceeded",
@@ -664,28 +13,119 @@
       "status_code": 429
     }
   },
-  "archpaper.com": {
+  "thepostmillennial.com": {
     "a2cr": null,
     "response": {
       "error": "max retries exceeded",
       "status_code": 429
     }
   },
-  "hotukdeals.com": {
+  "myjoyonline.com": {
     "a2cr": null,
     "response": {
       "error": "max retries exceeded",
       "status_code": 429
     }
   },
-  "emojipedia.org": {
+  "listchallenges.com": {
     "a2cr": null,
     "response": {
       "error": "max retries exceeded",
       "status_code": 429
     }
   },
-  "helltides.com": {
+  "minecraftshader.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "onthisday.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "drivewaydreams.com ": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "talentrecap.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "perezhilton.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "modrinth.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "dealabs.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "kansas.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "butwhytho.net": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "familiakitchen.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "rentalhousingdeals.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "vikatan.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "mydealz.de": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "tri-cityherald.com": {
     "a2cr": null,
     "response": {
       "error": "max retries exceeded",

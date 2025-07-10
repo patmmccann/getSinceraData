@@ -1,26 +1,96 @@
 {
-  "kaneskitchenaffair.com": {
+  "smashedpeasandcarrots.com": {
     "a2cr": null,
     "response": {
       "error": "max retries exceeded",
       "status_code": 429
     }
   },
-  "theybf.com": {
+  "tasteofrecipe.net": {
     "a2cr": null,
     "response": {
       "error": "max retries exceeded",
       "status_code": 429
     }
   },
-  "helenridgeway.com": {
+  "kateabroad.com": {
     "a2cr": null,
     "response": {
       "error": "max retries exceeded",
       "status_code": 429
     }
   },
-  "abeemadeit.com": {
+  "yoquierodineropodcast.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "thebeautraveler.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "thesassybarn.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "acorkforkandpassport.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "embracingchaoswithlove.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "maplewoodroad.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "newwaveknitting.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "habitualbalance.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "opendoorsopenhearts.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "momcollective.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "undiscoveredpathhome.com": {
     "a2cr": null,
     "response": {
       "error": "max retries exceeded",
@@ -34,665 +104,35 @@
       "status_code": 429
     }
   },
-  "musthavestationery.com": {
+  "puckermob.com": {
     "a2cr": null,
     "response": {
       "error": "max retries exceeded",
       "status_code": 429
     }
   },
-  "hipmamasplace.com": {
+  "amotherworld.com": {
     "a2cr": null,
     "response": {
       "error": "max retries exceeded",
       "status_code": 429
     }
   },
-  "cedarhomestead.com": {
+  "thedairyfreemenu.com": {
     "a2cr": null,
     "response": {
       "error": "max retries exceeded",
       "status_code": 429
     }
   },
-  "inthebagkidscrafts.com": {
+  "themofochronicles.com": {
     "a2cr": null,
     "response": {
       "error": "max retries exceeded",
       "status_code": 429
     }
   },
-  "paigemindsthegap.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "karaspartyideas.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "indrewsshoes.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "livedreamdiscover.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "canthardlydress.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "sharinglifeandlove.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "sprucingupmamahood.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "thewhiskyadventures.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "lowdoughfamily.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "sprinklesandscribbles.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "themintchipmama.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "publiclivessecretrecipes.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "courtneywarren.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "californiawayfaring.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "organicbeautylover.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "ellasbetterbakes.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "sachaeats.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "thatssomontessori.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "straightgoodsmotherhood.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "simplepartyfood.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "ericafinds.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "myeclecticbites.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "lericettediangela.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "siempreevolving.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "simplelivingrecipes.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "naturalchow.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "howdyfox.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "abqmom.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "gaynycdad.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "shaneatrajonesspeaks.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "easyhomemadelife.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "asocialnomad.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "dixielincolnnichols.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "abbyshearth.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "carlakiley.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "travelingfoundlove.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "jenniferperkins.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "astrollthrulife.net": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "itsahero.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "imfixintoblog.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "bcmom.ca": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "worldbyisa.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "blendofspicesbysara.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "childrenofwanderlust.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "themamaontherocks.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "gardenandgracedesign.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "youlove2see.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "lifewiththelokeys.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "xoxokaymo.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "ginabearsblog.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "frogmom.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "stealherstyle.net": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "wikimon.net": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "swistle.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "simplysheenamarie.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "pghlesbian.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "cookinginmygenes.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "bucketsofyum.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "societemag.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "kaylazenner.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "hipgrandmalife.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "annasherchand.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "athenasangulo.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "benzinga.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "snow-forecast.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "askellyn.ai": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "thenerdyme.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "wellreadtravels.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "pinkpickleball.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "kneadtocook.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "ntvbmedia.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "anchoredinelegance.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "amandahaascooks.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "beauty4free2u.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "wattpad.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "playwire.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "addictedtotahini.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "helloambi.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "sensiblysara.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "ladymarielle.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "periodicadventures.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "foodzesty.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "thehealthyhomecook.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "truestarmedia.org": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "celestible.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "blitz.gg": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "whyrustalkingme.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "girlsthatcreate.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "definingmyessence.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "cookcookgo.com": {
-    "a2cr": null,
-    "response": {
-      "error": "max retries exceeded",
-      "status_code": 429
-    }
-  },
-  "styleandsociety.com": {
+  "avintagesplendor.com": {
     "a2cr": null,
     "response": {
       "error": "max retries exceeded",
