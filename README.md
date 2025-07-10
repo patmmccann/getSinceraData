@@ -10,6 +10,9 @@ Ensure that the `SINCERA_API_KEY` environment variable is available (for example
 ```bash
 ./scripts/fetch_sincera_data.sh
 ```
+## Visualization
+
+The github action deploys data back to this repo, which https://getsinceradata.streamlit.app/ points at.
 
 ## Reference sellers lists
 When the `trigger_data_pull.txt` file changes on `main`, a GitHub Actions workflow downloads the latest `sellers.json` files from SheMedia, CafeMedia, Mediavine, Freestar, and Aditude. The files are committed to the `reference_sellers_lists/` directory.
