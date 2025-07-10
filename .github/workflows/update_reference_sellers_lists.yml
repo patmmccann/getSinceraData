@@ -21,7 +21,6 @@ jobs:
           fetch-depth: 0
 
       - name: Configure AWS credentials
-        if: ${{ secrets.AWS_ROLE_TO_ASSUME != '' && secrets.AWS_BUCKET_NAME != '' }}
         uses: aws-actions/configure-aws-credentials@v2
         with:
           role-to-assume: ${{ secrets.AWS_ROLE_TO_ASSUME }}
@@ -54,7 +53,6 @@ jobs:
         env:
           SINCERA_API_KEY: ${{ secrets.SINCERA_API_KEY }}
           AWS_BUCKET_NAME: ${{ secrets.AWS_BUCKET_NAME }}
-          AWS_ROLE_TO_ASSUME: ${{ secrets.AWS_ROLE_TO_ASSUME }}
         run: |
           bash scripts/fetch_sincera_data.sh
 
@@ -76,7 +74,6 @@ jobs:
         env:
           SINCERA_API_KEY: ${{ secrets.SINCERA_API_KEY }}
           AWS_BUCKET_NAME: ${{ secrets.AWS_BUCKET_NAME }}
-          AWS_ROLE_TO_ASSUME: ${{ secrets.AWS_ROLE_TO_ASSUME }}
         run: |
           pip install requests numpy
           python scripts/sample_a2cr.py
