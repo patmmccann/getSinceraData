@@ -176,7 +176,7 @@ def main():
     summary_file = os.path.join(ANALYSIS_DIR, 'summary.json')
     with open(summary_file, 'w') as f:
         json.dump(summary, f, indent=2)
-    sync_output()
+
 
     print(json.dumps(summary, indent=2))
 
