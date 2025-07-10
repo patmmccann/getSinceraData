@@ -1,2527 +1,702 @@
 {
-  "thedailyquiz.com": {
-    "a2cr": 0.12041,
-    "response": {
-      "publisher_id": 376725,
-      "name": "The Daily Quiz",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "thedailyquiz.com",
-      "pub_description": "TheDailyQuiz.com offers a daily dose of engaging and thought-provoking quizzes to challenge and entertain. Test your knowledge across a wide range of topics, from science and history to pop culture and more. Join our community of curious minds and make learning a daily adventure. Elevate your intellect, one quiz at a time, with TheDailyQuiz.com.",
-      "categories": [
-        "Pop Culture",
-        "Entertainment",
-        "Genres",
-        "Business and Finance",
-        "Television",
-        "Humor and Satire"
-      ],
-      "slug": "thedailyquiz-com",
-      "avg_ads_to_content_ratio": 0.12041,
-      "avg_ads_in_view": 1.61063,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 140,
-      "id_absorption_rate": 0.938,
-      "avg_page_weight": 9.9639,
-      "avg_cpu": 54.1304,
-      "total_supply_paths": 1188,
-      "reseller_count": 938,
-      "owner_domain": "thedailyquiz.com",
-      "updated_at": "2025-06-28T00:40:00.659Z"
-    }
-  },
-  "labymod.net": {
+  "jetsetterjournals.com": {
     "a2cr": null,
     "response": {
-      "publisher_id": 215249,
-      "name": "labymod.net",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "labymod.net",
-      "pub_description": "LabyMod - An all in one Minecraft modification to upgrade your gaming experience to the next level",
-      "categories": null,
-      "slug": "labymod-net",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 0,
-      "id_absorption_rate": null,
-      "avg_page_weight": 10.2404,
-      "avg_cpu": 100.6259,
-      "total_supply_paths": 0,
-      "reseller_count": null,
-      "owner_domain": null,
-      "updated_at": "2025-07-04T01:03:40.305Z"
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   },
-  "Arena.im": {
+  "tri-cityherald.com": {
     "a2cr": null,
     "response": {
-      "error": "{}",
-      "status_code": 404
-    }
-  },
-  "my.funfactfeed.com": {
-    "a2cr": null,
-    "response": {
-      "error": "{}",
-      "status_code": 404
-    }
-  },
-  "conservativeactionalerts.com": {
-    "a2cr": 0.18455,
-    "response": {
-      "publisher_id": 405308,
-      "name": "Conservative Action Alerts",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "conservativeactionalerts.com",
-      "pub_description": "...",
-      "categories": [],
-      "slug": "conservativeactionalerts",
-      "avg_ads_to_content_ratio": 0.18455,
-      "avg_ads_in_view": 1.51296,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 12,
-      "id_absorption_rate": null,
-      "avg_page_weight": 1.2651,
-      "avg_cpu": 36.1299,
-      "total_supply_paths": 195,
-      "reseller_count": 181,
-      "owner_domain": null,
-      "updated_at": "2025-03-17T03:10:40.023Z"
-    }
-  },
-  "plex.tv ": {
-    "a2cr": null,
-    "response": {
-      "error": "{}",
-      "status_code": 404
-    }
-  },
-  "moneywise.com": {
-    "a2cr": 0.18033,
-    "response": {
-      "publisher_id": 59073,
-      "name": "Moneywise",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "moneywise.com",
-      "pub_description": "What is your next financial step? Get expert advice, the latest news and free tools to make smart decisions about mortgages, loans, insurance, investing and more.",
-      "categories": [
-        "Business and Finance",
-        "Personal Finance",
-        "Real Estate",
-        "Careers",
-        "Personal Investing",
-        "Business"
-      ],
-      "slug": "moneywise-com",
-      "avg_ads_to_content_ratio": 0.18033,
-      "avg_ads_in_view": 0.77948,
-      "avg_ad_refresh": 84.054,
-      "total_unique_gpids": 24,
-      "id_absorption_rate": 0.43111111111111106,
-      "avg_page_weight": 1.9252,
-      "avg_cpu": 30.8909,
-      "total_supply_paths": 532,
-      "reseller_count": 393,
-      "owner_domain": null,
-      "updated_at": "2025-07-09T01:03:32.227Z"
-    }
-  },
-  "thedailyupside.com": {
-    "a2cr": 0.21566,
-    "response": {
-      "publisher_id": 400850,
-      "name": "The Daily Upside",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "thedailyupside.com",
-      "pub_description": "Smart, actionable news trusted by millions.",
-      "categories": null,
-      "slug": "thedailyupside",
-      "avg_ads_to_content_ratio": 0.21566,
-      "avg_ads_in_view": 1.54107,
-      "avg_ad_refresh": 48.432,
-      "total_unique_gpids": 178,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 4.6918,
-      "avg_cpu": 18.6655,
-      "total_supply_paths": 165,
-      "reseller_count": 136,
-      "owner_domain": null,
-      "updated_at": "2025-07-04T01:03:48.231Z"
-    }
-  },
-  "huskermax.com": {
-    "a2cr": 0.14138,
-    "response": {
-      "publisher_id": 29825,
-      "name": "HuskerMax",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "huskermax.com",
-      "pub_description": "Nebraska Husker football news, game results, archives, statistics, articles, forums and more. The most complete site online dedicated to Husker fans.",
-      "categories": [
-        "Sports",
-        "Communication",
-        "Genres",
-        "Style & Fashion",
-        "Business and Finance",
-        "American Football",
-        "College Sports",
-        "College Football",
-        "Basketball"
-      ],
-      "slug": "huskermax",
-      "avg_ads_to_content_ratio": 0.14138,
-      "avg_ads_in_view": 1.7946,
-      "avg_ad_refresh": 33.121,
-      "total_unique_gpids": 126,
-      "id_absorption_rate": 0.366,
-      "avg_page_weight": 26.9515,
-      "avg_cpu": 276.2013,
-      "total_supply_paths": 962,
-      "reseller_count": 753,
-      "owner_domain": "huskermax.com",
-      "updated_at": "2025-07-09T01:02:27.448Z"
-    }
-  },
-  "drivewaydreams.com ": {
-    "a2cr": null,
-    "response": {
-      "error": "{}",
-      "status_code": 404
-    }
-  },
-  "neopets.com": {
-    "a2cr": null,
-    "response": {
-      "publisher_id": 21147,
-      "name": "Neopets Shop",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "neopets.com",
-      "pub_description": "Neopets.Com - Virtual Pet Community! Join up for free games, shops, auctions, chat and more!",
-      "categories": null,
-      "slug": "neopets",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 0,
-      "id_absorption_rate": null,
-      "avg_page_weight": 53.0153,
-      "avg_cpu": 19.7263,
-      "total_supply_paths": 1627,
-      "reseller_count": 1158,
-      "owner_domain": "neopets.com",
-      "updated_at": "2025-07-09T01:02:04.412Z"
-    }
-  },
-  "game.tv": {
-    "a2cr": null,
-    "response": {
-      "publisher_id": 441169,
-      "name": "Game TV",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "game.tv",
-      "pub_description": "Play and organize mobile eSports tournaments effortlessly on game.tv, and make money by the power of your content and community. Join us now.",
-      "categories": null,
-      "slug": "game",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 0,
-      "id_absorption_rate": null,
-      "avg_page_weight": 0.0,
-      "avg_cpu": 0.0,
-      "total_supply_paths": 536,
-      "reseller_count": 460,
-      "owner_domain": "now.gg",
-      "updated_at": "2025-07-04T01:03:50.314Z"
-    }
-  },
-  "akrew.com": {
-    "a2cr": null,
-    "response": {
-      "error": "{}",
-      "status_code": 404
-    }
-  },
-  "teamblind.com": {
-    "a2cr": 0.10736,
-    "response": {
-      "publisher_id": 224960,
-      "name": "Blind",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "teamblind.com",
-      "pub_description": "Get the inside scoop from employees on Blind. Join millions of verified professionals to find the latest jobs, salary info, interview experiences, company news and more.",
-      "categories": [
-        "Business and Finance",
-        "Careers",
-        "Sensitive Topics",
-        "Technology & Computing",
-        "Job Search",
-        "Business"
-      ],
-      "slug": "teamblind-com",
-      "avg_ads_to_content_ratio": 0.10736,
-      "avg_ads_in_view": 1.5932,
-      "avg_ad_refresh": 57.934,
-      "total_unique_gpids": 49,
-      "id_absorption_rate": 0.61,
-      "avg_page_weight": 6.0426,
-      "avg_cpu": 29.514,
-      "total_supply_paths": 2384,
-      "reseller_count": 1728,
-      "owner_domain": null,
-      "updated_at": "2025-07-04T01:03:39.977Z"
-    }
-  },
-  "mydealz.de": {
-    "a2cr": 0.07878,
-    "response": {
-      "publisher_id": 170485,
-      "name": "mydealz Magazin",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "mydealz.de",
-      "pub_description": "mydealz \u27a4 Die Shopping-Community mit den besten Angeboten \u2705 Finde t\u00e4glich die hei\u00dfesten Deals & Gutscheine und spare bei deinem n\u00e4chsten Einkauf \u27a4 mydealz.de",
-      "categories": [
-        "Digital Audio",
-        "Software and Applications",
-        "Computer Networking",
-        "Internet",
-        "Genres",
-        "Video Gaming",
-        "PC Games",
-        "Entertainment"
-      ],
-      "slug": "mydealz-de",
-      "avg_ads_to_content_ratio": 0.07878,
-      "avg_ads_in_view": 0.80414,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 2,
-      "id_absorption_rate": 0.9325,
-      "avg_page_weight": 2.761,
-      "avg_cpu": 37.287,
-      "total_supply_paths": 428,
-      "reseller_count": 369,
-      "owner_domain": "pepper.com",
-      "updated_at": "2025-07-04T01:03:38.440Z"
-    }
-  },
-  "rainberry.tv": {
-    "a2cr": null,
-    "response": {
-      "error": "{}",
-      "status_code": 404
-    }
-  },
-  "icelolly.com": {
-    "a2cr": 0.15323,
-    "response": {
-      "publisher_id": 63540,
-      "name": "Icelolly - Florida",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "icelolly.com",
-      "pub_description": "icelolly.com - the best low cost holiday price comparison site. Compare millions of cheap holidays from some of the UK's top travel companies.",
-      "categories": null,
-      "slug": "icelolly-com",
-      "avg_ads_to_content_ratio": 0.15323,
-      "avg_ads_in_view": 1.50115,
-      "avg_ad_refresh": 122.0,
-      "total_unique_gpids": 1,
-      "id_absorption_rate": null,
-      "avg_page_weight": 3.2705,
-      "avg_cpu": 27.0917,
-      "total_supply_paths": 345,
-      "reseller_count": 242,
-      "owner_domain": null,
-      "updated_at": "2025-07-09T01:03:30.343Z"
-    }
-  },
-  "travelsupermarket.com": {
-    "a2cr": 0.14691,
-    "response": {
-      "publisher_id": 248100,
-      "name": "travelsupermarket.com",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "travelsupermarket.com",
-      "pub_description": "Looking for a great travel deal? Compare prices today and save",
-      "categories": [
-        "travel",
-        "Business and Finance",
-        "Travel",
-        "Business",
-        "Travel Locations",
-        "Travel Type"
-      ],
-      "slug": "travelsupermarket-com",
-      "avg_ads_to_content_ratio": 0.14691,
-      "avg_ads_in_view": 1.63262,
-      "avg_ad_refresh": 58.133,
-      "total_unique_gpids": 30,
-      "id_absorption_rate": 0.7333333333333334,
-      "avg_page_weight": 1.1379,
-      "avg_cpu": 17.1648,
-      "total_supply_paths": 600,
-      "reseller_count": 475,
-      "owner_domain": null,
-      "updated_at": "2025-07-04T01:03:41.978Z"
-    }
-  },
-  "westernjournal.com": {
-    "a2cr": 0.16568,
-    "response": {
-      "publisher_id": 37451,
-      "name": "The Western Journal",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "westernjournal.com",
-      "pub_description": "Commentary by The Western Journal",
-      "categories": [
-        "opinion",
-        "Sensitive Topics",
-        "Law",
-        "Politics",
-        "Disasters",
-        "Crime",
-        "Crime & Harmful Acts to Individuals, Society & Human Right Violations",
-        "Political Issues & Policy",
-        "Debated Sensitive Social Issues",
-        "Business and Finance"
-      ],
-      "slug": "westernjournal",
-      "avg_ads_to_content_ratio": 0.16568,
-      "avg_ads_in_view": 1.16115,
-      "avg_ad_refresh": 63.211,
-      "total_unique_gpids": 96,
-      "id_absorption_rate": 0.611,
-      "avg_page_weight": 17.9753,
-      "avg_cpu": 100.2745,
-      "total_supply_paths": 1503,
-      "reseller_count": 1202,
-      "owner_domain": null,
-      "updated_at": "2025-07-09T01:02:53.280Z"
-    }
-  },
-  "archpaper.com": {
-    "a2cr": 0.12328,
-    "response": {
-      "publisher_id": 87590,
-      "name": "The Architect\u2019s Newspaper",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "archpaper.com",
-      "pub_description": "The most authoritative voice on architecture and design in the United States.",
-      "categories": [
-        "Fine Art",
-        "Attractions",
-        "Business and Finance",
-        "Home & Garden",
-        "Design",
-        "Industries",
-        "Business"
-      ],
-      "slug": "www-archpaper-com",
-      "avg_ads_to_content_ratio": 0.12328,
-      "avg_ads_in_view": 1.55123,
-      "avg_ad_refresh": 99.429,
-      "total_unique_gpids": 1,
-      "id_absorption_rate": 0.44,
-      "avg_page_weight": 11.4563,
-      "avg_cpu": 18.2887,
-      "total_supply_paths": 513,
-      "reseller_count": 448,
-      "owner_domain": null,
-      "updated_at": "2025-07-04T01:03:26.851Z"
-    }
-  },
-  "familiakitchen.com": {
-    "a2cr": 0.2027,
-    "response": {
-      "publisher_id": 284315,
-      "name": "Familia Kitchen",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "familiakitchen.com",
-      "pub_description": "Familia Kitchen collects and celebrates authentic Mexican, Puerto Rican, Dominican & all Latino recipes, cooking and favorite family dishes.",
-      "categories": [
-        "Food & Drink",
-        "Sensitive Topics",
-        "Politics",
-        "Technology & Computing",
-        "Medical Health",
-        "Cooking",
-        "World Cuisines",
-        "Healthy Cooking and Eating"
-      ],
-      "slug": "familiakitchen-com",
-      "avg_ads_to_content_ratio": 0.2027,
-      "avg_ads_in_view": 1.57024,
-      "avg_ad_refresh": 32.143,
-      "total_unique_gpids": 2,
-      "id_absorption_rate": null,
-      "avg_page_weight": 7.0163,
-      "avg_cpu": 25.5846,
-      "total_supply_paths": 128,
-      "reseller_count": 98,
-      "owner_domain": null,
-      "updated_at": "2025-07-04T01:03:42.221Z"
-    }
-  },
-  "famvia.com": {
-    "a2cr": null,
-    "response": {
-      "error": "{}",
-      "status_code": 404
-    }
-  },
-  "thelibertydaily.com": {
-    "a2cr": 0.09853,
-    "response": {
-      "publisher_id": 85470,
-      "name": "\ud83d\udd14 The Liberty Daily",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "thelibertydaily.com",
-      "pub_description": "The Conservative Alternative to the Drudge Report",
-      "categories": [
-        "Law",
-        "Politics",
-        "Sensitive Topics",
-        "War and Conflicts",
-        "Political Issues & Policy",
-        "Business and Finance"
-      ],
-      "slug": "thelibertydaily-com",
-      "avg_ads_to_content_ratio": 0.09853,
-      "avg_ads_in_view": 1.3134,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 21,
-      "id_absorption_rate": 0.16142857142857145,
-      "avg_page_weight": 9.2623,
-      "avg_cpu": 31.1068,
-      "total_supply_paths": 2005,
-      "reseller_count": 1431,
-      "owner_domain": null,
-      "updated_at": "2025-07-04T01:03:26.440Z"
-    }
-  },
-  "mydramalist.com": {
-    "a2cr": 0.19744,
-    "response": {
-      "publisher_id": 41055,
-      "name": "MyDramaList",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "mydramalist.com",
-      "pub_description": "Latest K-Drama News, Exclusives, Celebrities, Stars, Gossips and Korean Dramas, Movies, TV Show, Variety Shows, Reviews, Japanese Dramas & Movies Database, Organize, Discover Asian Dramas & Movies",
-      "categories": [
-        "Genres",
-        "Events",
-        "Family and Relationships",
-        "Entertainment",
-        "Business and Finance",
-        "Animation & Anime",
-        "Action/Adventure",
-        "Drama"
-      ],
-      "slug": "mydramalist",
-      "avg_ads_to_content_ratio": 0.19744,
-      "avg_ads_in_view": 2.25132,
-      "avg_ad_refresh": 69.052,
-      "total_unique_gpids": 38,
-      "id_absorption_rate": 0.91,
-      "avg_page_weight": 24.5085,
-      "avg_cpu": 106.7846,
-      "total_supply_paths": 726,
-      "reseller_count": 591,
-      "owner_domain": null,
-      "updated_at": "2025-07-09T01:03:13.773Z"
-    }
-  },
-  "gamesyy.com": {
-    "a2cr": 1.0,
-    "response": {
-      "publisher_id": 393069,
-      "name": "gamesyy",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "gamesyy.com",
-      "pub_description": null,
-      "categories": null,
-      "slug": "gamesyy",
-      "avg_ads_to_content_ratio": 1.0,
-      "avg_ads_in_view": 1.10223,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 1,
-      "id_absorption_rate": null,
-      "avg_page_weight": 1.4875,
-      "avg_cpu": 18.8111,
-      "total_supply_paths": 91,
-      "reseller_count": 83,
-      "owner_domain": null,
-      "updated_at": "2025-07-04T01:03:51.389Z"
-    }
-  },
-  "pepperdeals.se": {
-    "a2cr": 0.11127,
-    "response": {
-      "publisher_id": 420353,
-      "name": "Pepperdeals.se",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "pepperdeals.se",
-      "pub_description": "Pepperdeals.se \u21d2 Sveriges b\u00e4sta community f\u00f6r deals!  \u2705 Skiljer sig fr\u00e5n andra! \u2705 Ett riktigt community d\u00e4r du kan r\u00f6sta, dela och delta! \u2b50\ufe0f",
-      "categories": null,
-      "slug": "pepperdeals",
-      "avg_ads_to_content_ratio": 0.11127,
-      "avg_ads_in_view": 0.93806,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 4,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 1.0905,
-      "avg_cpu": 31.0287,
-      "total_supply_paths": 433,
-      "reseller_count": 372,
-      "owner_domain": "pepper.com",
-      "updated_at": "2025-07-02T10:47:40.116Z"
-    }
-  },
-  "choicehotelswifi.com": {
-    "a2cr": null,
-    "response": {
-      "publisher_id": 185744,
-      "name": "choicehotelswifi.com",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "choicehotelswifi.com",
-      "pub_description": null,
-      "categories": null,
-      "slug": "choicehotelswifi-com",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 0,
-      "id_absorption_rate": null,
-      "avg_page_weight": 0.1719,
-      "avg_cpu": 0.1808,
-      "total_supply_paths": 347,
-      "reseller_count": 303,
-      "owner_domain": null,
-      "updated_at": "2025-07-04T01:03:32.015Z"
-    }
-  },
-  "dealabs.com": {
-    "a2cr": 0.07741,
-    "response": {
-      "publisher_id": 229760,
-      "name": "Dealabs",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "dealabs.com",
-      "pub_description": "\u27a4 Les codes promo et offres actuelles \u2705 Faites les meilleures affaires \u21d2 sur dealabs.com.",
-      "categories": [
-        "Sensitive Topics",
-        "Pop Culture",
-        "Personal Celebrations & Life Events",
-        "Spam or Harmful Content",
-        "Obscenity and Profanity",
-        "Online Piracy",
-        "Style & Fashion",
-        "Medical Health",
-        "Entertainment",
-        "Genres",
-        "Adult & Explicit Sexual Content"
-      ],
-      "slug": "dealabs-com",
-      "avg_ads_to_content_ratio": 0.07741,
-      "avg_ads_in_view": 0.80316,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 1,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 3.0603,
-      "avg_cpu": 35.9675,
-      "total_supply_paths": 428,
-      "reseller_count": 369,
-      "owner_domain": "pepper.com",
-      "updated_at": "2025-07-04T01:03:52.073Z"
-    }
-  },
-  "dailycaller.com": {
-    "a2cr": 0.22723,
-    "response": {
-      "publisher_id": 1492,
-      "name": "The Daily Caller Store",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "dailycaller.com",
-      "pub_description": "The Daily Caller is a 24-hour news publication site providing reporting on politics, world, sports, business, breaking news and more.",
-      "categories": [
-        "news"
-      ],
-      "slug": "dailycaller",
-      "avg_ads_to_content_ratio": 0.22723,
-      "avg_ads_in_view": 2.12085,
-      "avg_ad_refresh": 79.762,
-      "total_unique_gpids": 24,
-      "id_absorption_rate": 0.4927272727272726,
-      "avg_page_weight": 18.1318,
-      "avg_cpu": 237.2342,
-      "total_supply_paths": 627,
-      "reseller_count": 544,
-      "owner_domain": "dailycaller.com",
-      "updated_at": "2025-07-09T01:01:15.584Z"
-    }
-  },
-  "myjoyonline.com": {
-    "a2cr": 0.24361,
-    "response": {
-      "publisher_id": 21719,
-      "name": "MyJoyOnline",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "myjoyonline.com",
-      "pub_description": "Ghana's most comprehensive website. Credible, fearless and independent journalism",
-      "categories": [
-        "Sensitive Topics",
-        "Law",
-        "Politics",
-        "Business and Finance",
-        "Crime & Harmful Acts to Individuals, Society & Human Right Violations",
-        "Business"
-      ],
-      "slug": "myjoyonline",
-      "avg_ads_to_content_ratio": 0.24361,
-      "avg_ads_in_view": 2.50632,
-      "avg_ad_refresh": 54.253,
-      "total_unique_gpids": 19,
-      "id_absorption_rate": 0.67,
-      "avg_page_weight": 16.9136,
-      "avg_cpu": 144.1078,
-      "total_supply_paths": 894,
-      "reseller_count": 723,
-      "owner_domain": null,
-      "updated_at": "2025-07-09T01:02:07.942Z"
-    }
-  },
-  "soundcloud.com": {
-    "a2cr": 0.0273,
-    "response": {
-      "publisher_id": 35843,
-      "name": "SoundCloud",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "soundcloud.com",
-      "pub_description": "Discover and play over 265 million music tracks. Join the world\u2019s largest online community of artists, bands, DJs, and audio creators.",
-      "categories": [
-        "music",
-        "Style & Fashion",
-        "Entertainment",
-        "Music",
-        "Body Art",
-        "World/International Music",
-        "Technology & Computing",
-        "Computing",
-        "Internet",
-        "Web Development"
-      ],
-      "slug": "soundcloud",
-      "avg_ads_to_content_ratio": 0.0273,
-      "avg_ads_in_view": 1.0,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 0,
-      "id_absorption_rate": 0.0,
-      "avg_page_weight": 6.8262,
-      "avg_cpu": 66.9349,
-      "total_supply_paths": 755,
-      "reseller_count": 653,
-      "owner_domain": "soundcloud.com",
-      "updated_at": "2025-07-09T01:02:44.714Z"
-    }
-  },
-  "pepper.pl": {
-    "a2cr": 0.09047,
-    "response": {
-      "publisher_id": 265113,
-      "name": "Pepper.pl",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "pepper.pl",
-      "pub_description": "Pepper to miejsce z najgor\u0119tszymi okazjami. Oceniaj i komentuj je z nasz\u0105 spo\u0142eczno\u015bci\u0105 \u2665 Okazje, kupony, kody rabatowe, b\u0142\u0119dy cenowe na to, czego szukasz \u21d2 smartfon, laptop, konsola, zabawki, moda, dom i ogr\u00f3d, artyku\u0142y spo\u017cywcze\u2026 \u2705 Kupuj w najni\u017cszych cenach i oszcz\u0119dzaj \u2705 Twoja spo\u0142eczno\u015b\u0107 zakupowa \u27a4 Pepper.pl",
-      "categories": null,
-      "slug": "pepper-pl",
-      "avg_ads_to_content_ratio": 0.09047,
-      "avg_ads_in_view": 0.80741,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 1,
-      "id_absorption_rate": 0.9825,
-      "avg_page_weight": 2.5433,
-      "avg_cpu": 46.2309,
-      "total_supply_paths": 420,
-      "reseller_count": 362,
-      "owner_domain": "pepper.com",
-      "updated_at": "2025-07-04T01:03:42.943Z"
-    }
-  },
-  "minecraftshader.com": {
-    "a2cr": 0.1394,
-    "response": {
-      "publisher_id": 245495,
-      "name": "MinecraftShader.com",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "minecraftshader.com",
-      "pub_description": "Sildurs Vibrant Shaders 1.19.1, 1.19 \u2192 1.18.2 is a powerful and reliable Minecraft Shader, to give your Minecraft Fantasy Style graphics.",
-      "categories": [
-        "Technology & Computing",
-        "Video Gaming",
-        "Hobbies & Interests",
-        "Sensitive Topics",
-        "Computing",
-        "Video Game Genres"
-      ],
-      "slug": "minecraftshader-com",
-      "avg_ads_to_content_ratio": 0.1394,
-      "avg_ads_in_view": 1.5363,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 22,
-      "id_absorption_rate": 0.21,
-      "avg_page_weight": 10.3817,
-      "avg_cpu": 47.4006,
-      "total_supply_paths": 733,
-      "reseller_count": 576,
-      "owner_domain": null,
-      "updated_at": "2025-07-04T01:03:45.206Z"
-    }
-  },
-  "thecollegefix.com": {
-    "a2cr": 0.09265,
-    "response": {
-      "publisher_id": 15856,
-      "name": "The College Fix",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "thecollegefix.com",
-      "pub_description": "Original, student-reported. Your daily dose of right-minded news and commentary from across the nation.",
-      "categories": [
-        "Sensitive Topics",
-        "Law",
-        "Education",
-        "Politics",
-        "Debated Sensitive Social Issues"
-      ],
-      "slug": "thecollegefix",
-      "avg_ads_to_content_ratio": 0.09265,
-      "avg_ads_in_view": 0.95183,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 1,
-      "id_absorption_rate": 0.0,
-      "avg_page_weight": 8.5754,
-      "avg_cpu": 25.5177,
-      "total_supply_paths": 356,
-      "reseller_count": 322,
-      "owner_domain": null,
-      "updated_at": "2025-07-09T01:01:56.252Z"
-    }
-  },
-  "discord-ads.lotum.com": {
-    "a2cr": null,
-    "response": {
-      "error": "{}",
-      "status_code": 404
-    }
-  },
-  "dekudeals.com": {
-    "a2cr": 0.21585,
-    "response": {
-      "publisher_id": 206345,
-      "name": "dekudeals.com",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "dekudeals.com",
-      "pub_description": "Deku Deals tracks the prices of Nintendo Switch games on the eShop and at major retailers. Sign up and make a wishlist to get alerted when the games you want go on sale.",
-      "categories": null,
-      "slug": "dekudeals-com",
-      "avg_ads_to_content_ratio": 0.21585,
-      "avg_ads_in_view": 1.5182,
-      "avg_ad_refresh": 43.261,
-      "total_unique_gpids": 8,
-      "id_absorption_rate": 0.5571428571428572,
-      "avg_page_weight": 9.8057,
-      "avg_cpu": 18.7456,
-      "total_supply_paths": 526,
-      "reseller_count": 422,
-      "owner_domain": "www.dekudeals.com",
-      "updated_at": "2025-07-04T01:03:39.498Z"
-    }
-  },
-  "whatifmediagroup.com": {
-    "a2cr": null,
-    "response": {
-      "publisher_id": 200625,
-      "name": "whatifmediagroup.com",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "whatifmediagroup.com",
-      "pub_description": "It's Not Rocket Science,\u00a0It's Data Science. What If you could partner with a performance marketing company you trust? With our secure, proprietary media and marketing channels, we drive consumer acquisition through a combination of AI, first-party data and insights to deliver you more  ...",
-      "categories": [
-        "Business and Finance",
-        "Sensitive Topics",
-        "Politics",
-        "Entertainment",
-        "Real Estate",
-        "Automotive",
-        "Travel",
-        "Political Issues & Policy",
-        "Television",
-        "Internet",
-        "Events",
-        "Technology & Computing",
-        "Computing",
-        "Business",
-        "Industries"
-      ],
-      "slug": "whatifmediagroup-com",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 0,
-      "id_absorption_rate": null,
-      "avg_page_weight": 7.5904,
-      "avg_cpu": 12.4007,
-      "total_supply_paths": 0,
-      "reseller_count": null,
-      "owner_domain": null,
-      "updated_at": "2025-04-06T18:31:35.271Z"
-    }
-  },
-  "westkentuckystar.com": {
-    "a2cr": 0.27979,
-    "response": {
-      "publisher_id": 246085,
-      "name": "West Kentucky Star",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "westkentuckystar.com",
-      "pub_description": "West Kentucky Star's aim is to provide 24/7 constant local information updates for Paducah, western Kentucky and southern Illinois.",
-      "categories": [
-        "Sensitive Topics",
-        "Law",
-        "Science",
-        "Politics",
-        "Business and Finance",
-        "Weather",
-        "Automotive",
-        "Industries",
-        "Business"
-      ],
-      "slug": "westkentuckystar-com",
-      "avg_ads_to_content_ratio": 0.27979,
-      "avg_ads_in_view": 1.66696,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 0,
-      "id_absorption_rate": null,
-      "avg_page_weight": 9.0653,
-      "avg_cpu": 33.0294,
-      "total_supply_paths": 40,
-      "reseller_count": 37,
-      "owner_domain": null,
-      "updated_at": "2025-07-04T01:03:40.960Z"
-    }
-  },
-  "rockytopinsider.com": {
-    "a2cr": 0.19815,
-    "response": {
-      "publisher_id": 159371,
-      "name": "Rocky Top Insider",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "rockytopinsider.com",
-      "pub_description": "Rocky Top Insider is THE digital destination for Vol Nation.",
-      "categories": [
-        "Sports",
-        "Law",
-        "Events",
-        "Personal Finance",
-        "Entertainment",
-        "Technology & Computing",
-        "Careers",
-        "College Sports",
-        "American Football",
-        "College Football",
-        "Basketball"
-      ],
-      "slug": "rockytopinsider-com",
-      "avg_ads_to_content_ratio": 0.19815,
-      "avg_ads_in_view": 1.94484,
-      "avg_ad_refresh": 36.364,
-      "total_unique_gpids": 22,
-      "id_absorption_rate": 0.42111111111111116,
-      "avg_page_weight": 12.4251,
-      "avg_cpu": 67.0544,
-      "total_supply_paths": 968,
-      "reseller_count": 813,
-      "owner_domain": "rockytopinsider.com",
-      "updated_at": "2025-07-04T01:03:38.463Z"
-    }
-  },
-  "memes.com": {
-    "a2cr": null,
-    "response": {
-      "publisher_id": 797,
-      "name": "Memes",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "memes.com",
-      "pub_description": "Memes is your source for the best & newest Memes, Funny Pictures, and hilarious videos. Find memes or make them with our Meme Generator.",
-      "categories": [
-        "entertainment",
-        "Sensitive Topics",
-        "Family and Relationships",
-        "Medical Health",
-        "Events",
-        "Death, Injury, or Military Conflict",
-        "Parenting",
-        "Dating",
-        "Crime"
-      ],
-      "slug": "memes",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 1,
-      "id_absorption_rate": null,
-      "avg_page_weight": 33.06,
-      "avg_cpu": 18.1949,
-      "total_supply_paths": 122,
-      "reseller_count": 104,
-      "owner_domain": null,
-      "updated_at": "2025-07-09T01:01:08.100Z"
-    }
-  },
-  "vikatan.com": {
-    "a2cr": 0.24058,
-    "response": {
-      "publisher_id": 39203,
-      "name": "Vikatan Hindi",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "vikatan.com",
-      "pub_description": "Vikatan is No.1 Tamilnadu news publisher. Vikatan owns Various print magazines like Ananda vikatan, Junior Vikatan, Aval vikatan, Nanayam vikatan, Doctor Vikatan, Vikatan Thadam are published in digital format on vikatan.com",
-      "categories": [
-        "Genres",
-        "Sensitive Topics",
-        "Personal Celebrations & Life Events",
-        "Pop Culture",
-        "History",
-        "Debated Sensitive Social Issues",
-        "Family and Relationships",
-        "Parenting",
-        "Birth",
-        "Parenting Babies and Toddlers"
-      ],
-      "slug": "vikatan",
-      "avg_ads_to_content_ratio": 0.24058,
-      "avg_ads_in_view": 5.12032,
-      "avg_ad_refresh": 30.5,
-      "total_unique_gpids": 299,
-      "id_absorption_rate": 0.22999999999999998,
-      "avg_page_weight": 32.7091,
-      "avg_cpu": 454.9076,
-      "total_supply_paths": 3958,
-      "reseller_count": 2999,
-      "owner_domain": "vikatan.com",
-      "updated_at": "2025-07-09T01:03:04.926Z"
-    }
-  },
-  "tik.warpfrontarena.com": {
-    "a2cr": null,
-    "response": {
-      "error": "{}",
-      "status_code": 404
-    }
-  },
-  "blitz.gg": {
-    "a2cr": 0.07007,
-    "response": {
-      "publisher_id": 59186,
-      "name": "blitz.gg",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "blitz.gg",
-      "pub_description": "Everything you need to win\u2014 all bundled into a revolutionary desktop app powered by AI, and built with professional players.",
-      "categories": null,
-      "slug": "blitz-gg",
-      "avg_ads_to_content_ratio": 0.07007,
-      "avg_ads_in_view": 1.0888,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 7,
-      "id_absorption_rate": 0.21800000000000005,
-      "avg_page_weight": 2.4937,
-      "avg_cpu": 26.6568,
-      "total_supply_paths": 342,
-      "reseller_count": 268,
-      "owner_domain": "blitz.gg",
-      "updated_at": "2025-07-09T01:03:33.383Z"
-    }
-  },
-  "magma.com": {
-    "a2cr": 0.08239,
-    "response": {
-      "publisher_id": 417947,
-      "name": "Magma",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "magma.com",
-      "pub_description": "Looking for inspiration to improve your art? Check out the beautiful drawings on Magma and get painting ideas from drawing together on our shared canvases so you can sketch every day.  ",
-      "categories": null,
-      "slug": "magma",
-      "avg_ads_to_content_ratio": 0.08239,
-      "avg_ads_in_view": 1.1,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 1,
-      "id_absorption_rate": 0.6599999999999999,
-      "avg_page_weight": 3.6194,
-      "avg_cpu": 10.4119,
-      "total_supply_paths": 167,
-      "reseller_count": 129,
-      "owner_domain": "magma.com",
-      "updated_at": "2025-07-04T01:03:49.310Z"
-    }
-  },
-  "helltides.com": {
-    "a2cr": 0.04515,
-    "response": {
-      "publisher_id": 343785,
-      "name": "helltides.com",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "helltides.com",
-      "pub_description": "A Diablo 4 tool to get notifications for upcoming Helltide events and Tortured Gifts of Mysteries Chest locations.",
-      "categories": null,
-      "slug": "helltides-com",
-      "avg_ads_to_content_ratio": 0.04515,
-      "avg_ads_in_view": 1.07869,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 48,
-      "id_absorption_rate": 0.86,
-      "avg_page_weight": 4.473,
-      "avg_cpu": 87.6272,
-      "total_supply_paths": 152,
-      "reseller_count": 85,
-      "owner_domain": "ironweb.gg",
-      "updated_at": "2025-07-04T01:03:47.463Z"
-    }
-  },
-  "butwhytho.net": {
-    "a2cr": 0.20561,
-    "response": {
-      "publisher_id": 337302,
-      "name": "But Why Tho?",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "butwhytho.net",
-      "pub_description": "But Why Tho? is a website dedicated to covering pop culture. We cover news, reviews, and interviews across gaming, comics, film, TV, and more.",
-      "categories": [
-        "Genres",
-        "Video Gaming",
-        "Books and Literature",
-        "Sensitive Topics",
-        "Video Game Genres",
-        "Fantasy",
-        "Entertainment",
-        "Pop Culture",
-        "Movies"
-      ],
-      "slug": "butwhytho-net",
-      "avg_ads_to_content_ratio": 0.20561,
-      "avg_ads_in_view": 1.98724,
-      "avg_ad_refresh": 72.627,
-      "total_unique_gpids": 25,
-      "id_absorption_rate": 0.19444444444444445,
-      "avg_page_weight": 27.4773,
-      "avg_cpu": 150.4449,
-      "total_supply_paths": 50,
-      "reseller_count": 12,
-      "owner_domain": "butwhytho.net",
-      "updated_at": "2025-07-04T01:03:48.338Z"
-    }
-  },
-  "newsonyx.com": {
-    "a2cr": 0.24067,
-    "response": {
-      "publisher_id": 92200,
-      "name": "Newsonyx",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "newsonyx.com",
-      "pub_description": "The premiere source for Black News, Politics and Business.",
-      "categories": [
-        "news",
-        "Sensitive Topics",
-        "Sports",
-        "Crime",
-        "Law",
-        "Education",
-        "Debated Sensitive Social Issues"
-      ],
-      "slug": "www-newsonyx-com",
-      "avg_ads_to_content_ratio": 0.24067,
-      "avg_ads_in_view": 2.83818,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 36,
-      "id_absorption_rate": 0.145,
-      "avg_page_weight": 7.667,
-      "avg_cpu": 199.3403,
-      "total_supply_paths": 596,
-      "reseller_count": 454,
-      "owner_domain": null,
-      "updated_at": "2025-07-03T06:44:19.716Z"
-    }
-  },
-  "promodescuentos.com": {
-    "a2cr": 0.12209,
-    "response": {
-      "publisher_id": 179688,
-      "name": "Promodescuentos",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "promodescuentos.com",
-      "pub_description": "Todos los d\u00edas publicamos las mejores ofertas \u2705 promociones y descuentos en M\u00e9xico de las principales tiendas \u2705 Informamos, no vendemos \u27a4 Promodescuentos.",
-      "categories": null,
-      "slug": "promodescuentos-com",
-      "avg_ads_to_content_ratio": 0.12209,
-      "avg_ads_in_view": 1.50443,
-      "avg_ad_refresh": 57.679,
-      "total_unique_gpids": 31,
-      "id_absorption_rate": 0.8566666666666668,
-      "avg_page_weight": 5.7034,
-      "avg_cpu": 146.4355,
-      "total_supply_paths": 428,
-      "reseller_count": 369,
-      "owner_domain": "pepper.com",
-      "updated_at": "2025-07-04T01:03:30.557Z"
-    }
-  },
-  "destinyrecipes.com": {
-    "a2cr": null,
-    "response": {
-      "publisher_id": 415631,
-      "name": "destinyrecipes",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "destinyrecipes.com",
-      "pub_description": "A collection of tools for Destiny 2. Destiny Recipes contains tools like the pre season checklist, a Vault Cleaner and a Loot Companion.",
-      "categories": null,
-      "slug": "destinyrecipes",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 0,
-      "id_absorption_rate": 0.0,
-      "avg_page_weight": 2.897,
-      "avg_cpu": 15.277,
-      "total_supply_paths": 167,
-      "reseller_count": 129,
-      "owner_domain": "wago.io",
-      "updated_at": "2025-07-04T01:03:55.439Z"
-    }
-  },
-  "liquipedia.net": {
-    "a2cr": 0.15117,
-    "response": {
-      "publisher_id": 37247,
-      "name": "Liquipedia",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "liquipedia.net",
-      "pub_description": "The esports wiki, the best resource for live updated results, tournament overview, team and player profiles, game information, and more...",
-      "categories": [
-        "Sports",
-        "Video Gaming",
-        "Events",
-        "Entertainment",
-        "eSports"
-      ],
-      "slug": "liquipedia",
-      "avg_ads_to_content_ratio": 0.15117,
-      "avg_ads_in_view": 1.86921,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 26,
-      "id_absorption_rate": 0.0,
-      "avg_page_weight": 7.3162,
-      "avg_cpu": 14.5562,
-      "total_supply_paths": 474,
-      "reseller_count": 373,
-      "owner_domain": "liquipedia.net",
-      "updated_at": "2025-07-09T01:02:50.332Z"
-    }
-  },
-  "uncrate.com": {
-    "a2cr": null,
-    "response": {
-      "publisher_id": 37778,
-      "name": "Uncrate",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "uncrate.com",
-      "pub_description": "The original buyer's guide for men, filled with the world's best gear, apparel, and automobiles.",
-      "categories": [
-        "Shopping",
-        "Automotive",
-        "Style & Fashion",
-        "Food & Drink",
-        "Business and Finance",
-        "Technology & Computing"
-      ],
-      "slug": "uncrate",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": 126.286,
-      "total_unique_gpids": 1,
-      "id_absorption_rate": 0.9266666666666667,
-      "avg_page_weight": 7.4555,
-      "avg_cpu": 12.9497,
-      "total_supply_paths": 425,
-      "reseller_count": 368,
-      "owner_domain": null,
-      "updated_at": "2025-07-09T01:02:57.587Z"
-    }
-  },
-  "equibase.com": {
-    "a2cr": 0.11614,
-    "response": {
-      "publisher_id": 30965,
-      "name": "Equibase Media Kit",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "equibase.com",
-      "pub_description": "Free email notification service including horse, jockey, trainer & track notices along with stakes notifications for Thoroughbreds and Quarter Horses.",
-      "categories": null,
-      "slug": "equibase",
-      "avg_ads_to_content_ratio": 0.11614,
-      "avg_ads_in_view": 1.55097,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 7,
-      "id_absorption_rate": null,
-      "avg_page_weight": 3.9401,
-      "avg_cpu": 10.8154,
-      "total_supply_paths": 748,
-      "reseller_count": 565,
-      "owner_domain": null,
-      "updated_at": "2025-07-09T01:02:33.572Z"
-    }
-  },
-  "motortrend.com": {
-    "a2cr": 0.21159,
-    "response": {
-      "publisher_id": 2056,
-      "name": "MotorTrend",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "motortrend.com",
-      "pub_description": "Trust MotorTrend for the best car reviews, news, car rankings, and much more. With more than 70 years of experience, we're your home for everything automotive.",
-      "categories": [
-        "automotive",
-        "Automotive",
-        "Sports",
-        "Attractions",
-        "Style & Fashion",
-        "Auto Body Styles",
-        "Auto Type",
-        "Car Culture",
-        "Auto Parts"
-      ],
-      "slug": "motortrend",
-      "avg_ads_to_content_ratio": 0.21159,
-      "avg_ads_in_view": 2.16538,
-      "avg_ad_refresh": 54.06,
-      "total_unique_gpids": 252,
-      "id_absorption_rate": 0.0,
-      "avg_page_weight": 129.2997,
-      "avg_cpu": 224.0356,
-      "total_supply_paths": 118,
-      "reseller_count": 83,
-      "owner_domain": "hearst.com",
-      "updated_at": "2025-07-09T01:01:24.447Z"
-    }
-  },
-  "amazinggamesnetwork.com": {
-    "a2cr": 0.0873,
-    "response": {
-      "publisher_id": 343570,
-      "name": "amazinggamesnetwork.com",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "amazinggamesnetwork.com",
-      "pub_description": "Play HTML5 free games on desktop, android, IOS, mobiles and tablets. Play free card games, free word games, free board and puzzle games.",
-      "categories": null,
-      "slug": "amazinggamesnetwork-com",
-      "avg_ads_to_content_ratio": 0.0873,
-      "avg_ads_in_view": 1.1386,
-      "avg_ad_refresh": 61.25,
-      "total_unique_gpids": 3,
-      "id_absorption_rate": 0.784,
-      "avg_page_weight": 2.176,
-      "avg_cpu": 22.4044,
-      "total_supply_paths": 315,
-      "reseller_count": 276,
-      "owner_domain": null,
-      "updated_at": "2025-07-04T01:03:46.413Z"
-    }
-  },
-  "jambase.com": {
-    "a2cr": 0.23011,
-    "response": {
-      "publisher_id": 44905,
-      "name": "JamBase",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "jambase.com",
-      "pub_description": "Find concerts near you, buy concert tickets, and get news & updates about the bands you love at JamBase.",
-      "categories": [
-        "Events",
-        "Entertainment",
-        "Music",
-        "Technology & Computing",
-        "Business and Finance",
-        "Rock Music"
-      ],
-      "slug": "jambase-com",
-      "avg_ads_to_content_ratio": 0.23011,
-      "avg_ads_in_view": 2.25166,
-      "avg_ad_refresh": 51.094,
-      "total_unique_gpids": 19,
-      "id_absorption_rate": 0.8333333333333334,
-      "avg_page_weight": 15.0692,
-      "avg_cpu": 78.695,
-      "total_supply_paths": 433,
-      "reseller_count": 367,
-      "owner_domain": null,
-      "updated_at": "2025-07-09T01:03:35.319Z"
-    }
-  },
-  "zedge.net": {
-    "a2cr": null,
-    "response": {
-      "publisher_id": 36223,
-      "name": "Zedge",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "zedge.net",
-      "pub_description": "We make it incredibly easy to find and download cool ringtones, wallpapers, and more.",
-      "categories": [
-        "Technology & Computing",
-        "Business and Finance",
-        "Computing",
-        "Business"
-      ],
-      "slug": "zedge-net",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": 58.021,
-      "total_unique_gpids": 2,
-      "id_absorption_rate": 0.8650000000000001,
-      "avg_page_weight": 1.9137,
-      "avg_cpu": 4.0315,
-      "total_supply_paths": 3677,
-      "reseller_count": 3297,
-      "owner_domain": null,
-      "updated_at": "2025-07-09T01:02:46.907Z"
-    }
-  },
-  "9minecraft.net": {
-    "a2cr": 0.29747,
-    "response": {
-      "publisher_id": 150879,
-      "name": "9Minecraft | The Best Resource for Minecraft",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "9minecraft.net",
-      "pub_description": "9Minecraft.net provides a huge amount of minecraft mods, minecraft maps, minecraft resource packs, minecraft data packs, command blocks and much more.",
-      "categories": [
-        "Technology & Computing",
-        "Video Gaming",
-        "Business and Finance",
-        "Automotive",
-        "Hobbies & Interests",
-        "Computing",
-        "Console Games",
-        "Video Game Genres"
-      ],
-      "slug": "9minecraft-net",
-      "avg_ads_to_content_ratio": 0.29747,
-      "avg_ads_in_view": 2.22858,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 2,
-      "id_absorption_rate": null,
-      "avg_page_weight": 9.2242,
-      "avg_cpu": 35.3925,
-      "total_supply_paths": 510,
-      "reseller_count": 419,
-      "owner_domain": "9minecraft.net",
-      "updated_at": "2025-07-04T01:03:27.235Z"
-    }
-  },
-  "bellinghamherald.com": {
-    "a2cr": 0.18865,
-    "response": {
-      "publisher_id": 16679,
-      "name": "The Bellingham Herald",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "bellinghamherald.com",
-      "pub_description": "Read today's latest news, headlines and updates from Bellingham, Washington and the Whatcom County. Stay up to date on crime, politics, local business and the economy.",
-      "categories": [
-        "Food & Drink",
-        "Sports",
-        "Communication",
-        "Business and Finance",
-        "Business"
-      ],
-      "slug": "bellinghamherald",
-      "avg_ads_to_content_ratio": 0.18865,
-      "avg_ads_in_view": 1.85229,
-      "avg_ad_refresh": 66.006,
-      "total_unique_gpids": 219,
-      "id_absorption_rate": 0.385,
-      "avg_page_weight": 13.7917,
-      "avg_cpu": 169.0137,
-      "total_supply_paths": 792,
-      "reseller_count": 572,
-      "owner_domain": "mcclatchy.com",
-      "updated_at": "2025-07-09T01:01:52.845Z"
-    }
-  },
-  "racingdudes.com": {
-    "a2cr": 0.16242,
-    "response": {
-      "publisher_id": 77663,
-      "name": "Racing Dudes",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "racingdudes.com",
-      "pub_description": "From Belmont Park to Saratoga, Racing Dudes is your home for horse racing. Check out our free horse racing picks, horse racing results and news now.",
-      "categories": [
-        "Sports",
-        "Events",
-        "Pets",
-        "Automotive",
-        "Equine Sports",
-        "Auto Racing",
-        "Horse Racing"
-      ],
-      "slug": "racingdudes-com",
-      "avg_ads_to_content_ratio": 0.16242,
-      "avg_ads_in_view": 0.98493,
-      "avg_ad_refresh": 72.105,
-      "total_unique_gpids": 11,
-      "id_absorption_rate": 0.6316666666666667,
-      "avg_page_weight": 14.3537,
-      "avg_cpu": 59.9883,
-      "total_supply_paths": 453,
-      "reseller_count": 398,
-      "owner_domain": null,
-      "updated_at": "2025-07-09T01:03:31.184Z"
-    }
-  },
-  "modrinth.com": {
-    "a2cr": 0.05569,
-    "response": {
-      "publisher_id": 391254,
-      "name": "Modrinth",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "modrinth.com",
-      "pub_description": "Discover and publish Minecraft content!",
-      "categories": null,
-      "slug": "modrinth",
-      "avg_ads_to_content_ratio": 0.05569,
-      "avg_ads_in_view": 0.94764,
-      "avg_ad_refresh": 32.647,
-      "total_unique_gpids": 1,
-      "id_absorption_rate": 0.7666666666666666,
-      "avg_page_weight": 3.3673,
-      "avg_cpu": 32.2089,
-      "total_supply_paths": 389,
-      "reseller_count": 345,
-      "owner_domain": null,
-      "updated_at": "2025-07-04T01:03:52.860Z"
-    }
-  },
-  "listchallenges.com": {
-    "a2cr": 0.12797,
-    "response": {
-      "publisher_id": 38255,
-      "name": "List Challenges",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "listchallenges.com",
-      "pub_description": "Earn points for your life experiences. Find lists that interest you and mark off the things you've done - movies you've seen, books you've read, foods you've eaten, places you've visited and much more.",
-      "categories": [
-        "Entertainment",
-        "Genres",
-        "Technology & Computing",
-        "Sensitive Topics",
-        "Business and Finance",
-        "Movies",
-        "Action/Adventure"
-      ],
-      "slug": "listchallenges",
-      "avg_ads_to_content_ratio": 0.12797,
-      "avg_ads_in_view": 2.02693,
-      "avg_ad_refresh": 67.273,
-      "total_unique_gpids": 27,
-      "id_absorption_rate": 0.91,
-      "avg_page_weight": 8.5343,
-      "avg_cpu": 87.5828,
-      "total_supply_paths": 533,
-      "reseller_count": 456,
-      "owner_domain": null,
-      "updated_at": "2025-07-09T01:03:00.057Z"
-    }
-  },
-  "onlymomsknow.com": {
-    "a2cr": 0.13847,
-    "response": {
-      "publisher_id": 296036,
-      "name": "onlymomsknow.com",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "onlymomsknow.com",
-      "pub_description": "Here at Onlymomsknow we work with mothers form all over the world. We gather the most beautiful and inspiring stories that you MUST see as a mother!",
-      "categories": [
-        "Family and Relationships",
-        "Healthy Living",
-        "Sensitive Topics",
-        "Food & Drink",
-        "Parenting",
-        "Nutrition"
-      ],
-      "slug": "onlymomsknow-com",
-      "avg_ads_to_content_ratio": 0.13847,
-      "avg_ads_in_view": 1.44719,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 3,
-      "id_absorption_rate": null,
-      "avg_page_weight": 13.8107,
-      "avg_cpu": 52.6348,
-      "total_supply_paths": 567,
-      "reseller_count": 497,
-      "owner_domain": null,
-      "updated_at": "2025-03-17T01:54:42.905Z"
-    }
-  },
-  "cinemaxxl.de": {
-    "a2cr": 0.09529,
-    "response": {
-      "publisher_id": 85557,
-      "name": "www.cinemaxxl.de",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "cinemaxxl.de",
-      "pub_description": "Streaming Filme und Serien in HD - Bundesweites Kinoprogramm",
-      "categories": null,
-      "slug": "www-cinemaxxl-de",
-      "avg_ads_to_content_ratio": 0.09529,
-      "avg_ads_in_view": 2.42803,
-      "avg_ad_refresh": 36.789,
-      "total_unique_gpids": 15,
-      "id_absorption_rate": 0.28,
-      "avg_page_weight": 6.794,
-      "avg_cpu": 65.9204,
-      "total_supply_paths": 3645,
-      "reseller_count": 2360,
-      "owner_domain": "cinemaxxl.net",
-      "updated_at": "2025-06-28T02:47:44.115Z"
-    }
-  },
-  "chiefsfocus.com": {
-    "a2cr": null,
-    "response": {
-      "error": "{}",
-      "status_code": 404
-    }
-  },
-  "healthdiscover.com": {
-    "a2cr": null,
-    "response": {
-      "publisher_id": 390773,
-      "name": "Health Discover - Curating content to help you live your best life!",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "healthdiscover.com",
-      "pub_description": "At Health Discover, we curate content about conditions, their causes and symptoms and share tips on how to stay at your healthiest.",
-      "categories": null,
-      "slug": "healthdiscover",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 0,
-      "id_absorption_rate": null,
-      "avg_page_weight": 2.7713,
-      "avg_cpu": 1.8872,
-      "total_supply_paths": 0,
-      "reseller_count": null,
-      "owner_domain": null,
-      "updated_at": "2025-04-15T23:55:21.959Z"
-    }
-  },
-  "wheregoes.com ": {
-    "a2cr": null,
-    "response": {
-      "error": "{}",
-      "status_code": 404
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   },
   "autismpartnershipfoundation.org": {
-    "a2cr": 0.20567,
-    "response": {
-      "publisher_id": 395385,
-      "name": "Autism Partnership Foundation",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "autismpartnershipfoundation.org",
-      "pub_description": null,
-      "categories": null,
-      "slug": "autismpartnershipfoundation",
-      "avg_ads_to_content_ratio": 0.20567,
-      "avg_ads_in_view": 1.71497,
-      "avg_ad_refresh": 42.536,
-      "total_unique_gpids": 15,
-      "id_absorption_rate": 0.15111111111111108,
-      "avg_page_weight": 1.6665,
-      "avg_cpu": 20.725,
-      "total_supply_paths": 529,
-      "reseller_count": 470,
-      "owner_domain": null,
-      "updated_at": "2025-07-04T01:03:56.070Z"
-    }
-  },
-  "massivelyop.com": {
-    "a2cr": 0.2238,
-    "response": {
-      "publisher_id": 152508,
-      "name": "massivelyop.com",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "massivelyop.com",
-      "pub_description": null,
-      "categories": null,
-      "slug": "massivelyop-com",
-      "avg_ads_to_content_ratio": 0.2238,
-      "avg_ads_in_view": 2.56183,
-      "avg_ad_refresh": 77.464,
-      "total_unique_gpids": 21,
-      "id_absorption_rate": 0.21,
-      "avg_page_weight": 12.7959,
-      "avg_cpu": 51.579,
-      "total_supply_paths": 766,
-      "reseller_count": 632,
-      "owner_domain": null,
-      "updated_at": "2025-07-04T01:03:40.790Z"
-    }
-  },
-  "statmuse.com": {
-    "a2cr": 0.09183,
-    "response": {
-      "publisher_id": 167405,
-      "name": "StatMuse",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "statmuse.com",
-      "pub_description": "Instant answers to your NBA, NFL, NHL, MLB, Premier League and PGA questions. Stats, scores, schedules, odds, fantasy and more \u2014 just ask.",
-      "categories": null,
-      "slug": "statmuse-com",
-      "avg_ads_to_content_ratio": 0.09183,
-      "avg_ads_in_view": 1.24147,
-      "avg_ad_refresh": 28.864,
-      "total_unique_gpids": 32,
-      "id_absorption_rate": 0.38899999999999996,
-      "avg_page_weight": 47.9156,
-      "avg_cpu": 129.8438,
-      "total_supply_paths": 509,
-      "reseller_count": 434,
-      "owner_domain": "statmuse.com",
-      "updated_at": "2025-07-04T01:03:37.117Z"
-    }
-  },
-  "emojipedia.org": {
-    "a2cr": 0.28328,
-    "response": {
-      "publisher_id": 30944,
-      "name": "Emojipedia",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "emojipedia.org",
-      "pub_description": "The emoji search engine. A fast emoji search experience with options to browse every emoji by name, category, or platform.",
-      "categories": [
-        "Technology & Computing",
-        "Business and Finance",
-        "Sensitive Topics",
-        "Communication",
-        "Personal Finance",
-        "Video Gaming",
-        "Computing",
-        "Software and Applications"
-      ],
-      "slug": "emojipedia-org",
-      "avg_ads_to_content_ratio": 0.28328,
-      "avg_ads_in_view": 2.14948,
-      "avg_ad_refresh": 25.258,
-      "total_unique_gpids": 144,
-      "id_absorption_rate": 0.44799999999999995,
-      "avg_page_weight": 13.7867,
-      "avg_cpu": 110.8673,
-      "total_supply_paths": 1020,
-      "reseller_count": 711,
-      "owner_domain": "zedge.net",
-      "updated_at": "2025-07-09T01:02:33.502Z"
-    }
-  },
-  "nationalreview.com": {
-    "a2cr": 0.31322,
-    "response": {
-      "publisher_id": 2090,
-      "name": "National Review",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "nationalreview.com",
-      "pub_description": "Leading conservative magazine and website covering news, politics, current events, and culture with detailed analysis and commentary.",
-      "categories": [
-        "Politics",
-        "Law",
-        "Technology & Computing",
-        "Business and Finance",
-        "Political Issues & Policy",
-        "Civic affairs"
-      ],
-      "slug": "national-review",
-      "avg_ads_to_content_ratio": 0.31322,
-      "avg_ads_in_view": 1.81825,
-      "avg_ad_refresh": 83.039,
-      "total_unique_gpids": 229,
-      "id_absorption_rate": 0.31300000000000006,
-      "avg_page_weight": 18.9693,
-      "avg_cpu": 136.2623,
-      "total_supply_paths": 691,
-      "reseller_count": 531,
-      "owner_domain": "nationalreview.com",
-      "updated_at": "2025-07-09T01:01:25.217Z"
-    }
-  },
-  "discordads.bloxd.io": {
     "a2cr": null,
     "response": {
-      "error": "{}",
-      "status_code": 404
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   },
-  "aroundambler.com": {
-    "a2cr": 0.22392,
-    "response": {
-      "publisher_id": 296585,
-      "name": "Around Ambler",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "aroundambler.com",
-      "pub_description": "Local News, Events and Happenings in Ambler, Blue Bell, Fort Washington and Lower Gwynedd PA",
-      "categories": [
-        "Events",
-        "Business and Finance",
-        "Sensitive Topics",
-        "Disasters",
-        "Law",
-        "Communication",
-        "Careers",
-        "Business Expos & Conferences",
-        "Business"
-      ],
-      "slug": "aroundambler-com",
-      "avg_ads_to_content_ratio": 0.22392,
-      "avg_ads_in_view": 2.67885,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 0,
-      "id_absorption_rate": 0.0,
-      "avg_page_weight": 15.4607,
-      "avg_cpu": 32.4355,
-      "total_supply_paths": 381,
-      "reseller_count": 300,
-      "owner_domain": null,
-      "updated_at": "2025-07-03T06:54:17.690Z"
-    }
-  },
-  "perezhilton.com": {
-    "a2cr": 0.28673,
-    "response": {
-      "publisher_id": 28739,
-      "name": "Perez Hilton",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "perezhilton.com",
-      "pub_description": "We guess\u00a0Marques Houston subscribes to the old philosophy that the best defense is a good offense. Because what he just said in defense of his",
-      "categories": [
-        "entertainment",
-        "Family and Relationships",
-        "Pop Culture",
-        "Style & Fashion",
-        "Entertainment",
-        "Celebrity Relationships",
-        "Beauty",
-        "Events"
-      ],
-      "slug": "perezhilton",
-      "avg_ads_to_content_ratio": 0.28673,
-      "avg_ads_in_view": 2.15476,
-      "avg_ad_refresh": 27.282,
-      "total_unique_gpids": 2127,
-      "id_absorption_rate": 0.7142857142857143,
-      "avg_page_weight": 14.3976,
-      "avg_cpu": 399.859,
-      "total_supply_paths": 1002,
-      "reseller_count": 789,
-      "owner_domain": null,
-      "updated_at": "2025-07-09T01:02:25.592Z"
-    }
-  },
-  "pepper.it": {
-    "a2cr": 0.07815,
-    "response": {
-      "publisher_id": 252708,
-      "name": "Pepper.it",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "pepper.it",
-      "pub_description": "Pepper.it \u21d2 La community di offerte N\u00ba1 d'Italia  \u2705 Diversa dalle altre! \u2705 Una comunit\u00e0 reale nella quale potrai votare, condividere e partecipare!  \u2b50\ufe0f",
-      "categories": null,
-      "slug": "pepper-it",
-      "avg_ads_to_content_ratio": 0.07815,
-      "avg_ads_in_view": 0.88172,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 13,
-      "id_absorption_rate": 0.8566666666666666,
-      "avg_page_weight": 2.8158,
-      "avg_cpu": 32.0291,
-      "total_supply_paths": 427,
-      "reseller_count": 369,
-      "owner_domain": "pepper.com",
-      "updated_at": "2025-07-04T01:03:50.806Z"
-    }
-  },
-  "runeforge.io": {
-    "a2cr": 0.19896,
-    "response": {
-      "publisher_id": 375895,
-      "name": "RuneForge",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "runeforge.io",
-      "pub_description": "RuneForge is the platform for League of Legends Custom Skins. It caters to Creators with an ever growing and improving platform for publishing, tools and community.",
-      "categories": [
-        "Technology & Computing",
-        "Video Gaming",
-        "Hobbies & Interests",
-        "Entertainment",
-        "Computing",
-        "Video Game Genres",
-        "Console Games"
-      ],
-      "slug": "runeforge-io",
-      "avg_ads_to_content_ratio": 0.19896,
-      "avg_ads_in_view": 2.94599,
-      "avg_ad_refresh": 28.571,
-      "total_unique_gpids": 13,
-      "id_absorption_rate": 0.8716666666666667,
-      "avg_page_weight": 20.6752,
-      "avg_cpu": 57.7369,
-      "total_supply_paths": 372,
-      "reseller_count": 335,
-      "owner_domain": null,
-      "updated_at": "2025-07-04T01:03:51.497Z"
-    }
-  },
-  "conservativenewsfeed.com": {
+  "racingdudes.com": {
     "a2cr": null,
     "response": {
-      "publisher_id": 76735,
-      "name": "conservativenewsfeed.com",
-      "visit_enabled": true,
-      "status": "redirect",
-      "primary_supply_type": "web",
-      "domain": "conservativenewsfeed.com",
-      "pub_description": "Distilling real news from fake news",
-      "categories": [
-        "news",
-        "Law",
-        "Sensitive Topics",
-        "Politics",
-        "War and Conflicts",
-        "Political Issues & Policy"
-      ],
-      "slug": "conservativenewsfeed-com",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 0,
-      "id_absorption_rate": null,
-      "avg_page_weight": 4.9154,
-      "avg_cpu": 0.0,
-      "total_supply_paths": 0,
-      "reseller_count": null,
-      "owner_domain": null,
-      "updated_at": "2025-03-16T21:22:01.760Z"
-    }
-  },
-  "sweepstakesfanatics.com": {
-    "a2cr": 0.18761,
-    "response": {
-      "publisher_id": 66836,
-      "name": "Sweepstakes Fanatics",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "sweepstakesfanatics.com",
-      "pub_description": "Sweepstakes Fanatics is the #1 site for online sweepstakes and contests. Find, enter, and win high quality sweepstakes!",
-      "categories": [
-        "Food & Drink",
-        "Shopping",
-        "Communication",
-        "Technology & Computing",
-        "Business and Finance",
-        "Events"
-      ],
-      "slug": "sweepstakesfanatics-com",
-      "avg_ads_to_content_ratio": 0.18761,
-      "avg_ads_in_view": 1.4592,
-      "avg_ad_refresh": 44.81,
-      "total_unique_gpids": 36,
-      "id_absorption_rate": 0.6475000000000001,
-      "avg_page_weight": 8.0624,
-      "avg_cpu": 100.6848,
-      "total_supply_paths": 524,
-      "reseller_count": 384,
-      "owner_domain": "sweepstakesfanatics.com",
-      "updated_at": "2025-07-09T01:03:30.860Z"
-    }
-  },
-  "hollywoodteatalk.com": {
-    "a2cr": null,
-    "response": {
-      "error": "{}",
-      "status_code": 404
-    }
-  },
-  "pregged.com": {
-    "a2cr": 0.17253,
-    "response": {
-      "publisher_id": 65988,
-      "name": "Pregged.com",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "pregged.com",
-      "pub_description": "Our fully qualified medical experts answer ALL your questions about pregnancy, getting pregnant, labor, birth and baby without the medical jargon...",
-      "categories": [
-        "Medical Health",
-        "Family and Relationships",
-        "Healthy Living",
-        "Business and Finance",
-        "Diseases and Conditions",
-        "Parenting"
-      ],
-      "slug": "pregged-com",
-      "avg_ads_to_content_ratio": 0.17253,
-      "avg_ads_in_view": 1.20257,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 29,
-      "id_absorption_rate": 0.605,
-      "avg_page_weight": 9.3999,
-      "avg_cpu": 98.0936,
-      "total_supply_paths": 691,
-      "reseller_count": 608,
-      "owner_domain": "pregged.com",
-      "updated_at": "2025-07-09T01:03:32.139Z"
-    }
-  },
-  "gocomics.com": {
-    "a2cr": 0.18553,
-    "response": {
-      "publisher_id": 2815,
-      "name": "GoComics",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "gocomics.com",
-      "pub_description": "Welcome to GoComics.com, the world's largest comic strip site for online classic strips like Calvin and Hobbes, Dilbert, Non Sequitur, Get Fuzzy, Luann, Pearl Before Swine, 9 Chickweed Lane and more!",
-      "categories": [
-        "Books and Literature",
-        "Sports",
-        "Genres",
-        "Communication",
-        "Comics and Graphic Novels"
-      ],
-      "slug": "gocomics",
-      "avg_ads_to_content_ratio": 0.18553,
-      "avg_ads_in_view": 2.90052,
-      "avg_ad_refresh": 26.82,
-      "total_unique_gpids": 104,
-      "id_absorption_rate": 0.37000000000000005,
-      "avg_page_weight": 8.054,
-      "avg_cpu": 73.1018,
-      "total_supply_paths": 507,
-      "reseller_count": 447,
-      "owner_domain": null,
-      "updated_at": "2025-07-09T01:01:22.201Z"
-    }
-  },
-  "wemod.com": {
-    "a2cr": null,
-    "response": {
-      "publisher_id": 153941,
-      "name": "WeMod Community",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "wemod.com",
-      "pub_description": "WeMod is the world\u2019s best application for modding your favorite PC games.",
-      "categories": null,
-      "slug": "wemod-com",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 0,
-      "id_absorption_rate": null,
-      "avg_page_weight": 2.7613,
-      "avg_cpu": 7.9114,
-      "total_supply_paths": 415,
-      "reseller_count": 337,
-      "owner_domain": "wemod.com",
-      "updated_at": "2025-07-04T01:03:31.359Z"
-    }
-  },
-  "financefinest.com": {
-    "a2cr": 0.1088,
-    "response": {
-      "publisher_id": 455068,
-      "name": "financefinest",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "financefinest.com",
-      "pub_description": null,
-      "categories": null,
-      "slug": "financefinest",
-      "avg_ads_to_content_ratio": 0.1088,
-      "avg_ads_in_view": 1.34952,
-      "avg_ad_refresh": 51.25,
-      "total_unique_gpids": 6,
-      "id_absorption_rate": 0.7633333333333333,
-      "avg_page_weight": 0.0,
-      "avg_cpu": 0.0,
-      "total_supply_paths": 540,
-      "reseller_count": 490,
-      "owner_domain": null,
-      "updated_at": "2025-07-04T01:03:52.663Z"
-    }
-  },
-  "texelpad.com": {
-    "a2cr": null,
-    "response": {
-      "error": "{}",
-      "status_code": 404
-    }
-  },
-  "feathermc.com ": {
-    "a2cr": null,
-    "response": {
-      "error": "{}",
-      "status_code": 404
-    }
-  },
-  "discord-ads.softgames.com": {
-    "a2cr": null,
-    "response": {
-      "error": "{}",
-      "status_code": 404
-    }
-  },
-  "pgatour.com": {
-    "a2cr": 0.188,
-    "response": {
-      "publisher_id": 32511,
-      "name": "pgatour",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "ctv",
-      "domain": "pgatour.com",
-      "pub_description": "The official web site of the PGA TOUR. Providing the only Real-Time Live Scoring for the PGA TOUR, Champions Tour and Korn Ferry Tour. Home of official PGA TOUR news, stats, video, player profiles and tournament information.\n",
-      "categories": [
-        "Sports",
-        "Communication",
-        "Technology & Computing",
-        "Business and Finance",
-        "Computing"
-      ],
-      "slug": "pgatour",
-      "avg_ads_to_content_ratio": 0.188,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": 44.948,
-      "total_unique_gpids": 617,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 22.5693,
-      "avg_cpu": 132.5213,
-      "total_supply_paths": 110,
-      "reseller_count": 100,
-      "owner_domain": null,
-      "updated_at": "2025-07-09T02:39:50.376Z"
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   },
   "publir.com": {
     "a2cr": null,
     "response": {
-      "publisher_id": 84402,
-      "name": "Publir - Blog",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "publir.com",
-      "pub_description": "Blog",
-      "categories": null,
-      "slug": "publir-com",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 0,
-      "id_absorption_rate": null,
-      "avg_page_weight": 4.8539,
-      "avg_cpu": 9.8691,
-      "total_supply_paths": 6,
-      "reseller_count": null,
-      "owner_domain": null,
-      "updated_at": "2025-07-04T01:03:25.837Z"
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "jambase.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "listchallenges.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "travelreveal.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "chiefsfocus.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "conservativeactionalerts.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "wheregoes.com ": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "minecraftshader.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "game.tv": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "popctrivia.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "ads.garticphone.io": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "destinyrecipes.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "onlymomsknow.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "memes.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "pepperdeals.se": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "thedailyentertainment.in": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "kansas.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "huskermax.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "travelsupermarket.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "gamepix.com ": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "drivewaydreams.com ": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "thecollegefix.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "onthisday.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "my.funfactfeed.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "diply.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "motortrend.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "newsonyx.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "teamblind.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   },
   "oceanygame.com ": {
     "a2cr": null,
     "response": {
-      "error": "{}",
-      "status_code": 404
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   },
-  "everyday-hype.com": {
+  "gamesyy.com": {
     "a2cr": null,
     "response": {
-      "error": "{}",
-      "status_code": 404
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "pepper.pl": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "thedailyupside.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   },
   "discord-ads.mobinozer.com": {
     "a2cr": null,
     "response": {
-      "error": "{}",
-      "status_code": 404
-    }
-  },
-  "crosswordr.com": {
-    "a2cr": null,
-    "response": {
-      "error": "{}",
-      "status_code": 404
-    }
-  },
-  "diply.com": {
-    "a2cr": 0.11246,
-    "response": {
-      "publisher_id": 61,
-      "name": "Diply",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "diply.com",
-      "pub_description": "Launched in 2013, Diply is a leading social entertainment publisher that creates captivating content for millennials.",
-      "categories": [
-        "Family and Relationships",
-        "Sensitive Topics",
-        "Style & Fashion",
-        "Events",
-        "Divorce",
-        "Parenting"
-      ],
-      "slug": "diply",
-      "avg_ads_to_content_ratio": 0.11246,
-      "avg_ads_in_view": 0.83613,
-      "avg_ad_refresh": 7.048,
-      "total_unique_gpids": 2,
-      "id_absorption_rate": 0.24833333333333332,
-      "avg_page_weight": 19.1945,
-      "avg_cpu": 25.1141,
-      "total_supply_paths": 649,
-      "reseller_count": 558,
-      "owner_domain": "diply.com",
-      "updated_at": "2025-07-09T01:00:57.247Z"
-    }
-  },
-  "triviatoday.com": {
-    "a2cr": null,
-    "response": {
-      "publisher_id": 2568,
-      "name": "Trivia Today",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "triviatoday.com",
-      "pub_description": "Click here to answer this question and others at TriviaToday.com",
-      "categories": null,
-      "slug": "triviatoday",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 3,
-      "id_absorption_rate": null,
-      "avg_page_weight": 6.7931,
-      "avg_cpu": 15.747,
-      "total_supply_paths": 655,
-      "reseller_count": 509,
-      "owner_domain": null,
-      "updated_at": "2025-07-09T01:01:18.764Z"
-    }
-  },
-  "tradera.com": {
-    "a2cr": 0.17097,
-    "response": {
-      "publisher_id": 15619,
-      "name": "Tradera",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "tradera.com",
-      "pub_description": "Sveriges st\u00f6rsta cirkul\u00e4ra marknad.\u00a0K\u00f6p & s\u00e4lj begagnat & second hand, enkelt & h\u00e5llbart. Mode, Inredning, Elektronik, Motor, Samlarobjekt & mer | Tradera.",
-      "categories": [
-        "Careers",
-        "Law",
-        "Personal Finance",
-        "Automotive",
-        "Career Planning",
-        "Personal Investing"
-      ],
-      "slug": "tradera",
-      "avg_ads_to_content_ratio": 0.17097,
-      "avg_ads_in_view": 1.534,
-      "avg_ad_refresh": 23.0,
-      "total_unique_gpids": 16,
-      "id_absorption_rate": 0.0,
-      "avg_page_weight": 24.5254,
-      "avg_cpu": 96.6218,
-      "total_supply_paths": 136,
-      "reseller_count": 113,
-      "owner_domain": null,
-      "updated_at": "2025-07-09T01:01:54.640Z"
-    }
-  },
-  "pepper.com": {
-    "a2cr": 0.08529,
-    "response": {
-      "publisher_id": 234994,
-      "name": "Pepper's Careers",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "pepper.com",
-      "pub_description": "Op Pepper.com delen gebruikers de heetste aanbiedingen en kortingscodes \u2705 Bespaar geld op je volgende aankoop en meng je in discussies \u27a4 Pepper.com",
-      "categories": null,
-      "slug": "pepper-com",
-      "avg_ads_to_content_ratio": 0.08529,
-      "avg_ads_in_view": 0.82958,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 3,
-      "id_absorption_rate": 0.6,
-      "avg_page_weight": 0.9896,
-      "avg_cpu": 36.0395,
-      "total_supply_paths": 428,
-      "reseller_count": 369,
-      "owner_domain": "pepper.com",
-      "updated_at": "2025-07-04T01:03:40.000Z"
-    }
-  },
-  "arkadium.com": {
-    "a2cr": 0.09133,
-    "response": {
-      "publisher_id": 1253,
-      "name": "Arkadium",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "arkadium.com",
-      "pub_description": "THE home of your favorite free online games including card games, word games, solitaire, crosswords & more. Instantly play the best online games for free!",
-      "categories": [
-        "Education",
-        "Science",
-        "Hobbies & Interests",
-        "Careers",
-        "Online Education",
-        "Workshops and Classes",
-        "Genres",
-        "Talk Radio"
-      ],
-      "slug": "arkadium",
-      "avg_ads_to_content_ratio": 0.09133,
-      "avg_ads_in_view": 1.05267,
-      "avg_ad_refresh": 67.971,
-      "total_unique_gpids": 100,
-      "id_absorption_rate": 0.3955555555555556,
-      "avg_page_weight": 13.5826,
-      "avg_cpu": 344.6343,
-      "total_supply_paths": 596,
-      "reseller_count": 539,
-      "owner_domain": "arkadium.com",
-      "updated_at": "2025-07-09T01:47:07.224Z"
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   },
   "breakingmuscle.com": {
-    "a2cr": 0.17832,
+    "a2cr": null,
     "response": {
-      "publisher_id": 38279,
-      "name": "Breaking Muscle",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "breakingmuscle.com",
-      "pub_description": "Stop. Skipping. Leg. Day. Here are the best leg workouts to pack on size, build lower body strength, train without weights, and more.",
-      "categories": [
-        "Healthy Living",
-        "Sports",
-        "Medical Health",
-        "Style & Fashion",
-        "Business and Finance",
-        "Fitness and Exercise",
-        "Weight Loss",
-        "Wellness"
-      ],
-      "slug": "breakingmuscle",
-      "avg_ads_to_content_ratio": 0.17832,
-      "avg_ads_in_view": 2.02865,
-      "avg_ad_refresh": 43.61,
-      "total_unique_gpids": 7,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 7.4872,
-      "avg_cpu": 61.7763,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "barbend.com",
-      "updated_at": "2025-07-09T01:03:00.294Z"
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "c-span.org": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "chat.direqt.ai": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "sudokuwiki.org": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "glensidelocal.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "rockytopinsider.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "discordads.bloxd.io": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "gamersberg.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   },
   "chatib.us": {
-    "a2cr": 0.16515,
-    "response": {
-      "publisher_id": 39446,
-      "name": "Chatib Blog",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "chatib.us",
-      "pub_description": "Join VoiceVista and engage in lively chats in fun rooms, absolutely free!",
-      "categories": [
-        "Family and Relationships",
-        "Technology & Computing",
-        "Communication",
-        "Business and Finance",
-        "Dating",
-        "Parenting",
-        "Marriage and Civil Unions",
-        "Events"
-      ],
-      "slug": "chatib-us",
-      "avg_ads_to_content_ratio": 0.16515,
-      "avg_ads_in_view": 2.03835,
-      "avg_ad_refresh": 26.25,
-      "total_unique_gpids": 7,
-      "id_absorption_rate": 0.7044444444444445,
-      "avg_page_weight": 2.572,
-      "avg_cpu": 97.5676,
-      "total_supply_paths": 2005,
-      "reseller_count": 1638,
-      "owner_domain": "algomedia.tech",
-      "updated_at": "2025-07-09T01:03:08.327Z"
-    }
-  },
-  "discord-ads.frvr.com": {
     "a2cr": null,
     "response": {
-      "error": "{}",
-      "status_code": 404
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "gocomics.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "thelibertydaily.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "famvia.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "yardbarker.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "notthebee.com ": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "tik.warpfrontarena.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "pepper.it": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "uncrate.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "neopets.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "choicehotelswifi.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "equibase.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "jdpower.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "unboxword.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "feathermc.com ": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "amazinggamesnetwork.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "endeared.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "pgatour.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "hollywoodteatalk.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "mydramalist.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "blitz.gg": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "obsev.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "kkfm.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "dailywire.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "chollometro.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "statmuse.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "financefinest.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "thedailyquiz.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "moneywise.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "icelolly.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "sweepstakesfanatics.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "thepostmillennial.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "liquipedia.net": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "mydealz.de": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "vikatan.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "tusksearch.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "magma.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "talentrecap.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "familiakitchen.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "soundcloud.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "conservativenewsfeed.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "getemoji.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "tradera.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "blackenterprise.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "rainberry.tv": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "pregged.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "plex.tv ": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "runeforge.io": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "preisjaeger.at": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "westernjournal.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "archpaper.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "hotukdeals.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "emojipedia.org": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "helltides.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "bellinghamherald.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   }
 }

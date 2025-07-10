@@ -1,3041 +1,702 @@
 {
-  "iseliinternationalcommerce.com": {
+  "voyageursintrepides.com": {
     "a2cr": null,
     "response": {
-      "publisher_id": 325045,
-      "name": "iseliinternationalcommerce.com",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "iseliinternationalcommerce.com",
-      "pub_description": null,
-      "categories": null,
-      "slug": "iseliinternationalcommerce-com",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 0,
-      "id_absorption_rate": null,
-      "avg_page_weight": 0.7311,
-      "avg_cpu": 1.0005,
-      "total_supply_paths": 0,
-      "reseller_count": null,
-      "owner_domain": null,
-      "updated_at": "2025-03-17T02:14:40.710Z"
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   },
-  "guitarspace.org": {
-    "a2cr": 0.15577,
-    "response": {
-      "publisher_id": 66279,
-      "name": "Guitar Space",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "guitarspace.org",
-      "pub_description": "Find expert guitar reviews and advice on the best audio gear for musicians. Here at Guitar Space, we are a community of guitar enthusiasts.",
-      "categories": [
-        "Hobbies & Interests",
-        "Entertainment",
-        "Technology & Computing",
-        "Automotive",
-        "Music",
-        "Musical Instruments"
-      ],
-      "slug": "guitarspace-org",
-      "avg_ads_to_content_ratio": 0.15577,
-      "avg_ads_in_view": 1.60304,
-      "avg_ad_refresh": 25.568,
-      "total_unique_gpids": 9,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 21.2848,
-      "avg_cpu": 76.8359,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "guitarspace.org",
-      "updated_at": "2025-07-08T02:37:19.988Z"
-    }
-  },
-  "momsandcrafters.com": {
-    "a2cr": 0.20897,
-    "response": {
-      "publisher_id": 61138,
-      "name": "Moms and Crafters",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "momsandcrafters.com",
-      "pub_description": "Ready for some cool things to do at a science party for kids? These birthday party activities are all fun, easy, and work for indoors and out",
-      "categories": [
-        "Style & Fashion",
-        "Family and Relationships",
-        "Business and Finance",
-        "Hobbies & Interests",
-        "Arts and Crafts",
-        "Parenting"
-      ],
-      "slug": "momsandcrafters-com",
-      "avg_ads_to_content_ratio": 0.20897,
-      "avg_ads_in_view": 1.47567,
-      "avg_ad_refresh": 42.379,
-      "total_unique_gpids": 8,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 10.1904,
-      "avg_cpu": 112.4518,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "momsandcrafters.com",
-      "updated_at": "2025-07-09T01:03:38.454Z"
-    }
-  },
-  "irelandbeforeyoudie.com": {
-    "a2cr": 0.15483,
-    "response": {
-      "publisher_id": 60539,
-      "name": "Ireland Before You Die",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "irelandbeforeyoudie.com",
-      "pub_description": "Ireland's most popular travel and culture website. We offer Ireland travel guide, tips & advice. We also highlight the best experiences in Ireland.",
-      "categories": [
-        "Food & Drink",
-        "Travel",
-        "Business and Finance",
-        "Events",
-        "Travel Type",
-        "Attractions"
-      ],
-      "slug": "irelandbeforeyoudie-com",
-      "avg_ads_to_content_ratio": 0.15483,
-      "avg_ads_in_view": 1.64866,
-      "avg_ad_refresh": 68.368,
-      "total_unique_gpids": 19,
-      "id_absorption_rate": 0.7766666666666667,
-      "avg_page_weight": 44.1929,
-      "avg_cpu": 146.746,
-      "total_supply_paths": 84,
-      "reseller_count": 13,
-      "owner_domain": "irelandbeforeyoudie.com",
-      "updated_at": "2025-07-09T01:03:31.767Z"
-    }
-  },
-  "wisebarber.com": {
-    "a2cr": 0.12266,
-    "response": {
-      "publisher_id": 239148,
-      "name": "WiseBarber.com",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "wisebarber.com",
-      "pub_description": "The best hair care website with useful tips for fellow barbers and hairstylists. We do a lot of honest reviews on hairstyling tools and products from different brands.",
-      "categories": null,
-      "slug": "wisebarber-com",
-      "avg_ads_to_content_ratio": 0.12266,
-      "avg_ads_in_view": 1.53842,
-      "avg_ad_refresh": 35.658,
-      "total_unique_gpids": 7,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 3.1481,
-      "avg_cpu": 92.6448,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "wisebarber.com",
-      "updated_at": "2025-07-04T01:03:40.003Z"
-    }
-  },
-  "travelingwellforless.com": {
-    "a2cr": 0.20934,
-    "response": {
-      "publisher_id": 70346,
-      "name": "Traveling Well For Less",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "travelingwellforless.com",
-      "pub_description": "Expert travel tips, advice, and travel hacks to help you save money on travel and explore the world for free using airline miles and points.",
-      "categories": [
-        "travel",
-        "Travel",
-        "Business and Finance",
-        "Personal Finance",
-        "Automotive",
-        "Travel Type",
-        "Business"
-      ],
-      "slug": "travelingwellforless-com",
-      "avg_ads_to_content_ratio": 0.20934,
-      "avg_ads_in_view": 2.02814,
-      "avg_ad_refresh": 41.598,
-      "total_unique_gpids": 9,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 4.7322,
-      "avg_cpu": 30.8016,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "travelingwellforless.com",
-      "updated_at": "2025-07-03T16:04:47.085Z"
-    }
-  },
-  "withashleyandco.com": {
-    "a2cr": 0.1672,
-    "response": {
-      "publisher_id": 69990,
-      "name": "With Ashley And Company",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "withashleyandco.com",
-      "pub_description": "Lifestyle, Travel, and Geek Blog - With Ashley And Company",
-      "categories": [
-        "Entertainment",
-        "Events",
-        "Genres",
-        "Books and Literature",
-        "Movies",
-        "Pop Culture"
-      ],
-      "slug": "withashleyandco-com",
-      "avg_ads_to_content_ratio": 0.1672,
-      "avg_ads_in_view": 1.80465,
-      "avg_ad_refresh": 23.409,
-      "total_unique_gpids": 8,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 10.5248,
-      "avg_cpu": 88.9144,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "withashleyandco.com",
-      "updated_at": "2025-07-08T05:31:02.990Z"
-    }
-  },
-  "livinglargeinasmallhouse.com": {
-    "a2cr": 0.10741,
-    "response": {
-      "publisher_id": 329593,
-      "name": "Living Large In A Small House",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "livinglargeinasmallhouse.com",
-      "pub_description": "I'm passionate about decorating, entertaining, cooking, organizing, and gardening. All while living large in a small house.",
-      "categories": [
-        "Home & Garden",
-        "Hobbies & Interests",
-        "Food & Drink",
-        "Family and Relationships",
-        "Arts and Crafts",
-        "Home Improvement",
-        "Gardening"
-      ],
-      "slug": "livinglargeinasmallhouse-com",
-      "avg_ads_to_content_ratio": 0.10741,
-      "avg_ads_in_view": 1.3256,
-      "avg_ad_refresh": 27.5,
-      "total_unique_gpids": 29,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 8.0194,
-      "avg_cpu": 58.9041,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "livinglargeinasmallhouse.com",
-      "updated_at": "2025-07-01T13:55:49.516Z"
-    }
-  },
-  "tothotornot.com": {
-    "a2cr": 0.16514,
-    "response": {
-      "publisher_id": 65449,
-      "name": "Tot Hot or Not",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "tothotornot.com",
-      "pub_description": "Find Things to do in Melbourne & Victoria with Kids - Playgrounds, Play centres, Cafes, What's On & more! Read Melbourne's Biggest Travel Blog",
-      "categories": [
-        "Attractions",
-        "Family and Relationships",
-        "Events",
-        "Food & Drink",
-        "Parenting",
-        "Travel",
-        "Entertainment"
-      ],
-      "slug": "tothotornot-com",
-      "avg_ads_to_content_ratio": 0.16514,
-      "avg_ads_in_view": 1.65075,
-      "avg_ad_refresh": 97.966,
-      "total_unique_gpids": 12,
-      "id_absorption_rate": 0.7610000000000001,
-      "avg_page_weight": 22.5273,
-      "avg_cpu": 194.4084,
-      "total_supply_paths": 98,
-      "reseller_count": 15,
-      "owner_domain": "tothotornot.com",
-      "updated_at": "2025-07-09T01:03:29.806Z"
-    }
-  },
-  "carolinethomason.com": {
+  "mindfulavocado.com": {
     "a2cr": null,
     "response": {
-      "publisher_id": 434581,
-      "name": "Caroline Thomason",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "carolinethomason.com",
-      "pub_description": "If you\u2019re tired of\u2026 Trying diet after diet, but nothing works? Losing and re-gaining the same 10, 20, or 30 [\u2026]",
-      "categories": [
-        "Food & Drink",
-        "Food Allergies",
-        "Healthy Cooking and Eating",
-        "Healthy Living"
-      ],
-      "slug": "carolinethomason",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": 15.0,
-      "total_unique_gpids": 0,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 1.2748,
-      "avg_cpu": 7.805,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "carolinethomason.com",
-      "updated_at": "2025-07-04T00:40:29.382Z"
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   },
-  "nextision.com": {
+  "furnishingtips.com": {
     "a2cr": null,
     "response": {
-      "publisher_id": 324515,
-      "name": "nextision.com",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "nextision.com",
-      "pub_description": null,
-      "categories": null,
-      "slug": "nextision-com",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 0,
-      "id_absorption_rate": null,
-      "avg_page_weight": 1.8797,
-      "avg_cpu": 1.573,
-      "total_supply_paths": 0,
-      "reseller_count": null,
-      "owner_domain": null,
-      "updated_at": "2025-03-17T02:14:20.323Z"
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   },
-  "edwardgeorgelondon.com": {
-    "a2cr": 0.19743,
-    "response": {
-      "publisher_id": 414952,
-      "name": "Edward George",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "edwardgeorgelondon.com",
-      "pub_description": "Interior Design Inspiration",
-      "categories": null,
-      "slug": "edwardgeorgelondon",
-      "avg_ads_to_content_ratio": 0.19743,
-      "avg_ads_in_view": 1.57325,
-      "avg_ad_refresh": 27.292,
-      "total_unique_gpids": 3,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 4.8921,
-      "avg_cpu": 34.4935,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "edwardgeorgelondon.com",
-      "updated_at": "2025-07-04T01:03:49.106Z"
-    }
-  },
-  "sammydvintage.com": {
-    "a2cr": 0.14341,
-    "response": {
-      "publisher_id": 83548,
-      "name": "Sammy D. Vintage",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "sammydvintage.com",
-      "pub_description": "Go on a time-traveling fashion odyssey, unveil the elegance of vintage clothing. Learn the what to buy and what not to buy at thrift stores, and much more. Art of Pricing & Styling Vintage \ud83d\udcb0",
-      "categories": [
-        "Style & Fashion",
-        "Events",
-        "Business and Finance",
-        "Food & Drink",
-        "Men's Fashion",
-        "Beauty",
-        "Women's Fashion"
-      ],
-      "slug": "sammydvintage-com",
-      "avg_ads_to_content_ratio": 0.14341,
-      "avg_ads_in_view": 1.48946,
-      "avg_ad_refresh": 34.197,
-      "total_unique_gpids": 7,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 2.6287,
-      "avg_cpu": 27.4006,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "sammydvintage.com",
-      "updated_at": "2025-07-09T02:48:32.374Z"
-    }
-  },
-  "snugandcozylife.com": {
-    "a2cr": 0.12144,
-    "response": {
-      "publisher_id": 63690,
-      "name": "Snug & Cozy Life",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "snugandcozylife.com",
-      "pub_description": "At Snug and Cozy Life, we believe in filling our home with things we love, creating moments to do the things we enjoy, and eating really, really great food.",
-      "categories": [
-        "Food & Drink",
-        "Business and Finance",
-        "Style & Fashion",
-        "Family and Relationships",
-        "Desserts and Baking",
-        "World Cuisines",
-        "Home & Garden",
-        "Cooking"
-      ],
-      "slug": "snugandcozylife-com",
-      "avg_ads_to_content_ratio": 0.12144,
-      "avg_ads_in_view": 1.34933,
-      "avg_ad_refresh": 35.333,
-      "total_unique_gpids": 7,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 24.1632,
-      "avg_cpu": 68.1518,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "snugandcozylife.com",
-      "updated_at": "2025-07-02T14:03:39.356Z"
-    }
-  },
-  "7centerpieces.com": {
-    "a2cr": 0.09414,
-    "response": {
-      "publisher_id": 70958,
-      "name": "7 Centerpieces",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "7centerpieces.com",
-      "pub_description": "7 Center Pieces",
-      "categories": null,
-      "slug": "7centerpieces-com",
-      "avg_ads_to_content_ratio": 0.09414,
-      "avg_ads_in_view": 1.0,
-      "avg_ad_refresh": 15.789,
-      "total_unique_gpids": 3,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 3.7792,
-      "avg_cpu": 7.466,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "7centerpieces.com",
-      "updated_at": "2025-07-02T14:45:50.501Z"
-    }
-  },
-  "nepyork.com": {
+  "trailandsummit.com": {
     "a2cr": null,
     "response": {
-      "error": "{}",
-      "status_code": 404
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   },
-  "kitchensnitches.com": {
-    "a2cr": 0.12829,
-    "response": {
-      "publisher_id": 65631,
-      "name": "KitchenSnitches",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "kitchensnitches.com",
-      "pub_description": "Everything Related To Cooking & Kitchen",
-      "categories": [
-        "Food & Drink",
-        "Technology & Computing",
-        "Business and Finance",
-        "Home & Garden",
-        "Desserts and Baking",
-        "World Cuisines"
-      ],
-      "slug": "kitchensnitches-com",
-      "avg_ads_to_content_ratio": 0.12829,
-      "avg_ads_in_view": 1.64145,
-      "avg_ad_refresh": 31.667,
-      "total_unique_gpids": 9,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 3.8193,
-      "avg_cpu": 20.7452,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "kitchensnitches.com",
-      "updated_at": "2025-07-08T05:17:04.448Z"
-    }
-  },
-  "frugalfamilyhome.com": {
-    "a2cr": 0.12068,
-    "response": {
-      "publisher_id": 19205,
-      "name": "Frugal Family Home",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "frugalfamilyhome.com",
-      "pub_description": "Homemaking on a budget! We help you cook more real food for your family without spending all day in the kitchen. And help you save money too.",
-      "categories": [
-        "Food & Drink",
-        "Desserts and Baking",
-        "World Cuisines",
-        "Cooking",
-        "Healthy Cooking and Eating",
-        "Home & Garden",
-        "Healthy Living"
-      ],
-      "slug": "frugalfamilyhome",
-      "avg_ads_to_content_ratio": 0.12068,
-      "avg_ads_in_view": 1.38127,
-      "avg_ad_refresh": 37.5,
-      "total_unique_gpids": 9,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 4.0427,
-      "avg_cpu": 30.0236,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "frugalfamilyhome.com",
-      "updated_at": "2025-07-05T05:13:54.544Z"
-    }
-  },
-  "sparklingsilvers.comold": {
+  "wearetravelgirls.com": {
     "a2cr": null,
     "response": {
-      "error": "{}",
-      "status_code": 404
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   },
-  "betterfoodguru.com": {
+  "seeseeksleep.com": {
     "a2cr": null,
     "response": {
-      "error": "{}",
-      "status_code": 404
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   },
-  "seasonandthyme.com": {
-    "a2cr": 0.17238,
-    "response": {
-      "publisher_id": 292365,
-      "name": "Season & Thyme",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "seasonandthyme.com",
-      "pub_description": "Learn how to freeze jalapenos for later use in all of your favorite recipes. Freezing peppers is incredibly simple and a great preservation method.",
-      "categories": [
-        "Food & Drink",
-        "Style & Fashion",
-        "Family and Relationships",
-        "Shopping",
-        "Home & Garden",
-        "World Cuisines",
-        "Desserts and Baking",
-        "Cooking"
-      ],
-      "slug": "seasonandthyme-com",
-      "avg_ads_to_content_ratio": 0.17238,
-      "avg_ads_in_view": 1.89376,
-      "avg_ad_refresh": 48.939,
-      "total_unique_gpids": 8,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 8.6103,
-      "avg_cpu": 61.3245,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "seasonandthyme.com",
-      "updated_at": "2025-06-24T01:16:37.923Z"
-    }
-  },
-  "britonthemove.com": {
-    "a2cr": 0.15231,
-    "response": {
-      "publisher_id": 240668,
-      "name": "Brit on the Move\u2122",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "britonthemove.com",
-      "pub_description": "This is the best travel site that will bring you travel tips, share travel deals and help you travel the world.",
-      "categories": [
-        "Attractions",
-        "Travel",
-        "Shopping",
-        "Food & Drink",
-        "Events",
-        "Parks",
-        "Travel Type",
-        "Travel Locations"
-      ],
-      "slug": "britonthemove-com",
-      "avg_ads_to_content_ratio": 0.15231,
-      "avg_ads_in_view": 1.39736,
-      "avg_ad_refresh": 30.611,
-      "total_unique_gpids": 8,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 8.507,
-      "avg_cpu": 51.9512,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "britonthemove.com",
-      "updated_at": "2025-07-04T01:03:41.960Z"
-    }
-  },
-  "www.sunshinemomma.com": {
+  "travellingdany.com": {
     "a2cr": null,
     "response": {
-      "error": "{}",
-      "status_code": 404
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   },
-  "boredoflunch.com": {
-    "a2cr": 0.09577,
-    "response": {
-      "publisher_id": 446418,
-      "name": "Bored of Lunch",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "boredoflunch.com",
-      "pub_description": "Easy, healthy air fryer & slow cooker recipes from Nathan Anthony: the No.1 bestselling author and creator of hit food platform Bored of Lunch.",
-      "categories": null,
-      "slug": "boredoflunch",
-      "avg_ads_to_content_ratio": 0.09577,
-      "avg_ads_in_view": 1.13333,
-      "avg_ad_refresh": 22.778,
-      "total_unique_gpids": 1,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 0.0,
-      "avg_cpu": 0.0,
-      "total_supply_paths": 66,
-      "reseller_count": 14,
-      "owner_domain": "boredoflunch.com",
-      "updated_at": "2025-06-14T06:51:44.361Z"
-    }
-  },
-  "marcieinmommyland.com": {
-    "a2cr": 0.22006,
-    "response": {
-      "publisher_id": 68853,
-      "name": "Marcie in Mommyland",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "marcieinmommyland.com",
-      "pub_description": "Family Travel Tips for Hawaii, Disneyland, Seattle, + International Trips with Kids",
-      "categories": [
-        "Travel",
-        "Family and Relationships",
-        "Attractions",
-        "Food & Drink",
-        "Travel Type",
-        "Travel Locations"
-      ],
-      "slug": "marcieinmommyland-com",
-      "avg_ads_to_content_ratio": 0.22006,
-      "avg_ads_in_view": 1.56665,
-      "avg_ad_refresh": 44.553,
-      "total_unique_gpids": 9,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 11.7133,
-      "avg_cpu": 87.6359,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "marcieinmommyland.com",
-      "updated_at": "2025-07-09T01:03:30.371Z"
-    }
-  },
-  "amynorthardcpa.com": {
-    "a2cr": 0.15807,
-    "response": {
-      "publisher_id": 62242,
-      "name": "The Accountants for Creatives\u00ae",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "amynorthardcpa.com",
-      "pub_description": "I help small business owners all over the US navigate tax and bookkeeping systems so they can get back to the part of business they love - the creative part.",
-      "categories": [
-        "Business and Finance",
-        "Law",
-        "Personal Finance",
-        "Real Estate",
-        "Business",
-        "Personal Taxes"
-      ],
-      "slug": "amynorthardcpa-com",
-      "avg_ads_to_content_ratio": 0.15807,
-      "avg_ads_in_view": 1.78256,
-      "avg_ad_refresh": 27.857,
-      "total_unique_gpids": 5,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 6.5517,
-      "avg_cpu": 29.8536,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "amynorthardcpa.com",
-      "updated_at": "2025-07-08T01:07:45.538Z"
-    }
-  },
-  "cookingformysoul.com": {
-    "a2cr": 0.12919,
-    "response": {
-      "publisher_id": 62793,
-      "name": "Cooking For My Soul",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "cookingformysoul.com",
-      "pub_description": "You'll find hundreds of kitchen-tested recipes, easy-to-follow tutorials, and tips and tricks to take home cooking to the next level.",
-      "categories": [
-        "Food & Drink",
-        "Business and Finance",
-        "Technology & Computing",
-        "Healthy Living",
-        "Desserts and Baking",
-        "World Cuisines",
-        "Cooking"
-      ],
-      "slug": "cookingformysoul-com",
-      "avg_ads_to_content_ratio": 0.12919,
-      "avg_ads_in_view": 1.5573,
-      "avg_ad_refresh": 40.464,
-      "total_unique_gpids": 7,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 7.5764,
-      "avg_cpu": 43.4167,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "cookingformysoul.com",
-      "updated_at": "2025-07-09T02:30:21.226Z"
-    }
-  },
-  "conformingtojesus.com": {
-    "a2cr": 0.14125,
-    "response": {
-      "publisher_id": 327724,
-      "name": "conformingtojesus.com",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "conformingtojesus.com",
-      "pub_description": "Conforming To Jesus brings Truth, healing and wholeness teachings, counselling and ministry to believing Christians. We teach them how to be released from the bondage to sin and guilt and receive forgiveness from God and establish a relationship with God.",
-      "categories": null,
-      "slug": "conformingtojesus-com",
-      "avg_ads_to_content_ratio": 0.14125,
-      "avg_ads_in_view": 1.46483,
-      "avg_ad_refresh": 52.712,
-      "total_unique_gpids": 5,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 1.4158,
-      "avg_cpu": 45.4485,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "conformingtojesus.com",
-      "updated_at": "2025-06-30T04:53:15.374Z"
-    }
-  },
-  "howtouselinux.com": {
-    "a2cr": 0.23059,
-    "response": {
-      "publisher_id": 324521,
-      "name": "howtouselinux",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "howtouselinux.com",
-      "pub_description": "Howtouselinux is a one-stop destination for Linux server tutorials. We will cover the Linux command line in detail, along with tutorials on cloud-related technologies, DevOps tools, managing servers, self-hosting, and more.",
-      "categories": [
-        "Technology & Computing",
-        "Science",
-        "Genres",
-        "Maps & Navigation",
-        "Computing",
-        "Data Storage and Warehousing",
-        "Software and Applications",
-        "Business and Finance",
-        "Internet",
-        "Computer Networking"
-      ],
-      "slug": "howtouselinux-com",
-      "avg_ads_to_content_ratio": 0.23059,
-      "avg_ads_in_view": 2.06763,
-      "avg_ad_refresh": 38.276,
-      "total_unique_gpids": 8,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 8.8119,
-      "avg_cpu": 48.6382,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "howtouselinux.com",
-      "updated_at": "2025-06-28T01:42:05.936Z"
-    }
-  },
-  "theglutenfreeaustrian.com": {
-    "a2cr": 0.17161,
-    "response": {
-      "publisher_id": 327984,
-      "name": "The Gluten Free Austrian",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "theglutenfreeaustrian.com",
-      "pub_description": "A gluten free baking blog where Daniela Weiner, a professional Austrian Pastry Chef with Celiac shares the most delicious gluten free recipes.",
-      "categories": [
-        "Food & Drink",
-        "Healthy Living",
-        "Technology & Computing",
-        "Business and Finance",
-        "Desserts and Baking",
-        "World Cuisines",
-        "Cooking",
-        "Healthy Cooking and Eating"
-      ],
-      "slug": "theglutenfreeaustrian-com",
-      "avg_ads_to_content_ratio": 0.17161,
-      "avg_ads_in_view": 1.86429,
-      "avg_ad_refresh": 75.155,
-      "total_unique_gpids": 27,
-      "id_absorption_rate": 0.7877777777777778,
-      "avg_page_weight": 34.1567,
-      "avg_cpu": 174.0662,
-      "total_supply_paths": 98,
-      "reseller_count": 15,
-      "owner_domain": "theglutenfreeaustrian.com",
-      "updated_at": "2025-06-24T06:40:29.939Z"
-    }
-  },
-  "lilyardor.com": {
-    "a2cr": 0.10211,
-    "response": {
-      "publisher_id": 61758,
-      "name": "Lily Ardor",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "lilyardor.com",
-      "pub_description": "A blog full of DIY home d\u00e9cor inspiration plus crafty tips that will transform any space to look it's best. I share the good and bad! Join our thrifty home decorating community and learn how easy it is to transform your own home!",
-      "categories": [
-        "house and home",
-        "Style & Fashion",
-        "Events",
-        "Business and Finance",
-        "Technology & Computing",
-        "Home & Garden",
-        "Body Art",
-        "Hobbies & Interests"
-      ],
-      "slug": "lilyardor-com",
-      "avg_ads_to_content_ratio": 0.10211,
-      "avg_ads_in_view": 1.33824,
-      "avg_ad_refresh": 33.387,
-      "total_unique_gpids": 10,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 19.4808,
-      "avg_cpu": 68.199,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "lilyardor.com",
-      "updated_at": "2025-07-08T04:20:29.723Z"
-    }
-  },
-  "selfdevelopmentjourney.com": {
-    "a2cr": 0.16707,
-    "response": {
-      "publisher_id": 240778,
-      "name": "Self Development Journey",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "selfdevelopmentjourney.com",
-      "pub_description": "A blog dedicated to helping you define your self development journey, with self improvement, personal development and growth tips and information",
-      "categories": [
-        "Religion & Spirituality",
-        "Family and Relationships",
-        "Sensitive Topics",
-        "Communication",
-        "Hobbies & Interests",
-        "Video Gaming",
-        "Food & Drink",
-        "Pop Culture",
-        "Parenting Children Aged 4-11",
-        "Parenting",
-        "Dating",
-        "Wellness",
-        "Healthy Living",
-        "Personal Celebrations & Life Events"
-      ],
-      "slug": "selfdevelopmentjourney-com",
-      "avg_ads_to_content_ratio": 0.16707,
-      "avg_ads_in_view": 1.95259,
-      "avg_ad_refresh": 29.0,
-      "total_unique_gpids": 6,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 3.0353,
-      "avg_cpu": 43.6519,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "selfdevelopmentjourney.com",
-      "updated_at": "2025-07-04T01:03:42.395Z"
-    }
-  },
-  "evergrowingchristians.com": {
+  "intrepidscout.com": {
     "a2cr": null,
     "response": {
-      "publisher_id": 446090,
-      "name": "Ever Growing Christians",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "evergrowingchristians.com",
-      "pub_description": "Christ is our standard",
-      "categories": null,
-      "slug": "evergrowingchristians",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": 15.0,
-      "total_unique_gpids": 0,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 0.0,
-      "avg_cpu": 0.0,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "evergrowingchristians.com",
-      "updated_at": "2025-06-14T07:22:53.061Z"
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   },
-  "veryspecialtales.com": {
-    "a2cr": 0.15799,
-    "response": {
-      "publisher_id": 65203,
-      "name": "Very Special Tales",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "veryspecialtales.com",
-      "pub_description": "A Blog About Parenting: Coping Skills, Behavior Management and Special Needs",
-      "categories": [
-        "Education",
-        "Family and Relationships",
-        "Medical Health",
-        "Technology & Computing",
-        "Homework and Study",
-        "Parenting"
-      ],
-      "slug": "veryspecialtales-com",
-      "avg_ads_to_content_ratio": 0.15799,
-      "avg_ads_in_view": 1.69608,
-      "avg_ad_refresh": 35.049,
-      "total_unique_gpids": 7,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 3.3922,
-      "avg_cpu": 35.2473,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "veryspecialtales.com",
-      "updated_at": "2025-07-06T10:43:16.650Z"
-    }
-  },
-  "nonprofitpoint.com": {
-    "a2cr": 0.13644,
-    "response": {
-      "publisher_id": 343453,
-      "name": "Nonprofit Point",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "nonprofitpoint.com",
-      "pub_description": "Ultimate Nonprofit Resource Hub",
-      "categories": [
-        "Events",
-        "Food & Drink",
-        "Shopping",
-        "Personal Celebrations & Life Events",
-        "Gifts and Greetings Cards",
-        "Business",
-        "Business and Finance",
-        "Entertainment",
-        "Hobbies & Interests"
-      ],
-      "slug": "nonprofitpoint-com",
-      "avg_ads_to_content_ratio": 0.13644,
-      "avg_ads_in_view": 1.47037,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 3,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 7.0836,
-      "avg_cpu": 50.157,
-      "total_supply_paths": 126,
-      "reseller_count": 101,
-      "owner_domain": "nonprofitpoint.com",
-      "updated_at": "2025-07-02T19:35:10.137Z"
-    }
-  },
-  "smartfamilymoney.com": {
-    "a2cr": 0.22589,
-    "response": {
-      "publisher_id": 64516,
-      "name": "Smart Family Money",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "smartfamilymoney.com",
-      "pub_description": "At Smart Family Money, you\u2019ll get tools to take control of your money, confidence in your financial future, and freedom with your time.",
-      "categories": [
-        "Business and Finance",
-        "Communication",
-        "Food & Drink",
-        "Technology & Computing",
-        "Desserts and Baking"
-      ],
-      "slug": "smartfamilymoney-com",
-      "avg_ads_to_content_ratio": 0.22589,
-      "avg_ads_in_view": 2.28823,
-      "avg_ad_refresh": 47.451,
-      "total_unique_gpids": 8,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 2.488,
-      "avg_cpu": 27.1609,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "smartfamilymoney.com",
-      "updated_at": "2025-07-02T12:29:34.982Z"
-    }
-  },
-  "alifeadjacent.com": {
-    "a2cr": 0.31754,
-    "response": {
-      "publisher_id": 63041,
-      "name": "A Life Adjacent",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "alifeadjacent.com",
-      "pub_description": "DIY beauty & skincare recipes, natural beauty tips, haircare, essential oils, non-toxic lifestyle & more.",
-      "categories": [
-        "Style & Fashion",
-        "Business and Finance",
-        "Food & Drink",
-        "Medical Health",
-        "Beauty"
-      ],
-      "slug": "alifeadjacent-com",
-      "avg_ads_to_content_ratio": 0.31754,
-      "avg_ads_in_view": 2.11302,
-      "avg_ad_refresh": 43.626,
-      "total_unique_gpids": 9,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 2.3923,
-      "avg_cpu": 48.7208,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "alifeadjacent.com",
-      "updated_at": "2025-07-02T02:49:10.809Z"
-    }
-  },
-  "inspirebits.co": {
+  "fitfoodiefinds.com": {
     "a2cr": null,
     "response": {
-      "publisher_id": 324843,
-      "name": "INSPIREBITS",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "inspirebits.co",
-      "pub_description": "Inspirebits is a digital media company that specializes in content creation, distribution. We own and operate creator-driven brands that reach millions of consumers in growing lifestyle categories, including home improvement, art & design, fitness, technology, and gadgets.",
-      "categories": [
-        "Technology & Computing",
-        "Business and Finance",
-        "Education",
-        "Computing",
-        "Business"
-      ],
-      "slug": "inspirebits-co",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 0,
-      "id_absorption_rate": null,
-      "avg_page_weight": 1.174,
-      "avg_cpu": 5.1788,
-      "total_supply_paths": 0,
-      "reseller_count": null,
-      "owner_domain": null,
-      "updated_at": "2025-03-17T02:14:28.534Z"
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   },
-  "balconygardenweb.com": {
-    "a2cr": 0.19142,
-    "response": {
-      "publisher_id": 59488,
-      "name": "Balcony Garden Web",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "balconygardenweb.com",
-      "pub_description": "Balcony Garden Web is not just restricted to Balcony Gardening. We cover every aspect related to Container Gardening, Indoor Gardening, and Vertical Gardening.",
-      "categories": [
-        "Home & Garden",
-        "Business and Finance",
-        "Food & Drink",
-        "Technology & Computing",
-        "Gardening"
-      ],
-      "slug": "balconygardenweb-com",
-      "avg_ads_to_content_ratio": 0.19142,
-      "avg_ads_in_view": 1.68638,
-      "avg_ad_refresh": 75.651,
-      "total_unique_gpids": 19,
-      "id_absorption_rate": 0.7850000000000001,
-      "avg_page_weight": 34.8936,
-      "avg_cpu": 149.0796,
-      "total_supply_paths": 79,
-      "reseller_count": 20,
-      "owner_domain": "balconygardenweb.com",
-      "updated_at": "2025-07-09T01:03:31.378Z"
-    }
-  },
-  "smokedmeatsunday.com": {
-    "a2cr": 0.18153,
-    "response": {
-      "publisher_id": 61563,
-      "name": "Smoked Meat Sunday",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "smokedmeatsunday.com",
-      "pub_description": "Smoking Meat should be fun. Join us on our journey to teach people just like you how easy and enjoyable making food on your smoker or Traeger can be.",
-      "categories": [
-        "Food & Drink",
-        "Technology & Computing",
-        "Business and Finance",
-        "Communication",
-        "Home & Garden",
-        "Healthy Living",
-        "World Cuisines",
-        "Desserts and Baking",
-        "Cooking"
-      ],
-      "slug": "smokedmeatsunday-com",
-      "avg_ads_to_content_ratio": 0.18153,
-      "avg_ads_in_view": 1.9407,
-      "avg_ad_refresh": 35.657,
-      "total_unique_gpids": 8,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 7.0276,
-      "avg_cpu": 44.9605,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "smokedmeatsunday.com",
-      "updated_at": "2025-07-06T19:35:36.358Z"
-    }
-  },
-  "therealfooddietitians.com": {
-    "a2cr": 0.15811,
-    "response": {
-      "publisher_id": 87581,
-      "name": "The Real Food Dietitians",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "therealfooddietitians.com",
-      "pub_description": "The Real Food Dietitians is the passion-driven project of Jessica Beacom & Stacie Hassing. They share nutrition information and healthy gluten-free recipes",
-      "categories": [
-        "Food & Drink",
-        "Healthy Living",
-        "Medical Health",
-        "Shopping",
-        "Technology & Computing",
-        "World Cuisines",
-        "Desserts and Baking",
-        "Cooking",
-        "Healthy Cooking and Eating"
-      ],
-      "slug": "therealfooddietitians-com",
-      "avg_ads_to_content_ratio": 0.15811,
-      "avg_ads_in_view": 1.58303,
-      "avg_ad_refresh": 39.279,
-      "total_unique_gpids": 6,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 10.5679,
-      "avg_cpu": 95.4867,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "therealfooddietitians.com",
-      "updated_at": "2025-07-04T01:03:26.790Z"
-    }
-  },
-  "phyxter.ai": {
-    "a2cr": 0.1592,
-    "response": {
-      "publisher_id": 324677,
-      "name": "Phyxter Home Services",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "phyxter.ai",
-      "pub_description": "Phyxter Home Services is a nationally known but locally based Home Service company specializing in residential HVAC systems, electrical and plumbing. We are wholly committed to providing you and your family with the most highly trained and knowledgeable technicians and the best products on the market. ",
-      "categories": [
-        "Business and Finance",
-        "Home & Garden",
-        "Technology & Computing",
-        "Shopping",
-        "Business",
-        "Industries"
-      ],
-      "slug": "phyxter-ai",
-      "avg_ads_to_content_ratio": 0.1592,
-      "avg_ads_in_view": 1.70105,
-      "avg_ad_refresh": 40.588,
-      "total_unique_gpids": 8,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 8.28,
-      "avg_cpu": 43.9602,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "phyxter.ai",
-      "updated_at": "2025-06-28T23:51:21.839Z"
-    }
-  },
-  "thecakechica.com": {
-    "a2cr": 0.17377,
-    "response": {
-      "publisher_id": 68338,
-      "name": "The Cake Chica",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "thecakechica.com",
-      "pub_description": "Organic Cooking | From Scratch Baking",
-      "categories": [
-        "Food & Drink",
-        "Technology & Computing",
-        "Business and Finance",
-        "Personal Celebrations & Life Events",
-        "Shopping",
-        "Desserts and Baking",
-        "World Cuisines",
-        "Cooking"
-      ],
-      "slug": "thecakechica-com",
-      "avg_ads_to_content_ratio": 0.17377,
-      "avg_ads_in_view": 1.77053,
-      "avg_ad_refresh": 46.368,
-      "total_unique_gpids": 6,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 9.2949,
-      "avg_cpu": 61.9609,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "thecakechica.com",
-      "updated_at": "2025-07-02T14:43:15.033Z"
-    }
-  },
-  "breathetoinspire.com": {
-    "a2cr": 0.11235,
-    "response": {
-      "publisher_id": 242748,
-      "name": "Breathe To Inspire",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "breathetoinspire.com",
-      "pub_description": "Self-help. Personal development. Dating. Relatationships. Career Guide. Productivity. Education. Business.",
-      "categories": [
-        "Family and Relationships",
-        "Careers",
-        "Hobbies & Interests",
-        "Genres",
-        "Personal Finance",
-        "Parenting",
-        "Entertainment",
-        "Personal Celebrations & Life Events"
-      ],
-      "slug": "breathetoinspire-com",
-      "avg_ads_to_content_ratio": 0.11235,
-      "avg_ads_in_view": 1.33859,
-      "avg_ad_refresh": 24.179,
-      "total_unique_gpids": 6,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 5.9515,
-      "avg_cpu": 55.2054,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "breathetoinspire.com",
-      "updated_at": "2025-07-02T13:34:08.003Z"
-    }
-  },
-  "shrinkthatfootprint.com": {
-    "a2cr": 0.14736,
-    "response": {
-      "publisher_id": 337425,
-      "name": "Shrink That Footprint",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "shrinkthatfootprint.com",
-      "pub_description": "Read our comprehensive guide on electricity delivery charges, including how they are computed, what constitutes supply charges.",
-      "categories": [
-        "Business and Finance",
-        "Science",
-        "Home & Garden",
-        "Shopping",
-        "Environment",
-        "Business",
-        "Technology & Computing"
-      ],
-      "slug": "shrinkthatfootprint-com",
-      "avg_ads_to_content_ratio": 0.14736,
-      "avg_ads_in_view": 1.58146,
-      "avg_ad_refresh": 38.889,
-      "total_unique_gpids": 7,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 16.7481,
-      "avg_cpu": 43.3411,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "shrinkthatfootprint.com",
-      "updated_at": "2025-07-04T01:03:49.849Z"
-    }
-  },
-  "stereoupgrade.com": {
-    "a2cr": 0.21418,
-    "response": {
-      "publisher_id": 285539,
-      "name": "StereoUpgrade.com",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "stereoupgrade.com",
-      "pub_description": "At StereoUpgrade.com, we're all about helping you upgrade your stereo system with helpful tips and guides, so you get get the most out of your car's stereo system.",
-      "categories": [
-        "Technology & Computing",
-        "Video Gaming",
-        "Business and Finance",
-        "Automotive",
-        "Travel",
-        "Computing",
-        "Consumer Electronics",
-        "Smartphones",
-        "Software and Applications",
-        "Internet"
-      ],
-      "slug": "stereoupgrade-com",
-      "avg_ads_to_content_ratio": 0.21418,
-      "avg_ads_in_view": 2.021,
-      "avg_ad_refresh": 48.958,
-      "total_unique_gpids": 6,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 3.1671,
-      "avg_cpu": 32.269,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "stereoupgrade.com",
-      "updated_at": "2025-07-02T16:23:41.272Z"
-    }
-  },
-  "withablast.net": {
-    "a2cr": 0.34003,
-    "response": {
-      "publisher_id": 4630,
-      "name": "With A Blast",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "withablast.net",
-      "pub_description": "Quick and Easy recipes yet nutritious and delicious - breakfast to dessert !",
-      "categories": [
-        "Food & Drink",
-        "Genres",
-        "Technology & Computing",
-        "Entertainment",
-        "Desserts and Baking",
-        "World Cuisines",
-        "Cooking"
-      ],
-      "slug": "withablast-net",
-      "avg_ads_to_content_ratio": 0.34003,
-      "avg_ads_in_view": 1.92897,
-      "avg_ad_refresh": 47.701,
-      "total_unique_gpids": 9,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 10.5865,
-      "avg_cpu": 119.2427,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "withablast.net",
-      "updated_at": "2025-07-05T02:05:54.334Z"
-    }
-  },
-  "drivedetailed.com": {
-    "a2cr": 0.16172,
-    "response": {
-      "publisher_id": 65635,
-      "name": "DriveDetailed",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "drivedetailed.com",
-      "pub_description": "Attention to Detailing",
-      "categories": [
-        "Automotive",
-        "Business and Finance",
-        "Style & Fashion",
-        "Technology & Computing",
-        "Auto Parts",
-        "Car Culture"
-      ],
-      "slug": "drivedetailed-com",
-      "avg_ads_to_content_ratio": 0.16172,
-      "avg_ads_in_view": 1.54071,
-      "avg_ad_refresh": 41.316,
-      "total_unique_gpids": 5,
-      "id_absorption_rate": 0.96875,
-      "avg_page_weight": 4.0536,
-      "avg_cpu": 28.3429,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "drivedetailed.com",
-      "updated_at": "2025-07-02T12:07:00.691Z"
-    }
-  },
-  "thewoodenskillet.com": {
-    "a2cr": 0.14179,
-    "response": {
-      "publisher_id": 3349,
-      "name": "The Wooden Skillet",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "thewoodenskillet.com",
-      "pub_description": "The Wooden Skillet - a healthy food blog that features Whole30, Paleo, Gluten-Free, Grain-Free, Dairy-Free and Plant-Based recipes!",
-      "categories": [
-        "Food & Drink",
-        "Technology & Computing",
-        "Business and Finance",
-        "Healthy Living",
-        "World Cuisines",
-        "Desserts and Baking",
-        "Cooking"
-      ],
-      "slug": "thewoodenskillet",
-      "avg_ads_to_content_ratio": 0.14179,
-      "avg_ads_in_view": 1.533,
-      "avg_ad_refresh": 26.322,
-      "total_unique_gpids": 8,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 13.4918,
-      "avg_cpu": 65.9396,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "thewoodenskillet.com",
-      "updated_at": "2025-07-09T01:01:26.625Z"
-    }
-  },
-  "toolsowner.com": {
-    "a2cr": 0.16084,
-    "response": {
-      "publisher_id": 92940,
-      "name": "ToolsOwner",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "toolsowner.com",
-      "pub_description": "Guides & Resources For Homeowners, DIY and Handymen",
-      "categories": [
-        "Business and Finance",
-        "Technology & Computing",
-        "Home & Garden",
-        "Automotive",
-        "Industries",
-        "Computing"
-      ],
-      "slug": "toolsowner-com",
-      "avg_ads_to_content_ratio": 0.16084,
-      "avg_ads_in_view": 1.59186,
-      "avg_ad_refresh": 56.25,
-      "total_unique_gpids": 5,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 1.5257,
-      "avg_cpu": 19.633,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "toolsowner.com",
-      "updated_at": "2025-06-28T02:01:05.922Z"
-    }
-  },
-  "nextseo.net": {
+  "familydaystriedandtested.com": {
     "a2cr": null,
     "response": {
-      "error": "{}",
-      "status_code": 404
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   },
-  "geekytricee.com": {
-    "a2cr": 0.15394,
+  "excelsamurai.com": {
+    "a2cr": null,
     "response": {
-      "publisher_id": 62822,
-      "name": "Geeky Tricee",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "geekytricee.com",
-      "pub_description": "Find out my favorite keto and low-carb summer dinner recipes that are delicious, easy to prepare, and impressive for family and friends.",
-      "categories": [
-        "Healthy Living",
-        "Food & Drink",
-        "Style & Fashion",
-        "Medical Health",
-        "Nutrition",
-        "Weight Loss"
-      ],
-      "slug": "geekytricee-com",
-      "avg_ads_to_content_ratio": 0.15394,
-      "avg_ads_in_view": 1.35566,
-      "avg_ad_refresh": 49.0,
-      "total_unique_gpids": 5,
-      "id_absorption_rate": 0.96875,
-      "avg_page_weight": 4.4258,
-      "avg_cpu": 19.1361,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "geekytricee.com",
-      "updated_at": "2025-07-05T16:12:45.194Z"
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   },
-  "foodfromportugal.com": {
-    "a2cr": 0.18228,
+  "emmaonline.co.uk": {
+    "a2cr": null,
     "response": {
-      "publisher_id": 61465,
-      "name": "Food From Portugal",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "foodfromportugal.com",
-      "pub_description": "Great recipes from Portugal",
-      "categories": [
-        "Food & Drink",
-        "Healthy Living",
-        "World Cuisines",
-        "Desserts and Baking",
-        "Cooking"
-      ],
-      "slug": "foodfromportugal-com",
-      "avg_ads_to_content_ratio": 0.18228,
-      "avg_ads_in_view": 1.59821,
-      "avg_ad_refresh": 39.915,
-      "total_unique_gpids": 26,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 13.5019,
-      "avg_cpu": 124.3172,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "foodfromportugal.com",
-      "updated_at": "2025-07-09T01:03:30.324Z"
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   },
-  "pithandvigor.com": {
-    "a2cr": 0.16784,
+  "flourishingplants.com": {
+    "a2cr": null,
     "response": {
-      "publisher_id": 181371,
-      "name": "PITH + VIGOR by Rochelle Greayer",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "pithandvigor.com",
-      "pub_description": "Learn where and how to get your garden soils tested with a state-by-state soil testing guide. Healthy soils grow healthy plants. Updated 2022",
-      "categories": [
-        "Home & Garden",
-        "Food & Drink",
-        "Genres",
-        "Attractions",
-        "Gardening",
-        "Outdoor Decorating",
-        "Landscaping"
-      ],
-      "slug": "pithandvigor-com",
-      "avg_ads_to_content_ratio": 0.16784,
-      "avg_ads_in_view": 1.49779,
-      "avg_ad_refresh": 42.642,
-      "total_unique_gpids": 2,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 17.275,
-      "avg_cpu": 21.9926,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "pithandvigor.com",
-      "updated_at": "2025-06-27T04:48:46.694Z"
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   },
-  "withfoodandlove.com": {
-    "a2cr": 0.23344,
+  "meta-endurance.com": {
+    "a2cr": null,
     "response": {
-      "publisher_id": 65283,
-      "name": "withfoodandlove.com",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "withfoodandlove.com",
-      "pub_description": "Food, and stories to help us heal.",
-      "categories": [
-        "Food & Drink",
-        "Medical Health",
-        "Healthy Living",
-        "Business and Finance",
-        "Desserts and Baking",
-        "World Cuisines",
-        "Diseases and Conditions",
-        "Alcoholic Beverages"
-      ],
-      "slug": "withfoodandlove-com",
-      "avg_ads_to_content_ratio": 0.23344,
-      "avg_ads_in_view": 2.27379,
-      "avg_ad_refresh": 50.957,
-      "total_unique_gpids": 8,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 1.9238,
-      "avg_cpu": 24.6038,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "withfoodandlove.com",
-      "updated_at": "2025-07-09T01:03:28.986Z"
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "savory.media": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "productreviewmom.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "naturallieplantbased.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "fifteenspatulas.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "ohlardy.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "centralparkpaws.net": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "thetravelhack.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "gocookyummy.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "threadistry.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "whatyoumakeitblog.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "rugbydome.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "homesteadersofamerica.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "tiffinandteaofficial.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "thedailythrive.org": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "yarnsociety.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "chefelizabethreese.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "daysinspired.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "anopensuitcase.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "mashupmom.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "creationsbykara.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "bustlingnest.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "buyersask.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "thehandyfoodie.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "fashionedible.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "inbloombakery.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "onestopchopllc.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "tweakandtinker.net": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "modernfrugality.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "thefirstyearblog.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "mindymakes.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "nicolelabarge.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "grandbaby-cakes.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "oladaniela.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "schoolnightvegan.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "james-mccormack.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "spanishunraveled.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "sarahscucinabella.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "eatmovehack.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "simplicityrelished.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "inkristaskitchen.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "walkingonmedia.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "hauteandhealthyliving.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "essenparadies.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "classymommy.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "bigflavorstinykitchen.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "mmbbookblog.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "justinecelina.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "balancingmotherhood.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "dapperconfidential.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "spinachandbacon.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "vrgaminguniverse.top": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "thekitchenmccabe.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "peaktoplate.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "webmedianetwork.co.uk": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "flusterbuster.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "wellnesscreatives.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "plantedwell.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "roamingtheamericas.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "goldenleads.co.uk": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "everythingmom.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "thecleaneatingcouple.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "moribyan.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "glutenfreeonashoestring.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "pinchofnom.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "thearcadestick.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "dwellbymichelle.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "theprojectpile.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "plantbasedredhead.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "brbgoingtodisney.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "thedecoratedcookie.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "thewellnourishedmama.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "superfoodsanctuary.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "dinnerthendessert.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "nontoygifts.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "smarttvmaster.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "ourgabledhome.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "stoleninspiration.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
+    }
+  },
+  "mommy-diary.com": {
+    "a2cr": null,
+    "response": {
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   },
   "babygizmo.com": {
-    "a2cr": 0.25602,
-    "response": {
-      "publisher_id": 66275,
-      "name": "Baby Gizmo",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "babygizmo.com",
-      "pub_description": "Browse hundreds of incredible parenting resources, vetted product reviews, and family-friendly recipes perfect for the busy parent on the go. Live your best life, we can help!",
-      "categories": [
-        "Food & Drink",
-        "Family and Relationships",
-        "Business and Finance",
-        "Travel",
-        "Desserts and Baking",
-        "World Cuisines"
-      ],
-      "slug": "babygizmo-com",
-      "avg_ads_to_content_ratio": 0.25602,
-      "avg_ads_in_view": 2.14586,
-      "avg_ad_refresh": 36.728,
-      "total_unique_gpids": 10,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 10.7417,
-      "avg_cpu": 58.6086,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "babygizmo.com",
-      "updated_at": "2025-07-09T01:03:28.873Z"
-    }
-  },
-  "steamykitchen.com": {
-    "a2cr": 0.14779,
-    "response": {
-      "publisher_id": 602,
-      "name": "Steamy Kitchen Recipes Giveaways",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "steamykitchen.com",
-      "pub_description": "Steamy Kitchen is the home of fast simple easy Asian recipes created by cookbook author and television personality Jaden Hair.",
-      "categories": [
-        "Food & Drink",
-        "Technology & Computing",
-        "Shopping",
-        "Style & Fashion",
-        "World Cuisines",
-        "Desserts and Baking",
-        "Computing"
-      ],
-      "slug": "steamykitchen",
-      "avg_ads_to_content_ratio": 0.14779,
-      "avg_ads_in_view": 1.69732,
-      "avg_ad_refresh": 69.223,
-      "total_unique_gpids": 8,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 5.8504,
-      "avg_cpu": 54.1569,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "steamykitchen.com",
-      "updated_at": "2025-07-09T01:01:05.276Z"
-    }
-  },
-  "thehealthytoast.com": {
-    "a2cr": 0.12778,
-    "response": {
-      "publisher_id": 295267,
-      "name": "thehealthytoast.com",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "thehealthytoast.com",
-      "pub_description": "Healthy breafast recipes created by a Registered Dietitian",
-      "categories": null,
-      "slug": "thehealthytoast-com",
-      "avg_ads_to_content_ratio": 0.12778,
-      "avg_ads_in_view": 1.48772,
-      "avg_ad_refresh": 26.667,
-      "total_unique_gpids": 10,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 1.2482,
-      "avg_cpu": 4.9151,
-      "total_supply_paths": 67,
-      "reseller_count": 14,
-      "owner_domain": "thehealthytoast.com",
-      "updated_at": "2025-07-02T16:43:49.022Z"
-    }
-  },
-  "justinecooksvegan.com": {
-    "a2cr": 0.13218,
-    "response": {
-      "publisher_id": 324490,
-      "name": "Justine Cooks Vegan",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "justinecooksvegan.com",
-      "pub_description": "EASY WHOLE FOOD PLANT BASED RECIPES",
-      "categories": [
-        "Food & Drink",
-        "Healthy Living",
-        "Genres",
-        "Medical Health",
-        "World Cuisines",
-        "Healthy Cooking and Eating",
-        "Cooking",
-        "Nutrition"
-      ],
-      "slug": "justinecooksvegan-com",
-      "avg_ads_to_content_ratio": 0.13218,
-      "avg_ads_in_view": 1.66172,
-      "avg_ad_refresh": 30.373,
-      "total_unique_gpids": 5,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 14.4444,
-      "avg_cpu": 63.6738,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "justinecooksvegan.com",
-      "updated_at": "2025-07-02T12:52:02.838Z"
-    }
-  },
-  "frugalflyer.ca": {
-    "a2cr": 0.13325,
-    "response": {
-      "publisher_id": 341584,
-      "name": "Frugal Flyer",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "frugalflyer.ca",
-      "pub_description": "Frugal Flyer aims to make the travel dreams of Canadians a reality. We will guide you to earn and redeem the points needed to get off the tarmac.",
-      "categories": [
-        "Personal Finance",
-        "Travel",
-        "Business and Finance",
-        "Shopping",
-        "Travel Type"
-      ],
-      "slug": "frugalflyer-ca",
-      "avg_ads_to_content_ratio": 0.13325,
-      "avg_ads_in_view": 1.24124,
-      "avg_ad_refresh": 56.053,
-      "total_unique_gpids": 3,
-      "id_absorption_rate": 0.96875,
-      "avg_page_weight": 10.2796,
-      "avg_cpu": 35.9462,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "frugalflyer.ca",
-      "updated_at": "2025-07-04T01:03:45.894Z"
-    }
-  },
-  "theloverspassport.com": {
     "a2cr": null,
     "response": {
-      "publisher_id": 448912,
-      "name": "The Lovers Passport",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "theloverspassport.com",
-      "pub_description": "The Lovers Passport provides adventure tips and destination guides so you can spend less time planning and more time exploring.",
-      "categories": null,
-      "slug": "theloverspassport",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": 16.0,
-      "total_unique_gpids": 0,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 0.0,
-      "avg_cpu": 0.0,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "theloverspassport.com",
-      "updated_at": "2025-06-14T06:49:00.278Z"
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   },
-  "zheelicious.com": {
+  "loveliliya.com": {
     "a2cr": null,
     "response": {
-      "publisher_id": 324936,
-      "name": "Zheelicious",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "zheelicious.com",
-      "pub_description": "I\u2019m Zheel (Jill); a wife, a mom, and a big time foodie. My love for food probably started while I was still in the womb, haha. My mom LOVES to cook and feed others. The older I got, the more I appreciated the art of cooking. From creating new recipes to adding my own touch to old recipes, cooking became almost as therapeutic as eating\u2026.. Almost\u2026. ;)",
-      "categories": [
-        "Food & Drink",
-        "Family and Relationships",
-        "Personal Celebrations & Life Events",
-        "Healthy Living",
-        "Desserts and Baking",
-        "Cooking",
-        "World Cuisines"
-      ],
-      "slug": "zheelicious-com",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 3,
-      "id_absorption_rate": null,
-      "avg_page_weight": 1.7899,
-      "avg_cpu": 2.571,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "zheelicious.com",
-      "updated_at": "2025-07-02T22:59:35.712Z"
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   },
-  "tastesofhomemade.com": {
-    "a2cr": 0.23554,
-    "response": {
-      "publisher_id": 66549,
-      "name": "Tastes of Homemade",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "tastesofhomemade.com",
-      "pub_description": "Easy, homemade recipes for the whole family. Make delicious meals at home with simple ingredients without spending hours in the kitchen.",
-      "categories": [
-        "Food & Drink",
-        "Books and Literature",
-        "Hobbies & Interests",
-        "Communication",
-        "Home & Garden",
-        "Holidays",
-        "Desserts and Baking",
-        "World Cuisines",
-        "Cooking"
-      ],
-      "slug": "tastesofhomemade-com",
-      "avg_ads_to_content_ratio": 0.23554,
-      "avg_ads_in_view": 1.66454,
-      "avg_ad_refresh": 40.09,
-      "total_unique_gpids": 11,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 6.5017,
-      "avg_cpu": 67.4267,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "tastesofhomemade.com",
-      "updated_at": "2025-07-08T05:41:07.437Z"
-    }
-  },
-  "inrspecialties.com": {
+  "jasperandwillow.com": {
     "a2cr": null,
     "response": {
-      "publisher_id": 325091,
-      "name": "inrspecialties.com",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "inrspecialties.com",
-      "pub_description": null,
-      "categories": null,
-      "slug": "inrspecialties-com",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 0,
-      "id_absorption_rate": null,
-      "avg_page_weight": 1.0153,
-      "avg_cpu": 3.5156,
-      "total_supply_paths": 0,
-      "reseller_count": null,
-      "owner_domain": null,
-      "updated_at": "2025-03-17T02:14:41.781Z"
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   },
-  "thenomadvisor.com": {
-    "a2cr": 0.10082,
-    "response": {
-      "publisher_id": 90630,
-      "name": "The Nomadvisor",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "thenomadvisor.com",
-      "pub_description": "The Nomadvisor - Travel blog for independent travelers. Travel guides, tips and in-depth destination itineraries",
-      "categories": [
-        "Travel",
-        "Attractions",
-        "Real Estate",
-        "Food & Drink",
-        "Travel Type",
-        "Travel Locations"
-      ],
-      "slug": "thenomadvisor-com",
-      "avg_ads_to_content_ratio": 0.10082,
-      "avg_ads_in_view": 1.05089,
-      "avg_ad_refresh": 38.898,
-      "total_unique_gpids": 3,
-      "id_absorption_rate": 0.96875,
-      "avg_page_weight": 4.0224,
-      "avg_cpu": 46.1453,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "thenomadvisor.com",
-      "updated_at": "2025-07-02T05:13:57.073Z"
-    }
-  },
-  "wholefoodbellies.com": {
-    "a2cr": 0.15583,
-    "response": {
-      "publisher_id": 62608,
-      "name": "Whole Food Bellies",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "wholefoodbellies.com",
-      "pub_description": "We focus on fast, simple and seasonal dishes the whole family will love - kid approved of course! Healthy and wholesome doesn't have to be boring!",
-      "categories": [
-        "Food & Drink",
-        "Business and Finance",
-        "Family and Relationships",
-        "Healthy Living",
-        "Home & Garden",
-        "Shopping",
-        "World Cuisines",
-        "Desserts and Baking",
-        "Cooking"
-      ],
-      "slug": "wholefoodbellies-com",
-      "avg_ads_to_content_ratio": 0.15583,
-      "avg_ads_in_view": 1.58092,
-      "avg_ad_refresh": 48.944,
-      "total_unique_gpids": 7,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 11.4338,
-      "avg_cpu": 96.4654,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "wholefoodbellies.com",
-      "updated_at": "2025-07-05T06:39:53.204Z"
-    }
-  },
-  "fithealthybest.com": {
+  "holistickenko.com": {
     "a2cr": null,
     "response": {
-      "publisher_id": 65499,
-      "name": "Fit Healthy Best",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "fithealthybest.com",
-      "pub_description": "We reviewed the best ankle weights in every price range to get you toned legs, glutes, and abs, improve your endurance and balance, and burn more calories!",
-      "categories": [
-        "health",
-        "Healthy Living",
-        "Medical Health",
-        "Style & Fashion",
-        "Food & Drink",
-        "Fitness and Exercise",
-        "Nutrition"
-      ],
-      "slug": "fithealthybest-com",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 0,
-      "id_absorption_rate": null,
-      "avg_page_weight": 4.4068,
-      "avg_cpu": 11.5463,
-      "total_supply_paths": 66,
-      "reseller_count": 14,
-      "owner_domain": "fithealthybest.com",
-      "updated_at": "2025-03-16T21:06:08.131Z"
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   },
-  "fromscratchfarmstead.com": {
-    "a2cr": 0.19382,
-    "response": {
-      "publisher_id": 340811,
-      "name": "From Scratch Farmstead",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "fromscratchfarmstead.com",
-      "pub_description": "Simple homesteading on a budget. Learn alongside us as we grow, preserve, cook, and feed our family year-round on our 5 acres!",
-      "categories": [
-        "Food & Drink",
-        "Home & Garden",
-        "Shopping",
-        "Healthy Living",
-        "Cooking",
-        "Healthy Cooking and Eating",
-        "Nutrition"
-      ],
-      "slug": "fromscratchfarmstead-com",
-      "avg_ads_to_content_ratio": 0.19382,
-      "avg_ads_in_view": 1.96338,
-      "avg_ad_refresh": 43.841,
-      "total_unique_gpids": 8,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 15.5554,
-      "avg_cpu": 101.7803,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "fromscratchfarmstead.com",
-      "updated_at": "2025-07-02T17:28:30.811Z"
-    }
-  },
-  "onekindesign.com": {
-    "a2cr": 0.23966,
-    "response": {
-      "publisher_id": 59517,
-      "name": "One Kindesign",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "onekindesign.com",
-      "pub_description": "Interior design and architecture website, One Kindesign is focused on inspiring creativity and spreading fresh ideas across the globe.",
-      "categories": [
-        "Home & Garden",
-        "Style & Fashion",
-        "Business and Finance",
-        "Real Estate",
-        "Interior Decorating",
-        "Remodeling & Construction",
-        "Fine Art"
-      ],
-      "slug": "onekindesign-com",
-      "avg_ads_to_content_ratio": 0.23966,
-      "avg_ads_in_view": 2.05444,
-      "avg_ad_refresh": 49.115,
-      "total_unique_gpids": 7,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 10.8447,
-      "avg_cpu": 150.0381,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "onekindesign.com",
-      "updated_at": "2025-07-09T01:03:31.698Z"
-    }
-  },
-  "thisbagogirl.com": {
-    "a2cr": 0.18233,
-    "response": {
-      "publisher_id": 325121,
-      "name": "ThisBagoGirl",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "thisbagogirl.com",
-      "pub_description": "ThisBagoGirl, your one stop shop for step by step traditional Afro Caribbean recipes. Delicious comfort food for family gatherings.",
-      "categories": [
-        "Food & Drink",
-        "Healthy Living",
-        "Sensitive Topics",
-        "Hobbies & Interests",
-        "Home & Garden",
-        "Desserts and Baking",
-        "World Cuisines",
-        "Cooking"
-      ],
-      "slug": "thisbagogirl-com",
-      "avg_ads_to_content_ratio": 0.18233,
-      "avg_ads_in_view": 1.48962,
-      "avg_ad_refresh": 43.594,
-      "total_unique_gpids": 8,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 8.7227,
-      "avg_cpu": 87.2073,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "thisbagogirl.com",
-      "updated_at": "2025-06-26T01:26:43.783Z"
-    }
-  },
-  "justjamila.com": {
+  "wiccaacademy.com": {
     "a2cr": null,
     "response": {
-      "publisher_id": 324691,
-      "name": "LADANGTOTO",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "justjamila.com",
-      "pub_description": "Just Jamila, a blog providing you with resources on all things Gen Z. Including college advice, dating tips, how to manifest your dreams, money-making ideas, and much more!",
-      "categories": [
-        "Style & Fashion",
-        "Technology & Computing",
-        "Family and Relationships",
-        "Hobbies & Interests",
-        "Men's Fashion",
-        "Computing",
-        "Parenting",
-        "Dating"
-      ],
-      "slug": "justjamila-com",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 4,
-      "id_absorption_rate": null,
-      "avg_page_weight": 1.9927,
-      "avg_cpu": 1.4855,
-      "total_supply_paths": 0,
-      "reseller_count": null,
-      "owner_domain": null,
-      "updated_at": "2025-03-17T02:14:24.855Z"
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   },
-  "alltech.how": {
-    "a2cr": 0.15667,
-    "response": {
-      "publisher_id": 340836,
-      "name": "All Tech How",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "alltech.how",
-      "pub_description": "Tech Tips, How-To Guides and Support by Muhammad Qasim",
-      "categories": [
-        "Technology & Computing",
-        "Video Gaming",
-        "Pop Culture",
-        "Smartphones",
-        "Consumer Electronics",
-        "Computer Peripherals",
-        "Computing",
-        "Operating Systems",
-        "Internet",
-        "Software and Applications"
-      ],
-      "slug": "alltech-how",
-      "avg_ads_to_content_ratio": 0.15667,
-      "avg_ads_in_view": 1.66918,
-      "avg_ad_refresh": 37.174,
-      "total_unique_gpids": 6,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 2.9735,
-      "avg_cpu": 24.1677,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "alltech.how",
-      "updated_at": "2025-07-02T17:58:05.572Z"
-    }
-  },
-  "sidewalkshoes.com": {
-    "a2cr": 0.16827,
-    "response": {
-      "publisher_id": 63407,
-      "name": "Sidewalk Shoes",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "sidewalkshoes.com",
-      "pub_description": "Browse hundreds of easy delicious recipes, tasty cocktails and travel reviews to help you live your best life.",
-      "categories": [
-        "Food & Drink",
-        "Business and Finance",
-        "Technology & Computing",
-        "Attractions",
-        "Shopping",
-        "World Cuisines",
-        "Desserts and Baking",
-        "Cooking"
-      ],
-      "slug": "sidewalkshoes-com",
-      "avg_ads_to_content_ratio": 0.16827,
-      "avg_ads_in_view": 1.75613,
-      "avg_ad_refresh": 29.831,
-      "total_unique_gpids": 8,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 9.8045,
-      "avg_cpu": 74.9682,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "sidewalkshoes.com",
-      "updated_at": "2025-07-09T01:03:29.589Z"
-    }
-  },
-  "polishhousewife.com": {
-    "a2cr": 0.14757,
-    "response": {
-      "publisher_id": 62073,
-      "name": "Polish Housewife",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "polishhousewife.com",
-      "pub_description": "Polish recipes served up with tidbits of folklore, customs, and history",
-      "categories": [
-        "Food & Drink",
-        "Desserts and Baking",
-        "World Cuisines",
-        "Cooking"
-      ],
-      "slug": "polishhousewife-com",
-      "avg_ads_to_content_ratio": 0.14757,
-      "avg_ads_in_view": 2.07567,
-      "avg_ad_refresh": 42.451,
-      "total_unique_gpids": 8,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 7.4125,
-      "avg_cpu": 68.1951,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "polishhousewife.com",
-      "updated_at": "2025-07-02T02:47:59.164Z"
-    }
-  },
-  "justsimplywander.com": {
-    "a2cr": 0.14288,
-    "response": {
-      "publisher_id": 63927,
-      "name": "Simply Wander",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "justsimplywander.com",
-      "pub_description": "curated travel guides to help you wander simply and simply wander",
-      "categories": [
-        "Travel",
-        "Attractions",
-        "Sports",
-        "Business and Finance",
-        "Travel Type",
-        "Outdoor Attractions",
-        "Travel Locations"
-      ],
-      "slug": "justsimplywander-com",
-      "avg_ads_to_content_ratio": 0.14288,
-      "avg_ads_in_view": 1.43378,
-      "avg_ad_refresh": 49.835,
-      "total_unique_gpids": 7,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 10.9747,
-      "avg_cpu": 60.123,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "justsimplywander.com",
-      "updated_at": "2025-07-08T05:20:29.239Z"
-    }
-  },
-  "smartmoneymamas.com": {
-    "a2cr": 0.10225,
-    "response": {
-      "publisher_id": 64979,
-      "name": "Smart Money Mamas",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "smartmoneymamas.com",
-      "pub_description": "Helping moms see that there is a better way to do money. One that aligns with your values and unique goals, allows you to reduce stress and build wealth, and create the full and purposeful life you deserve.",
-      "categories": [
-        "Business and Finance",
-        "Technology & Computing",
-        "Personal Finance",
-        "Events",
-        "Business",
-        "Personal Investing"
-      ],
-      "slug": "smartmoneymamas-com",
-      "avg_ads_to_content_ratio": 0.10225,
-      "avg_ads_in_view": 1.19554,
-      "avg_ad_refresh": 40.652,
-      "total_unique_gpids": 3,
-      "id_absorption_rate": 0.96875,
-      "avg_page_weight": 10.1629,
-      "avg_cpu": 23.5529,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "smartmoneymamas.com",
-      "updated_at": "2025-07-05T04:34:08.848Z"
-    }
-  },
-  "voyapon.com": {
+  "busybloomingjoy.com": {
     "a2cr": null,
     "response": {
-      "publisher_id": 345908,
-      "name": "VOYAPON",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "voyapon.com",
-      "pub_description": "At VOYAPON, we compile travel tips, destination information, unique cultural experiences and inspiration for your next trip to Japan.",
-      "categories": [
-        "Attractions",
-        "Travel",
-        "Food & Drink",
-        "Genres",
-        "Travel Locations",
-        "Museums & Galleries",
-        "Asia Travel"
-      ],
-      "slug": "voyapon-com",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 4,
-      "id_absorption_rate": null,
-      "avg_page_weight": 7.6484,
-      "avg_cpu": 26.0641,
-      "total_supply_paths": 54,
-      "reseller_count": 7,
-      "owner_domain": "voyapon.com",
-      "updated_at": "2025-07-04T01:03:45.173Z"
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   },
-  "notionwizard.com": {
-    "a2cr": 0.06973,
-    "response": {
-      "publisher_id": 190880,
-      "name": "Notion Wizard",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "notionwizard.com",
-      "pub_description": "Your one-stop-shop for templates, tips, tricks and productivity hacks for Notion.",
-      "categories": [
-        "Technology & Computing",
-        "Business and Finance",
-        "Shopping",
-        "Personal Finance",
-        "Computing",
-        "Business"
-      ],
-      "slug": "notionwizard-com",
-      "avg_ads_to_content_ratio": 0.06973,
-      "avg_ads_in_view": 0.96673,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 7,
-      "id_absorption_rate": null,
-      "avg_page_weight": 4.2711,
-      "avg_cpu": 7.2482,
-      "total_supply_paths": 1,
-      "reseller_count": null,
-      "owner_domain": null,
-      "updated_at": "2025-05-22T00:53:14.148Z"
-    }
-  },
-  "praywithconfidence.com": {
-    "a2cr": 0.2528,
-    "response": {
-      "publisher_id": 239949,
-      "name": "Pray With Confidence",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "praywithconfidence.com",
-      "pub_description": "Want to learn how to pray with confidence? Whether you are a beginner with prayer or a prayer warrior, your prayers matter.",
-      "categories": [
-        "Religion & Spirituality",
-        "Business and Finance",
-        "Healthy Living",
-        "Communication",
-        "Spirituality",
-        "Christianity",
-        "Wellness",
-        "Alternative Medicine",
-        "Personal Celebrations & Life Events"
-      ],
-      "slug": "praywithconfidence-com",
-      "avg_ads_to_content_ratio": 0.2528,
-      "avg_ads_in_view": 2.21697,
-      "avg_ad_refresh": 37.531,
-      "total_unique_gpids": 14,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 4.6735,
-      "avg_cpu": 33.5466,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "praywithconfidence.com",
-      "updated_at": "2025-06-24T07:27:50.892Z"
-    }
-  },
-  "onehundreddollarsamonth.com": {
-    "a2cr": 0.15302,
-    "response": {
-      "publisher_id": 60340,
-      "name": "One Hundred Dollars a Month",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "onehundreddollarsamonth.com",
-      "pub_description": "One Hundred Dollars a Month",
-      "categories": [
-        "Food & Drink",
-        "Family and Relationships",
-        "Business and Finance",
-        "Events",
-        "Home & Garden",
-        "Desserts and Baking",
-        "World Cuisines",
-        "Hobbies & Interests"
-      ],
-      "slug": "onehundreddollarsamonth-com",
-      "avg_ads_to_content_ratio": 0.15302,
-      "avg_ads_in_view": 1.52417,
-      "avg_ad_refresh": 31.147,
-      "total_unique_gpids": 8,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 23.1327,
-      "avg_cpu": 90.0143,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "onehundreddollarsamonth.com",
-      "updated_at": "2025-07-09T01:03:29.375Z"
-    }
-  },
-  "spiritualify.org": {
-    "a2cr": 0.24839,
-    "response": {
-      "publisher_id": 336194,
-      "name": "Spiritualify",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "spiritualify.org",
-      "pub_description": "Spiritualify.org, is an attempt to present you with an alternative method for approaching the practice of the art of living.",
-      "categories": [
-        "Religion & Spirituality",
-        "Family and Relationships",
-        "Hobbies & Interests",
-        "Healthy Living",
-        "Spirituality",
-        "Astrology",
-        "Personal Celebrations & Life Events",
-        "Wellness"
-      ],
-      "slug": "spiritualify-org",
-      "avg_ads_to_content_ratio": 0.24839,
-      "avg_ads_in_view": 0.91442,
-      "avg_ad_refresh": 25.756,
-      "total_unique_gpids": 7,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 5.255,
-      "avg_cpu": 40.58,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "spiritualify.org",
-      "updated_at": "2025-06-24T07:32:30.585Z"
-    }
-  },
-  "wagonwheelhomestead.com": {
-    "a2cr": 0.12851,
-    "response": {
-      "publisher_id": 436066,
-      "name": "Wagon Wheel Homestead",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "wagonwheelhomestead.com",
-      "pub_description": "Learn how to grow, preserve and cook your own food along with how to cook with sourdough and home dairy making on a modern day homestead.",
-      "categories": [
-        "Genres",
-        "Lifestyle",
-        "Travel",
-        "Travel Type"
-      ],
-      "slug": "wagonwheelhomestead",
-      "avg_ads_to_content_ratio": 0.12851,
-      "avg_ads_in_view": 1.37496,
-      "avg_ad_refresh": 44.891,
-      "total_unique_gpids": 1,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 2.4834,
-      "avg_cpu": 33.9333,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "wagonwheelhomestead.com",
-      "updated_at": "2025-07-04T01:11:24.634Z"
-    }
-  },
-  "xtrium.com": {
-    "a2cr": 0.10847,
-    "response": {
-      "publisher_id": 84013,
-      "name": "Xtrium - Tech Solutions",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "xtrium.com",
-      "pub_description": "We troubleshoot your frequent issues related to Broadband, Mobile, Streaming issues & more Tech Issues through our expert guides and troubleshooting",
-      "categories": [
-        "Technology & Computing",
-        "Business and Finance",
-        "Entertainment",
-        "Law",
-        "Communication",
-        "Computing",
-        "Business",
-        "Information and Network Security"
-      ],
-      "slug": "xtrium-com",
-      "avg_ads_to_content_ratio": 0.10847,
-      "avg_ads_in_view": 1.66179,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 7,
-      "id_absorption_rate": null,
-      "avg_page_weight": 23.9306,
-      "avg_cpu": 59.8103,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "xtrium.com",
-      "updated_at": "2025-06-24T03:08:30.848Z"
-    }
-  },
-  "lifeisbutadish.com": {
-    "a2cr": 0.16274,
-    "response": {
-      "publisher_id": 60391,
-      "name": "Life is but a Dish",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "lifeisbutadish.com",
-      "pub_description": "Welcome to Life is But a Dish! Discover easy, approachable and delicious recipes for the everyday home cook, using simple ingredients and pantry staples.",
-      "categories": [
-        "Food & Drink",
-        "Healthy Living",
-        "Family and Relationships",
-        "Business and Finance",
-        "Hobbies & Interests",
-        "World Cuisines",
-        "Desserts and Baking",
-        "Cooking"
-      ],
-      "slug": "lifeisbutadish-com",
-      "avg_ads_to_content_ratio": 0.16274,
-      "avg_ads_in_view": 1.73525,
-      "avg_ad_refresh": 41.343,
-      "total_unique_gpids": 8,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 8.7192,
-      "avg_cpu": 83.4701,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "lifeisbutadish.com",
-      "updated_at": "2025-07-09T01:03:29.896Z"
-    }
-  },
-  "thehouseandhomestead.com": {
-    "a2cr": 0.10263,
-    "response": {
-      "publisher_id": 65338,
-      "name": "The House & Homestead - Helping you create, grow and live a good life... From scratch!",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "thehouseandhomestead.com",
-      "pub_description": "Homesteading, homemaking, organic gardening, cooking from scratch, frugal living, natural parenting, preparedness, simple living, back to basics",
-      "categories": [
-        "Food & Drink",
-        "Business and Finance",
-        "Home & Garden",
-        "Technology & Computing",
-        "World Cuisines",
-        "Desserts and Baking"
-      ],
-      "slug": "thehouseandhomestead-com",
-      "avg_ads_to_content_ratio": 0.10263,
-      "avg_ads_in_view": 1.29511,
-      "avg_ad_refresh": 26.19,
-      "total_unique_gpids": 9,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 11.6259,
-      "avg_cpu": 43.1848,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "thehouseandhomestead.com",
-      "updated_at": "2025-07-06T13:01:11.987Z"
-    }
-  },
-  "thefoodieandthefix.com": {
-    "a2cr": 0.12044,
-    "response": {
-      "publisher_id": 62393,
-      "name": "The Foodie and The Fix",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "thefoodieandthefix.com",
-      "pub_description": "Making healthy, delicious meals that are family-friendly, 21 Day Fix approved and include Weight Watchers Freestyle Points!",
-      "categories": [
-        "Food & Drink",
-        "Family and Relationships",
-        "Technology & Computing",
-        "Hobbies & Interests",
-        "Healthy Living",
-        "Home & Garden",
-        "World Cuisines",
-        "Desserts and Baking",
-        "Cooking"
-      ],
-      "slug": "thefoodieandthefix-com",
-      "avg_ads_to_content_ratio": 0.12044,
-      "avg_ads_in_view": 1.54326,
-      "avg_ad_refresh": 48.733,
-      "total_unique_gpids": 8,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 12.413,
-      "avg_cpu": 76.2614,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "thefoodieandthefix.com",
-      "updated_at": "2025-07-05T20:05:30.830Z"
-    }
-  },
-  "caniretireyet.com": {
-    "a2cr": 0.15613,
-    "response": {
-      "publisher_id": 63869,
-      "name": "Can I Retire Yet?",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "caniretireyet.com",
-      "pub_description": "Save More - Invest Smarter - Retire Sooner",
-      "categories": [
-        "Personal Finance",
-        "Business and Finance",
-        "Careers",
-        "Real Estate",
-        "Personal Investing"
-      ],
-      "slug": "caniretireyet-com",
-      "avg_ads_to_content_ratio": 0.15613,
-      "avg_ads_in_view": 1.66101,
-      "avg_ad_refresh": 38.14,
-      "total_unique_gpids": 8,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 5.5345,
-      "avg_cpu": 41.2742,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "caniretireyet.com",
-      "updated_at": "2025-07-08T04:31:57.334Z"
-    }
-  },
-  "kainspired.com": {
-    "a2cr": 0.16311,
-    "response": {
-      "publisher_id": 324791,
-      "name": "KAinspired",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "kainspired.com",
-      "pub_description": "A Lifestyle Blog",
-      "categories": [
-        "Technology & Computing",
-        "Hobbies & Interests",
-        "Business and Finance",
-        "Communication",
-        "Computing",
-        "Arts and Crafts",
-        "Content Production"
-      ],
-      "slug": "kainspired-com",
-      "avg_ads_to_content_ratio": 0.16311,
-      "avg_ads_in_view": 1.65914,
-      "avg_ad_refresh": 34.773,
-      "total_unique_gpids": 6,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 8.6546,
-      "avg_cpu": 24.7246,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "kainspired.com",
-      "updated_at": "2025-07-02T20:05:15.991Z"
-    }
-  },
-  "conservationvisuals.com": {
+  "withhouna.com": {
     "a2cr": null,
     "response": {
-      "error": "{}",
-      "status_code": 404
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   },
-  "sympathymessageideas.com": {
-    "a2cr": 0.16143,
-    "response": {
-      "publisher_id": 86978,
-      "name": "Sympathy Message Ideas",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "sympathymessageideas.com",
-      "pub_description": "Find comfort for yours or someone else's grief with these pet loss poems that can help to come to terms with a pets passing",
-      "categories": [
-        "Family and Relationships",
-        "Sensitive Topics",
-        "Personal Celebrations & Life Events",
-        "War and Conflicts",
-        "Religion & Spirituality",
-        "Medical Health",
-        "Communication",
-        "Funeral"
-      ],
-      "slug": "www-sympathymessageideas-com",
-      "avg_ads_to_content_ratio": 0.16143,
-      "avg_ads_in_view": 1.78502,
-      "avg_ad_refresh": 50.237,
-      "total_unique_gpids": 8,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 2.2047,
-      "avg_cpu": 55.2105,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "sympathymessageideas.com",
-      "updated_at": "2025-07-04T01:03:29.671Z"
-    }
-  },
-  "creativegreenliving.com": {
-    "a2cr": 0.16485,
-    "response": {
-      "publisher_id": 62851,
-      "name": "Creative Green Living",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "creativegreenliving.com",
-      "pub_description": "Healthy, green and eco-friendly choices for your home and garden that are BEAUTIFUL and DELICIOUS!",
-      "categories": [
-        "Food & Drink",
-        "Business and Finance",
-        "Style & Fashion",
-        "Technology & Computing",
-        "World Cuisines",
-        "Desserts and Baking",
-        "Hobbies & Interests",
-        "Home & Garden"
-      ],
-      "slug": "creativegreenliving-com",
-      "avg_ads_to_content_ratio": 0.16485,
-      "avg_ads_in_view": 1.68757,
-      "avg_ad_refresh": 43.908,
-      "total_unique_gpids": 10,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 10.531,
-      "avg_cpu": 73.2428,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "creativegreenliving.com",
-      "updated_at": "2025-07-09T01:03:33.082Z"
-    }
-  },
-  "ropcaf.com": {
+  "unsophisticook.com": {
     "a2cr": null,
     "response": {
-      "publisher_id": 324807,
-      "name": "Ropcaf",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "ropcaf.com",
-      "pub_description": "Ropcaf is a digital media company that operates online brands and properties where it creates and publishes articles and other types of content about various topics across several categories and industries.",
-      "categories": [
-        "Technology & Computing",
-        "Business and Finance",
-        "Family and Relationships",
-        "Shopping",
-        "Business",
-        "Computing"
-      ],
-      "slug": "ropcaf-com",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 0,
-      "id_absorption_rate": null,
-      "avg_page_weight": 0.2557,
-      "avg_cpu": 1.0836,
-      "total_supply_paths": 0,
-      "reseller_count": null,
-      "owner_domain": null,
-      "updated_at": "2025-03-17T02:14:27.699Z"
-    }
-  },
-  "cameradecision.com": {
-    "a2cr": 0.30153,
-    "response": {
-      "publisher_id": 83807,
-      "name": "Camera Decision",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "cameradecision.com",
-      "pub_description": "Compare digital cameras, sort and filter the results, find the best prices. Choose from the latest DSLRs, compacts and Mirrorless cameras from Canon, Nikon, Panasonic, Sony, Olympus and more.",
-      "categories": [
-        "Technology & Computing",
-        "Hobbies & Interests",
-        "Business and Finance",
-        "Automotive",
-        "Consumer Electronics",
-        "Computing",
-        "Arts and Crafts",
-        "Cameras and Camcorders"
-      ],
-      "slug": "cameradecision-com",
-      "avg_ads_to_content_ratio": 0.30153,
-      "avg_ads_in_view": 1.44446,
-      "avg_ad_refresh": 28.557,
-      "total_unique_gpids": 9,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 8.8676,
-      "avg_cpu": 86.5075,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "cameradecision.com",
-      "updated_at": "2025-07-09T01:03:32.160Z"
-    }
-  },
-  "mesproduitsmaison.shop": {
-    "a2cr": null,
-    "response": {
-      "error": "{}",
-      "status_code": 404
-    }
-  },
-  "allezparis.fr": {
-    "a2cr": 0.12224,
-    "response": {
-      "publisher_id": 10419,
-      "name": "AllezParis",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "allezparis.fr",
-      "pub_description": "Toutes les news du PSG 24/7",
-      "categories": [
-        "Sensitive Topics",
-        "Pop Culture",
-        "Science",
-        "Style & Fashion",
-        "Business and Finance",
-        "Sports",
-        "Online Piracy",
-        "Entertainment",
-        "Personal Celebrations & Life Events",
-        "Medical Health",
-        "Family and Relationships"
-      ],
-      "slug": "allezparis-fr",
-      "avg_ads_to_content_ratio": 0.12224,
-      "avg_ads_in_view": 1.64165,
-      "avg_ad_refresh": 16.25,
-      "total_unique_gpids": 8,
-      "id_absorption_rate": null,
-      "avg_page_weight": 8.7191,
-      "avg_cpu": 39.6769,
-      "total_supply_paths": 744,
-      "reseller_count": 617,
-      "owner_domain": "allezparis.fr",
-      "updated_at": "2025-07-09T01:01:39.046Z"
-    }
-  },
-  "onnit.com": {
-    "a2cr": null,
-    "response": {
-      "publisher_id": 44208,
-      "name": "Onnit Academy",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "onnit.com",
-      "pub_description": "Get the supplements, nutrient-dense and Earth-grown foods, and fitness equipment to achieve your next level of well-being and Total Human Optimization.",
-      "categories": [
-        "Healthy Living",
-        "Sports",
-        "Medical Health",
-        "Style & Fashion",
-        "Fitness and Exercise",
-        "Diseases and Conditions",
-        "Weight Loss"
-      ],
-      "slug": "onnit-com",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 0,
-      "id_absorption_rate": null,
-      "avg_page_weight": 5.6811,
-      "avg_cpu": 49.3495,
-      "total_supply_paths": 1,
-      "reseller_count": 1,
-      "owner_domain": null,
-      "updated_at": "2025-07-09T01:03:25.954Z"
-    }
-  },
-  "theworkingline.com": {
-    "a2cr": 0.22582,
-    "response": {
-      "publisher_id": 299421,
-      "name": "The Working Line",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "theworkingline.com",
-      "pub_description": "Discover all my best tips for digital nomads working online and living abroad - the best cities, restaurants, hotels, and shopping spots around the world!",
-      "categories": [
-        "Shopping",
-        "Style & Fashion",
-        "Food & Drink",
-        "Travel",
-        "Attractions",
-        "Beauty",
-        "Travel Locations"
-      ],
-      "slug": "theworkingline-com",
-      "avg_ads_to_content_ratio": 0.22582,
-      "avg_ads_in_view": 2.42873,
-      "avg_ad_refresh": 53.494,
-      "total_unique_gpids": 8,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 9.6686,
-      "avg_cpu": 77.4181,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "theworkingline.com",
-      "updated_at": "2025-06-24T07:24:29.167Z"
-    }
-  },
-  "soundproofliving.com": {
-    "a2cr": 0.17036,
-    "response": {
-      "publisher_id": 61952,
-      "name": "Soundproof Living",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "soundproofliving.com",
-      "pub_description": "SoundproofLiving.com - The #1 online resource for the best quiet gadgets, as well as home and vehicle soundproofing techniques and materials.",
-      "categories": [
-        "Technology & Computing",
-        "Business and Finance",
-        "Automotive",
-        "Home & Garden",
-        "Computing"
-      ],
-      "slug": "soundproofliving-com",
-      "avg_ads_to_content_ratio": 0.17036,
-      "avg_ads_in_view": 1.68705,
-      "avg_ad_refresh": 45.325,
-      "total_unique_gpids": 7,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 19.7552,
-      "avg_cpu": 98.4229,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "soundproofliving.com",
-      "updated_at": "2025-07-05T06:40:00.220Z"
-    }
-  },
-  "notesofnomads.com": {
-    "a2cr": 0.19028,
-    "response": {
-      "publisher_id": 69549,
-      "name": "Notes of Nomads",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "notesofnomads.com",
-      "pub_description": "Japan travel blog. The journey of an international married couple re-inventing their idea of home. By Jessica Korteman and Hai Huynh.",
-      "categories": [
-        "Travel",
-        "Food & Drink",
-        "Attractions",
-        "Family and Relationships",
-        "World Cuisines",
-        "Travel Locations"
-      ],
-      "slug": "notesofnomads-com",
-      "avg_ads_to_content_ratio": 0.19028,
-      "avg_ads_in_view": 1.94209,
-      "avg_ad_refresh": 33.778,
-      "total_unique_gpids": 9,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 2.8212,
-      "avg_cpu": 30.9013,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "notesofnomads.com",
-      "updated_at": "2025-07-03T04:31:48.431Z"
-    }
-  },
-  "rockabyeparents.com": {
-    "a2cr": 0.23839,
-    "response": {
-      "publisher_id": 67018,
-      "name": "Rock-A-Bye Parents",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "rockabyeparents.com",
-      "pub_description": "Making Life Fun and Easy for Busy Working Moms",
-      "categories": [
-        "Food & Drink",
-        "Style & Fashion",
-        "Personal Finance",
-        "Hobbies & Interests",
-        "Desserts and Baking",
-        "World Cuisines",
-        "Family and Relationships"
-      ],
-      "slug": "rockabyeparents-com",
-      "avg_ads_to_content_ratio": 0.23839,
-      "avg_ads_in_view": 2.33661,
-      "avg_ad_refresh": 51.627,
-      "total_unique_gpids": 8,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 6.5925,
-      "avg_cpu": 90.8959,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "rockabyeparents.com",
-      "updated_at": "2025-07-02T14:11:52.335Z"
+      "error": "max retries exceeded",
+      "status_code": 429
     }
   }
 }
