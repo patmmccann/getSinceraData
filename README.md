@@ -30,6 +30,8 @@ The `sample_a2cr.py` script reads every `sellers.json` file stored in
   raw results to the `output/raw_ac2r/` directory. The summary statistics are
   written to `output/ac2r_analysis/`. Each entry in the summary includes the
   number of domains used to calculate the percentiles.
+  In addition to A2CR, the summary contains percentile data for
+  `total_supply_paths` and `avg_page_weight`.
   The
   script requires the `SINCERA_API_KEY` environment variable and Python
 packages `requests` and `numpy`.
