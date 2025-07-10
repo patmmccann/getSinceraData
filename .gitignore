@@ -1,2 +1,3 @@
 # Previously ignored output
 .coverage
+**/__pycache__/

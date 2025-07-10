@@ -29,13 +29,15 @@ def main() -> None:
             )
 
             mstats = stats.get(metric, {})
-            rows.append({
-                "network": network,
-                "n": mstats.get("n", 0),
-                "p25": mstats.get("p25"),
-                "p50": mstats.get("p50"),
-                "p75": mstats.get("p75"),
-            })
+            rows.append(
+                {
+                    "network": network,
+                    "n": mstats.get("n", 0),
+                    "p25": mstats.get("p25"),
+                    "p50": mstats.get("p50"),
+                    "p75": mstats.get("p75"),
+                }
+            )
 
         df = pd.DataFrame(rows)
         st.subheader(metric.replace("_", " ").title())
@@ -63,8 +65,21 @@ def main() -> None:
 
         st.altair_chart(rule + points, use_container_width=True)
 
-        st.caption("Number of domains used for each network")
-        st.table(df.set_index("network")["n"])
+    # Display the sample size table once using the first metric
+    rows = []
+    for seller, stats in data.items():
+        network = (
+            seller.replace("sellers_", "")
+            .replace("_percentiles", "")
+            .replace("_", " ")
+            .title()
+        )
+        mstats = stats.get(metrics[0], {})
+        rows.append({"network": network, "n": mstats.get("n", 0)})
+
+    df = pd.DataFrame(rows)
+    st.subheader("Number of domains used for each network")
+    st.table(df.set_index("network"))
 
 if __name__ == "__main__":
     main()
