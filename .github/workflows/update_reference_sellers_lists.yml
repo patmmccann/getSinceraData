@@ -34,6 +34,7 @@ jobs:
           curl -fSL https://www.mediavine.com/sellers.json -o reference_sellers_lists/sellers_mediavine.json
           curl -fSL https://freestar.com/sellers.json -o reference_sellers_lists/sellers_freestar.json
           curl -fSL https://www.aditude.com/sellers.json -o reference_sellers_lists/sellers_aditude.json
+          curl -fSL https://config.playwire.com/sellers.json -o reference_sellers_lists/sellers_playwire.json
 
       - name: Commit sellers lists
         run: |
