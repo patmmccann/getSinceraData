@@ -227,5 +227,8 @@
     "sincera_ecosystem_size": 10000,
     "webrisk_flagged_publishers": 5,
     "adult_domains": 52,
-    "topics_opt_outs": 1505
+    "topics_opt_outs": 1505,
+    "known_ios_apps": 2073009,
+    "known_roku_apps": 68484,
+    "known_google_apps": 5211597
 }
