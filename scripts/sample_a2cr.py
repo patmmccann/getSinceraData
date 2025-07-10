@@ -79,7 +79,7 @@ def load_domains(path: str):
     domains = [s.get('domain') for s in data.get('sellers', []) if s.get('domain')]
     return list(set(domains))
 
-SAMPLE_SIZE = int(os.environ.get('SAMPLE_SIZE', '100'))
+SAMPLE_SIZE = int(os.environ.get('SAMPLE_SIZE', '20'))
 
 def sample_domains(domains, n=SAMPLE_SIZE):
     if len(domains) < n:
