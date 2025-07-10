@@ -2,6 +2,9 @@ import os
 import random
 import time
 import json
+import datetime
+from collections import deque
+
 import requests
 import numpy as np
 import subprocess
@@ -28,6 +31,50 @@ if API_KEY is None:
 
 HEADERS = {'Authorization': f'Bearer {API_KEY}'}
 
+# Rate limiting constants
+REQUESTS_PER_MINUTE = 45
+REQUESTS_PER_DAY = 5000
+
+# Track request timestamps for the rolling minute window
+_REQUEST_TIMES = deque()
+_REQUESTS_TODAY = 0
+_DAY = datetime.date.today()
+
+
+def respect_rate_limits() -> None:
+    """Sleep as needed to honor API rate limits."""
+    global _REQUESTS_TODAY, _DAY
+
+    now = time.time()
+    today = datetime.date.today()
+
+    if today != _DAY:
+        _DAY = today
+        _REQUESTS_TODAY = 0
+        _REQUEST_TIMES.clear()
+
+    if _REQUESTS_TODAY >= REQUESTS_PER_DAY:
+        tomorrow = datetime.datetime.combine(today + datetime.timedelta(days=1), datetime.time())
+        time.sleep(max(0, (tomorrow - datetime.datetime.now()).total_seconds()))
+        _DAY = datetime.date.today()
+        _REQUESTS_TODAY = 0
+        _REQUEST_TIMES.clear()
+        now = time.time()
+
+    while _REQUEST_TIMES and now - _REQUEST_TIMES[0] >= 60:
+        _REQUEST_TIMES.popleft()
+
+    if len(_REQUEST_TIMES) >= REQUESTS_PER_MINUTE:
+        wait = 60 - (now - _REQUEST_TIMES[0])
+        if wait > 0:
+            time.sleep(wait)
+        now = time.time()
+        while _REQUEST_TIMES and now - _REQUEST_TIMES[0] >= 60:
+            _REQUEST_TIMES.popleft()
+
+    _REQUEST_TIMES.append(time.time())
+    _REQUESTS_TODAY += 1
+
 
 def sync_output() -> None:
     """Sync the entire output directory to S3 if bucket and role are set."""
@@ -53,6 +100,7 @@ def fetch_a2cr(domain: str, max_retries: int = 5):
     """Fetch A2CR data for a domain with exponential backoff respecting the Retry-After header."""
     delay = 1.0
     for _ in range(max_retries):
+        respect_rate_limits()
         resp = requests.get(
             API_URL, params={"domain": domain}, headers=HEADERS, timeout=30
         )
@@ -79,7 +127,7 @@ def process_group(path: str, name: str):
     for d in sample:
         a2cr, resp = fetch_a2cr(d)
         results[d] = {'a2cr': a2cr, 'response': resp}
-        time.sleep(2)  # throttle requests to avoid rate limits
+        time.sleep(1)
     os.makedirs(RAW_OUTPUT_DIR, exist_ok=True)
     result_file = os.path.join(RAW_OUTPUT_DIR, f'{name}_results.json')
     with open(result_file, 'w') as f:
