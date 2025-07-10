@@ -25,7 +25,6 @@ jobs:
         with:
           role-to-assume: ${{ secrets.AWS_ROLE_TO_ASSUME }}
           aws-region: us-east-1
-          role-duration-seconds: 14400
 
       - name: Fetch sellers.json files
         run: |
