@@ -35,7 +35,9 @@ def main() -> None:
     df = pd.DataFrame(rows)
 
     base = alt.Chart(df).encode(x=alt.X("network:N", title="Network"))
-    rule = base.mark_rule().encode(y="p25:Q", y2="p75:Q")
+    rule = base.mark_rule(tooltip=False).encode(
+        y="p25:Q", y2="p75:Q"
+    )
 
     long_df = df.melt(
         id_vars=["network"],
@@ -52,6 +54,11 @@ def main() -> None:
             y=alt.Y("value:Q", title="A2CR"),
             color="percentile:N",
             shape="percentile:N",
+            tooltip=[
+                alt.Tooltip("network:N", title="Network"),
+                alt.Tooltip("percentile:N", title="Percentile"),
+                alt.Tooltip("value:Q", title="A2CR"),
+            ],
         )
     )
 

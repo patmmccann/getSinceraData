@@ -38,9 +38,14 @@ The `sample_a2cr.py` script reads every `sellers.json` file stored in
   The
   script requires the `SINCERA_API_KEY` environment variable and Python
 packages `requests` and `numpy`.
+
   When both `AWS_BUCKET_NAME` and `AWS_ROLE_TO_ASSUME` are set, the workflow runs
   `scripts/sync_output_to_s3.sh` so the files appear under `raw_ac2r/` and
   `ac2r_analysis/` in the bucket.
+
+  The script automatically respects the OpenSincera API's rate limits of
+  45 requests per rolling minute and 5000 requests per day.
+ 
 
 ```bash
 SINCERA_API_KEY=your_token SAMPLE_SIZE=5 python scripts/sample_a2cr.py
