@@ -51,4 +51,4 @@ packages `requests` and `numpy`.
 SINCERA_API_KEY=your_token SAMPLE_SIZE=5 python scripts/sample_a2cr.py
 ```
 The optional `SAMPLE_SIZE` variable controls how many domains are sampled from each
-`sellers.json` file. The default is 100.
+`sellers.json` file. The default is 20.
