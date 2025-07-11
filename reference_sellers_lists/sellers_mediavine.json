@@ -92,15 +92,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "7caea11b0eb7ff857d33caa5d1ec7d8d",
-      "name": "I Heart Eating, LLC",
-      "domain": "ihearteating.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "4e81418436dd7610f168ad9198cdb33c",
       "name": "Liv for Cake Inc.",
       "domain": "livforcake.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "7caea11b0eb7ff857d33caa5d1ec7d8d",
+      "name": "I Heart Eating, LLC",
+      "domain": "ihearteating.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -1898,15 +1898,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "e590498d689a4cdcf8b1d69ee89783b0",
-      "name": "Charlies Wanderings",
-      "domain": "charlieswanderings.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "91ac9b805d9971c546682aa85e4fd761",
       "name": "Shruti Acharya",
       "domain": "artsycraftsymom.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "e590498d689a4cdcf8b1d69ee89783b0",
+      "name": "Charlies Wanderings",
+      "domain": "charlieswanderings.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -2132,15 +2132,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "737350124880aa587c79e6341950e231",
-      "name": "Hassan",
-      "domain": "50krecipes.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "7b0d911816868fd02a52da4509080dbb",
       "name": "Noman Abdulrehman",
       "domain": "gamibuzz.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "737350124880aa587c79e6341950e231",
+      "name": "Hassan",
+      "domain": "50krecipes.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -2384,15 +2384,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "2c178bebbde24ba9a20c7a0ced25dbcd",
-      "name": "Queen of Clean",
-      "domain": "queenofclean.blog",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "9299191307c13b3597c3d4cbd6a23332",
       "name": "Stephanie Jouan",
       "domain": "lacerisesurlemaillot.fr",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "2c178bebbde24ba9a20c7a0ced25dbcd",
+      "name": "Queen of Clean",
+      "domain": "queenofclean.blog",
       "seller_type": "PUBLISHER"
     },
     {
@@ -2588,15 +2588,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "9836d91e23cb6221ee7f0b94040684fd",
-      "name": "Bunny's Garden",
-      "domain": "bunnysgarden.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "02e03a3117f71554cc22474e26db3f07",
       "name": "Will Cook For Smiles, LLC",
       "domain": "willcookforsmiles.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "9836d91e23cb6221ee7f0b94040684fd",
+      "name": "Bunny's Garden",
+      "domain": "bunnysgarden.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -2684,15 +2684,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "b21bd4556f22c27de16c6d1ba9ebcf6c",
-      "name": "GardensAll.com DBA My Trainer Fitness LLC",
-      "domain": "gardensall.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "4a4233e51d30bcc5c74d47c182e2dad1",
       "name": "Carleen Coulter",
       "domain": "allnutribulletrecipes.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "b21bd4556f22c27de16c6d1ba9ebcf6c",
+      "name": "GardensAll.com DBA My Trainer Fitness LLC",
+      "domain": "gardensall.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -4598,15 +4598,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "4d77ac5c5fc5302c2a44fe8b26706b31",
-      "name": "ihomeschool network",
-      "domain": "ihomeschoolnetwork.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "2a3b6813755702fc45fde16169bb6ed8",
       "name": "Speak LLC",
       "domain": "thebudgetfashionista.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "4d77ac5c5fc5302c2a44fe8b26706b31",
+      "name": "ihomeschool network",
+      "domain": "ihomeschoolnetwork.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -5108,12 +5108,6 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "a467cc6d48061b3e4ed3371c427e32c6",
-      "name": "Fox + Hazel",
-      "domain": "foxandhazel.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "fc6b6c0e824c298cf4ceca390a8f59ce",
       "name": "Wispa Group Pty Ltd",
       "domain": "quitchronicfatigue.com",
@@ -5123,6 +5117,12 @@
       "seller_id": "2edb0576bb747b81c8620290b5ded344",
       "name": "GrowthNexus Services Pvt Ltd",
       "domain": "eartheclipse.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "a467cc6d48061b3e4ed3371c427e32c6",
+      "name": "Fox + Hazel",
+      "domain": "foxandhazel.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -6002,15 +6002,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "11270bdb1b38b209e3c2443f2e99b4a0",
-      "name": "Wealth of Geeks",
-      "domain": "wealthofgeeks.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "5814d1e48eb2fffee7f4d779a8c3f852",
       "name": "Renee Baiano",
       "domain": "simplyrootedfamily.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "11270bdb1b38b209e3c2443f2e99b4a0",
+      "name": "Wealth of Geeks",
+      "domain": "wealthofgeeks.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -6128,15 +6128,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "803d45930f74b88d728b1dbe90aa2d01",
-      "name": "Goddard Media LLC",
-      "domain": "politicalwire.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "a05cdff284e98326d9ca76c433685e34",
       "name": "Plant Based Folk",
       "domain": "plantbasedfolk.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "803d45930f74b88d728b1dbe90aa2d01",
+      "name": "Goddard Media LLC",
+      "domain": "politicalwire.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -6470,15 +6470,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "de22f4d71f47d2b7d559ab169ff177ac",
-      "name": "Billie Hillier",
-      "domain": "southwestexplorers.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "dd9cf33a4784860f2080b9e58e7ae2a3",
       "name": "Tawcan.com",
       "domain": "tawcan.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "de22f4d71f47d2b7d559ab169ff177ac",
+      "name": "Billie Hillier",
+      "domain": "southwestexplorers.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -7640,6 +7640,12 @@
       "seller_type": "PUBLISHER"
     },
     {
+      "seller_id": "b2088a35ccb1a805468326fc4bc626e0",
+      "name": "Air Fryer Eats",
+      "domain": "airfryereats.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
       "seller_id": "fc210b4a2f6d7b39694102f829ee038e",
       "name": "The Curious Chickpea LLC",
       "domain": "thecuriouschickpea.com",
@@ -7838,15 +7844,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "7db2b9520e8de8b51c633f143e242fde",
-      "name": "Mighty Creative, LLC",
-      "domain": "mightymrs.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "63357fc97d5efabed37b7169d8e4d959",
       "name": "Tahila Mongoya",
       "domain": "advicefromnobody.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "7db2b9520e8de8b51c633f143e242fde",
+      "name": "Mighty Creative, LLC",
+      "domain": "mightymrs.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -8180,15 +8186,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "bee5d99c18789c0ad466ee4b97ed4913",
-      "name": "Corinne McDermott",
-      "domain": "havebabywilltravel.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "b36b72c419ab7a3a65109b287733cfe7",
       "name": "Mbumba Justine Mfulama",
       "domain": "justinemfulama.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "bee5d99c18789c0ad466ee4b97ed4913",
+      "name": "Corinne McDermott",
+      "domain": "havebabywilltravel.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -8558,15 +8564,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "6e5be4c3c8da1eeb53d35c467a88f001",
-      "name": "City Farmhouse",
-      "domain": "cityfarmhouse.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "5cda8a8c257db947e3f3befc4d7f9779",
       "name": "Alyssa Matt",
       "domain": "partyofalyssamatt.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "6e5be4c3c8da1eeb53d35c467a88f001",
+      "name": "City Farmhouse",
+      "domain": "cityfarmhouse.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -11042,15 +11048,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "3d74eade63a59c791861d3211427c6fb",
-      "name": "A Healthy Slice of Life Blog",
-      "domain": "ahealthysliceoflife.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "123ea5a555592051c1770a182a3d10b9",
       "name": "Harbour Content Development Inc.",
       "domain": "recipesfromleftovers.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "3d74eade63a59c791861d3211427c6fb",
+      "name": "A Healthy Slice of Life Blog",
+      "domain": "ahealthysliceoflife.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -11534,15 +11540,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "45c674494cd8f76a293ab1fc7cd10614",
-      "name": "Mommy Can't Afford That",
-      "domain": "mommycantaffordthat.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "675d5fd5bce0e311bcdd9b766741ac90",
       "name": "Brahim RAHOUTI",
       "domain": "cheekykitchen.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "45c674494cd8f76a293ab1fc7cd10614",
+      "name": "Mommy Can't Afford That",
+      "domain": "mommycantaffordthat.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -12110,15 +12116,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "8ebe90a677b07324034c5c4b9a6abb0f",
-      "name": "AVERAGEBEING PRIVATE LIMITED",
-      "domain": "averagebeing.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "44f07eccb1b3661f7bdd3d989339120d",
       "name": "Brittany Thomas",
       "domain": "pistachioproject.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "8ebe90a677b07324034c5c4b9a6abb0f",
+      "name": "AVERAGEBEING PRIVATE LIMITED",
+      "domain": "averagebeing.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -12650,15 +12656,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "d868a02725c1b05e17d7405a19ca2b63",
-      "name": "Mom Managing Chaos LLC",
-      "domain": "mommanagingchaos.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "94cbb922b17fdc99c65d9a74b671fa01",
       "name": "Render Path",
       "domain": "renderpath.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "d868a02725c1b05e17d7405a19ca2b63",
+      "name": "Mom Managing Chaos LLC",
+      "domain": "mommanagingchaos.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -14018,15 +14024,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "fc71eff3f5d8e20eeb3e9d06f2205c11",
-      "name": "Asser Christensen",
-      "domain": "coffeechronicler.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "623dbb96c03169e5e364b653d4269121",
       "name": "Victoria Odeyemi",
       "domain": "itscheatdayeveryday.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "fc71eff3f5d8e20eeb3e9d06f2205c11",
+      "name": "Asser Christensen",
+      "domain": "coffeechronicler.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -15080,12 +15086,6 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "d41d8cd98f00b204e9800998ecf8427e",
-      "name": "QA Taurus",
-      "domain": "qa-taurus.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "19a196de7b7dce0f558e1827cbc94e10",
       "name": "Bianca",
       "domain": "foodtravelphotography.com",
@@ -15095,6 +15095,12 @@
       "seller_id": "a1ccb1532f64cfd8f7d1852b5bd93da2",
       "name": "Rebekah Gaspar",
       "domain": "thetexmexmom.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "d41d8cd98f00b204e9800998ecf8427e",
+      "name": "QA Taurus",
+      "domain": "qa-taurus.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -15212,15 +15218,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "f0167534317d749b617283c5188c2185",
-      "name": "Julian Ralf Müller",
-      "domain": "berufsjournal.de",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "6241f09a2d19bfb5b5b5d5c8e9074e02",
       "name": "Pirates Prospects",
       "domain": "piratesprospects.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "f0167534317d749b617283c5188c2185",
+      "name": "Julian Ralf Müller",
+      "domain": "berufsjournal.de",
       "seller_type": "PUBLISHER"
     },
     {
@@ -18806,6 +18812,12 @@
       "seller_type": "PUBLISHER"
     },
     {
+      "seller_id": "a7f96e3ee2e49c04ae5165cff10162a3",
+      "name": "Salt and Charcoal",
+      "domain": "saltandcharcoal.co",
+      "seller_type": "PUBLISHER"
+    },
+    {
       "seller_id": "40e7161d4f7d8cf0ef82dfc95c354e7f",
       "name": "Simple is Gourmet",
       "domain": "simpleisgourmet.com",
@@ -21026,15 +21038,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "1d67a3c195126e29ed2a265b5f570293",
-      "name": "Miranda Galati",
-      "domain": "reallifenutritionist.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "ce224f97e3fdfa0a3c09161485985f36",
       "name": "Richard Livitski",
       "domain": "mastiffguide.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1d67a3c195126e29ed2a265b5f570293",
+      "name": "Miranda Galati",
+      "domain": "reallifenutritionist.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -22382,15 +22394,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "ebacd6e738074bf3f2e11604559052a5",
-      "name": "Butterfly Social Media",
-      "domain": "cuisineandtravel.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "33e0e8e77d4fc82d8dbac5b43ffc63d9",
       "name": "Stephanie Versteeg Mediaproducties",
       "domain": "expeditieaardbol.nl",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "ebacd6e738074bf3f2e11604559052a5",
+      "name": "Butterfly Social Media",
+      "domain": "cuisineandtravel.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -22556,9 +22568,9 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "8280404577458d7204ab21a96fc08697",
-      "name": "The Arcade Stick",
-      "domain": "thearcadestick.com",
+      "seller_id": "421fd3636048b34715a4b2f6ef305745",
+      "name": "Nancy Jho",
+      "domain": "theforkbite.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -22568,9 +22580,9 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "421fd3636048b34715a4b2f6ef305745",
-      "name": "Nancy Jho",
-      "domain": "theforkbite.com",
+      "seller_id": "8280404577458d7204ab21a96fc08697",
+      "name": "The Arcade Stick",
+      "domain": "thearcadestick.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -23066,15 +23078,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "36223cde271d7b7664047e70df21c255",
-      "name": "Travel Savvy Gal",
-      "domain": "travelsavvygal.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "deec6b0e645ecd64dfab89a9790f914d",
       "name": "Plain Everything",
       "domain": "plaineverything.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "36223cde271d7b7664047e70df21c255",
+      "name": "Travel Savvy Gal",
+      "domain": "travelsavvygal.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -23090,15 +23102,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "c4d9c9372d91975653832d200d2dcddd",
-      "name": "Lu Ann Pannunzio",
-      "domain": "theteacupoflife.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "e349cdeb02973087eb04637225b91188",
       "name": "Excel University, Inc.",
       "domain": "excel-university.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "c4d9c9372d91975653832d200d2dcddd",
+      "name": "Lu Ann Pannunzio",
+      "domain": "theteacupoflife.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -24380,15 +24392,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "9e5f84b8351263e10cecd99af127919e",
-      "name": "A&V Computing Ltd",
-      "domain": "pillarboxblue.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "94908eb6b94ad59f1ebdf00db363294c",
       "name": "Amer Riaz",
       "domain": "dafontfile.org",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "9e5f84b8351263e10cecd99af127919e",
+      "name": "A&V Computing Ltd",
+      "domain": "pillarboxblue.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -24542,15 +24554,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "c9b8c94ed5bc7e53e7f5cb1db60a99b4",
-      "name": "Heart Filled Spaces",
-      "domain": "heartfilledspaces.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "3d7cf18b07acacbee5d41f4122491c4a",
       "name": "Rafal Raciborski",
       "domain": "bankeronwheels.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "c9b8c94ed5bc7e53e7f5cb1db60a99b4",
+      "name": "Heart Filled Spaces",
+      "domain": "heartfilledspaces.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -27272,15 +27284,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "960eeb2129503acbc06f82cd4ab142f1",
-      "name": "Emma C&C",
-      "domain": "casseroleetchocolat.fr",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "24969c88c976ffdee1e33b8393c928c3",
       "name": "Earth to Veg",
       "domain": "earthtoveg.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "960eeb2129503acbc06f82cd4ab142f1",
+      "name": "Emma C&C",
+      "domain": "casseroleetchocolat.fr",
       "seller_type": "PUBLISHER"
     },
     {
@@ -27644,15 +27656,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "44f651ab3e35d43fa85e53f1dd001f45",
-      "name": "PowWows.com",
-      "domain": "powwows.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "5bb7fc28df510727623ce2136be40fc9",
       "name": "mattdavison",
       "domain": "pixelsmithstudios.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "44f651ab3e35d43fa85e53f1dd001f45",
+      "name": "PowWows.com",
+      "domain": "powwows.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -28802,12 +28814,6 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "b628465ef73b3fb31fa0d63b078b1a18",
-      "name": "Muhammad Hassan",
-      "domain": "gamizoid.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "605d4c4b6247813196cdedc6db11b9bd",
       "name": "Denis Media LLC",
       "domain": "joyousapron.com",
@@ -28817,6 +28823,12 @@
       "seller_id": "ec5e0dec787eb9a6821081a94a540ffa",
       "name": "Angela Hine",
       "domain": "projectswithkids.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "b628465ef73b3fb31fa0d63b078b1a18",
+      "name": "Muhammad Hassan",
+      "domain": "gamizoid.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -30512,15 +30524,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "f73409034e5c31b64f44369c0849bce5",
-      "name": "Colette Burgess",
-      "domain": "goingonanadventure.co.uk",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "440e66ee26dfec44dc99a497675b8865",
       "name": "Leadvertise Kft",
       "domain": "lippiehippie.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "f73409034e5c31b64f44369c0849bce5",
+      "name": "Colette Burgess",
+      "domain": "goingonanadventure.co.uk",
       "seller_type": "PUBLISHER"
     },
     {
@@ -30566,15 +30578,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "516663b9a404e4c27f9915120b611e22",
-      "name": "Shangxiao Zheng",
-      "domain": "cs-tf.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "52f2904c485f6be7f7551cf5ad33b7e6",
       "name": "Mary Solio",
       "domain": "theworldisabook.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "516663b9a404e4c27f9915120b611e22",
+      "name": "Shangxiao Zheng",
+      "domain": "cs-tf.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -32204,15 +32216,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "7ee16aba1b13669bb634fde046ad33ea",
-      "name": "Success in Depth",
-      "domain": "successindepth.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "adf51265c2accedae81f8fa4e402eade",
       "name": "Amanda Taylor",
       "domain": "guide4moms.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "7ee16aba1b13669bb634fde046ad33ea",
+      "name": "Success in Depth",
+      "domain": "successindepth.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -32642,12 +32654,6 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "ecb7185e92b7bf8188ab3a5b679ecebb",
-      "name": "Esther Pinto",
-      "domain": "estapinto.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "b473baabde20af863b673facc09f75d8",
       "name": "Media Giant LLC",
       "domain": "primesound.org",
@@ -32657,6 +32663,12 @@
       "seller_id": "498e85853084085b14297c630dc9fd93",
       "name": "Neville Thomas",
       "domain": "dogtemperament.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "ecb7185e92b7bf8188ab3a5b679ecebb",
+      "name": "Esther Pinto",
+      "domain": "estapinto.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -33464,15 +33476,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "989be4ff4d5f8fde10fe87be16fa7318",
-      "name": "CQE Investments, LLC",
-      "domain": "mynourishedhome.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "fe198b6b032db2cee0f5dc0eb8cf173c",
       "name": "Erin Ek Rush",
       "domain": "yorkshiretots.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "989be4ff4d5f8fde10fe87be16fa7318",
+      "name": "CQE Investments, LLC",
+      "domain": "mynourishedhome.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -34304,15 +34316,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "8c86bef8675e9a1796cd068b05824cf3",
-      "name": "Next99",
-      "domain": "smileyspoints.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "3391696453640e1dc6bd5d66c3f49501",
       "name": "Indigo Media",
       "domain": "indigomedialtd.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "8c86bef8675e9a1796cd068b05824cf3",
+      "name": "Next99",
+      "domain": "smileyspoints.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -36788,15 +36800,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "14eafceaa41442a7131cc937d12b5878",
-      "name": "Discoveries Media",
-      "domain": "insidersoxford.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "42c5dfc37e79ad3a3590323882dc3ba4",
       "name": "BPC Media Inc.",
       "domain": "theblackpeppercorn.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "14eafceaa41442a7131cc937d12b5878",
+      "name": "Discoveries Media",
+      "domain": "insidersoxford.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -36884,15 +36896,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "686e8d40b3b1ffe3abb51da93f4d0640",
-      "name": "Walking On Media LLC",
-      "domain": "walkingonmedia.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "f01927918fed0049459da75355947643",
       "name": "Mediast",
       "domain": "pizzaovenradar.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "686e8d40b3b1ffe3abb51da93f4d0640",
+      "name": "Walking On Media LLC",
+      "domain": "walkingonmedia.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -36968,15 +36980,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "a964c997c184fb504ff4c8c3e6f74b51",
-      "name": "The Road Is Life",
-      "domain": "theroad-islife.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "7061e212807e9c4359d6220019c05390",
       "name": "ConsumerCo, LLC",
       "domain": "thisonlineworld.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "a964c997c184fb504ff4c8c3e6f74b51",
+      "name": "The Road Is Life",
+      "domain": "theroad-islife.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -37208,15 +37220,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "1941866d296ead60b0335f2236f4c626",
-      "name": "Good Mom Living LLC",
-      "domain": "goodmomliving.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "a0dfa19c047241fcd5c55d0d37bdf6ba",
       "name": "Barndominium Life",
       "domain": "barndominiumlife.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1941866d296ead60b0335f2236f4c626",
+      "name": "Good Mom Living LLC",
+      "domain": "goodmomliving.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -37304,15 +37316,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "d75c90654a3431a168bb957b9dbdceeb",
-      "name": "Erika Wallace",
-      "domain": "uptowngirl.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "195de0e1f640e0339107c640c79f8874",
       "name": "Coco Lapine Design",
       "domain": "cocolapinedesign.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "d75c90654a3431a168bb957b9dbdceeb",
+      "name": "Erika Wallace",
+      "domain": "uptowngirl.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -39842,15 +39854,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "5b197782cc93c6ec865e275313dfc38d",
-      "name": "MarsianOG",
-      "domain": "fitnessfia.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "d7ac9a9fd9a26c5dc970dea961fffb9c",
       "name": "CREATE CRUNCH",
       "domain": "createcrunch.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5b197782cc93c6ec865e275313dfc38d",
+      "name": "MarsianOG",
+      "domain": "fitnessfia.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -40010,15 +40022,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "892db17a29c3d6eba20d013249a49669",
-      "name": "Mariyam Abid",
-      "domain": "thebeautyholic.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "14ad294848dc998daeb6dbb8b3861ff8",
       "name": "Rose & Vine Marketing",
       "domain": "roseandvinemarketing.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "892db17a29c3d6eba20d013249a49669",
+      "name": "Mariyam Abid",
+      "domain": "thebeautyholic.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -42482,15 +42494,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "80413c8d124b864aef71a34f7bfc1f9e",
-      "name": "Melissa Oleary",
-      "domain": "keepingitsimpleblog.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "5fd3c78d419264e1ac11527e567420a6",
       "name": "Andrew Matenzawa",
       "domain": "soundproofnation.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "80413c8d124b864aef71a34f7bfc1f9e",
+      "name": "Melissa Oleary",
+      "domain": "keepingitsimpleblog.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -43244,15 +43256,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "57178dbc4d37914ee709e292caecda93",
-      "name": "Amiyrah Martin",
-      "domain": "4hatsandfrugal.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "5201b765beb4f913943fea56bdff1f8c",
       "name": "Miriam Chapman",
       "domain": "thestatenislandfamily.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "57178dbc4d37914ee709e292caecda93",
+      "name": "Amiyrah Martin",
+      "domain": "4hatsandfrugal.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -48032,15 +48044,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "9365e1b403ca3427e0c0fd631cc32b3e",
-      "name": "Adam the Automator Test",
-      "domain": "development.adamtheautomator.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "606e46cd075ebc5702b29605fffc7160",
       "name": "A Couple Cooks, LLC",
       "domain": "acouplecooks.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "9365e1b403ca3427e0c0fd631cc32b3e",
+      "name": "Adam the Automator Test",
+      "domain": "development.adamtheautomator.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -49046,15 +49058,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "e7ba47782391604c998cf83828237b7c",
-      "name": "Carly Lutzmann",
-      "domain": "fearlessfemaletravels.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "b0a1156e5c806cdcfb08fd1ad1f1809d",
       "name": "Deepth",
       "domain": "bestbikeselect.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "e7ba47782391604c998cf83828237b7c",
+      "name": "Carly Lutzmann",
+      "domain": "fearlessfemaletravels.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -50726,15 +50738,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "58065323aa91adf2350f1eaad69cd76b",
-      "name": "Asterisco SA",
-      "domain": "thefoodieskitchen.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "9bfb70a709af60393b238a9fe2ebbf2a",
       "name": "OwlScape Design Services ",
       "domain": "owlscape.in",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "58065323aa91adf2350f1eaad69cd76b",
+      "name": "Asterisco SA",
+      "domain": "thefoodieskitchen.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -52040,9 +52052,9 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "6b882b7e1b0ba6d7f3e7aac54bd80cf9",
-      "name": "Boost Network Pty Ltd",
-      "domain": "freshflownation.com",
+      "seller_id": "fbba5e0d260d6b5466ef5638b695d1c3",
+      "name": "Hey Wanderer",
+      "domain": "heywandererblog.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -52052,9 +52064,9 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "fbba5e0d260d6b5466ef5638b695d1c3",
-      "name": "Hey Wanderer",
-      "domain": "heywandererblog.com",
+      "seller_id": "6b882b7e1b0ba6d7f3e7aac54bd80cf9",
+      "name": "Boost Network Pty Ltd",
+      "domain": "freshflownation.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -52190,15 +52202,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "0de05cc048274e0c360ee5983d68f250",
-      "name": "Bay Trade Management cc",
-      "domain": "website2.me",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "fd869cd1077bb865451b416eef163eb7",
       "name": "TMBTENT LLC",
       "domain": "tmbtent.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "0de05cc048274e0c360ee5983d68f250",
+      "name": "Bay Trade Management cc",
+      "domain": "website2.me",
       "seller_type": "PUBLISHER"
     },
     {
@@ -54104,15 +54116,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "b82d0bd7959fe4b6683ee8f7cd321680",
-      "name": "Best Little Sites LLC",
-      "domain": "comicbookmovie.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "d8f9168d661d87e73cfc28d1c6a1f40c",
       "name": "Kamila Napora",
       "domain": "mywanderlust.pl",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "b82d0bd7959fe4b6683ee8f7cd321680",
+      "name": "Best Little Sites LLC",
+      "domain": "comicbookmovie.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -54806,15 +54818,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "bbb1d620140daf223fcff77e0cba65fe",
-      "name": "Woodard Bates Media TMG",
-      "domain": "themiddlegirls.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "fc27184d40fb93b6d08b682d7cdb45fd",
       "name": "Wishes & Reality || Heidi Daoud",
       "domain": "wishesandreality.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "bbb1d620140daf223fcff77e0cba65fe",
+      "name": "Woodard Bates Media TMG",
+      "domain": "themiddlegirls.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -58442,15 +58454,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "f9b8d7be882251d803b832c4138825ec",
-      "name": "Peak District Kids",
-      "domain": "peakdistrictkids.co.uk",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "ee70d28f99ccdfe9248664b6dcacab31",
       "name": "Tonya Denmark",
       "domain": "detailorientedtraveler.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "f9b8d7be882251d803b832c4138825ec",
+      "name": "Peak District Kids",
+      "domain": "peakdistrictkids.co.uk",
       "seller_type": "PUBLISHER"
     },
     {
@@ -58934,15 +58946,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "fb735a514609784f29102ead8112fb41",
-      "name": "Ashlie Bangerter",
-      "domain": "momalwaysfindsout.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "8f5f28fbb1ebcf86a833829019c53eeb",
       "name": "Simply Inspired Media",
       "domain": "inspiredbycroatia.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "fb735a514609784f29102ead8112fb41",
+      "name": "Ashlie Bangerter",
+      "domain": "momalwaysfindsout.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -60554,15 +60566,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "4b7853f4e7b2395b69d9309270e94f90",
-      "name": "Young Publisher",
-      "domain": "smarthomeowl.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "4c7d6a39fd3b12318e3ee2257c4b55e1",
       "name": "Properfoodie",
       "domain": "properfoodie.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "4b7853f4e7b2395b69d9309270e94f90",
+      "name": "Young Publisher",
+      "domain": "smarthomeowl.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -60734,15 +60746,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "b4d96bd667a86fef205ae408c60e997a",
-      "name": "Our Paleo Life",
-      "domain": "ourpaleolife.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "f6f69573a93d7047ace573314ca058ad",
       "name": "Stephanie ODea",
       "domain": "ayearofslowcooking.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "b4d96bd667a86fef205ae408c60e997a",
+      "name": "Our Paleo Life",
+      "domain": "ourpaleolife.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -60875,12 +60887,6 @@
       "seller_id": "6434f23a85b7e18b2db6adea2533e8d6",
       "name": "Chelsea's Messy Apron, LLC",
       "domain": "chelseasmessyapron.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
-      "seller_id": "4f200c52d3c0906bd34fd69f8dd6304b",
-      "name": "Aspen Enterprises LLC",
-      "domain": "airfryereats.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -61448,15 +61454,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "6242bc27eddf68f86ecc56995d7fd693",
-      "name": "Alison Stringer",
-      "domain": "sousvideways.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "2b76fa00c7506a95009d386e49403d8d",
       "name": "Aratinga, Inc.",
       "domain": "iheartbritishtv.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "6242bc27eddf68f86ecc56995d7fd693",
+      "name": "Alison Stringer",
+      "domain": "sousvideways.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -61496,15 +61502,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "22bf68be7ce81e229f282518096589a4",
-      "name": "That Fit Friend",
-      "domain": "thatfitfriend.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "9efa5b8fac29fea8709fc11ed93572ad",
       "name": "Anja Home",
       "domain": "anjahome.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "22bf68be7ce81e229f282518096589a4",
+      "name": "That Fit Friend",
+      "domain": "thatfitfriend.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -61808,15 +61814,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "7c86f97fda5230dd47d21b904b51798f",
-      "name": "Call me cupcake",
-      "domain": "callmecupcake.se",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "ebade522e8926ce90c94fb5a55cbfb02",
       "name": "Jamie Lott",
       "domain": "southernrevivals.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "7c86f97fda5230dd47d21b904b51798f",
+      "name": "Call me cupcake",
+      "domain": "callmecupcake.se",
       "seller_type": "PUBLISHER"
     },
     {
@@ -61910,15 +61916,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "682b926303cbf31a9a7bfc0d740b7bc1",
-      "name": "Julia's Cuisine",
-      "domain": "juliascuisine.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "b5475a93fdafec5876875a2153a07c1a",
       "name": "Chef Lindsey Farr LLC",
       "domain": "cheflindseyfarr.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "682b926303cbf31a9a7bfc0d740b7bc1",
+      "name": "Julia's Cuisine",
+      "domain": "juliascuisine.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -62396,15 +62402,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "ff1d0be50e687210f22ffbd6695e6ea4",
-      "name": "With A Blast",
-      "domain": "withablast.net",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "f75367277a0db61844a7e120b719ddca",
       "name": "The Dizzy Cook, LLC",
       "domain": "thedizzycook.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "ff1d0be50e687210f22ffbd6695e6ea4",
+      "name": "With A Blast",
+      "domain": "withablast.net",
       "seller_type": "PUBLISHER"
     },
     {
@@ -63488,15 +63494,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "35ad37829792afaa583f21c46a8574f2",
-      "name": "Analytical Mommy LLC",
-      "domain": "theanalyticalmommy.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "ce40d16384fa7b6864f9e2439b68beb2",
       "name": "Jatin Makhija",
       "domain": "cloudinfra.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "35ad37829792afaa583f21c46a8574f2",
+      "name": "Analytical Mommy LLC",
+      "domain": "theanalyticalmommy.com",
       "seller_type": "PUBLISHER"
     },
     {
@@ -64532,15 +64538,15 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "seller_id": "5f0f3e91cea453aa4b6664d956d37205",
-      "name": "Home Fixated",
-      "domain": "homefixated.com",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "seller_id": "9c7ff1354dff938c5bb28287a48ff393",
       "name": "Ana Zelić",
       "domain": "anasbakingchronicles.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5f0f3e91cea453aa4b6664d956d37205",
+      "name": "Home Fixated",
+      "domain": "homefixated.com",
       "seller_type": "PUBLISHER"
     },
     {
