@@ -1,536 +1,483 @@
 {
-  "whencrazymeetsexhaustion.com": {
+  "garlic-head.com": {
     "a2cr": null,
     "response": {
-      "publisher_id": 71983,
-      "name": "When Crazy Meets Exhaustion",
+      "publisher_id": 341833,
+      "name": "Garlic Head",
       "visit_enabled": true,
       "status": "available",
       "primary_supply_type": "web",
-      "domain": "whencrazymeetsexhaustion.com",
-      "pub_description": "The blessings and curses of working from home, the outstanding and overwhelming parts of parenting young children, and the laughter. So much laughter.",
+      "domain": "garlic-head.com",
+      "pub_description": "Garlic Head is a recipe website focused on providing affordable, sustainable, accessible, & vegan recipes to help you feel your best.",
       "categories": [
-        "adult",
-        "Family and Relationships",
+        "Food & Drink",
         "Healthy Living",
-        "Medical Health",
-        "Education",
-        "Parenting",
-        "Diseases and Conditions"
-      ],
-      "slug": "whencrazymeetsexhaustion-com",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 0,
-      "id_absorption_rate": null,
-      "avg_page_weight": 2.6197,
-      "avg_cpu": 16.6296,
-      "total_supply_paths": 177,
-      "reseller_count": 107,
-      "owner_domain": "whencrazymeetsexhaustion.com",
-      "updated_at": "2025-03-16T21:17:26.362Z"
-    }
-  },
-  "mybackkitchen.com": {
-    "a2cr": null,
-    "response": {
-      "error": "{}",
-      "status_code": 404
-    }
-  },
-  "myhomeandtravels.com": {
-    "a2cr": 0.13151,
-    "response": {
-      "publisher_id": 244899,
-      "name": "My Home and Travels",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "myhomeandtravels.com",
-      "pub_description": "Cook - Decorate - Celebrate - Travel",
-      "categories": [
-        "travel",
-        "Family and Relationships",
-        "Travel",
-        "Genres",
-        "Food & Drink",
-        "Personal Celebrations & Life Events",
-        "Parenting",
-        "Attractions"
-      ],
-      "slug": "myhomeandtravels-com",
-      "avg_ads_to_content_ratio": 0.13151,
-      "avg_ads_in_view": 1.58718,
-      "avg_ad_refresh": 32.791,
-      "total_unique_gpids": 55,
-      "id_absorption_rate": 0.445,
-      "avg_page_weight": 10.0013,
-      "avg_cpu": 284.8012,
-      "total_supply_paths": 246,
-      "reseller_count": 163,
-      "owner_domain": "myhomeandtravels.com",
-      "updated_at": "2025-07-02T21:48:59.764Z"
-    }
-  },
-  "the-ethos.co": {
-    "a2cr": 0.05,
-    "response": {
-      "publisher_id": 445361,
-      "name": "Ethos",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "the-ethos.co",
-      "pub_description": "Ethos is the leading destination for personal and planetary well-being. Sustainable fashion, beauty, travel, and more.",
-      "categories": null,
-      "slug": "the-ethos",
-      "avg_ads_to_content_ratio": 0.05,
-      "avg_ads_in_view": 1.0,
-      "avg_ad_refresh": 30.0,
-      "total_unique_gpids": 10,
-      "id_absorption_rate": 0.53,
-      "avg_page_weight": 0.0,
-      "avg_cpu": 0.0,
-      "total_supply_paths": 244,
-      "reseller_count": 161,
-      "owner_domain": "the-ethos.co",
-      "updated_at": "2025-06-14T07:24:30.811Z"
-    }
-  },
-  "morganthroughalens.com": {
-    "a2cr": null,
-    "response": {
-      "error": "{}",
-      "status_code": 404
-    }
-  },
-  "jillcomesclean.com": {
-    "a2cr": null,
-    "response": {
-      "publisher_id": 436731,
-      "name": "Jill Comes Clean",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "jillcomesclean.com",
-      "pub_description": null,
-      "categories": null,
-      "slug": "jillcomesclean",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 0,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 5.6986,
-      "avg_cpu": 15.0975,
-      "total_supply_paths": 105,
-      "reseller_count": 87,
-      "owner_domain": "jillcomesclean.com",
-      "updated_at": "2025-07-06T18:46:25.215Z"
-    }
-  },
-  "kendyltravels.com": {
-    "a2cr": null,
-    "response": {
-      "publisher_id": 448793,
-      "name": "Kendyl Travels",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "kendyltravels.com",
-      "pub_description": "Welcome to Kendyl Travels\u2014a budget travel blog packed with tips, itineraries, and travel hacks to help you see more for less. Start planning smarter trips today.",
-      "categories": null,
-      "slug": "kendyltravels",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": 30.0,
-      "total_unique_gpids": 2,
-      "id_absorption_rate": 0.5,
-      "avg_page_weight": 0.0,
-      "avg_cpu": 0.0,
-      "total_supply_paths": 244,
-      "reseller_count": 161,
-      "owner_domain": "kendyltravels.com",
-      "updated_at": "2025-06-14T07:23:43.806Z"
-    }
-  },
-  "manvsglobe.com": {
-    "a2cr": null,
-    "response": {
-      "publisher_id": 343120,
-      "name": "Man Vs Globe",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "manvsglobe.com",
-      "pub_description": "A complete guide to visiting Ostrava, Czechia, including all of the best things to do in the city, the best restaurants, and where to stay.",
-      "categories": [
+        "Pets",
         "Attractions",
-        "Travel",
-        "Food & Drink",
-        "Entertainment",
-        "Travel Locations",
-        "Europe Travel",
-        "Genres"
+        "Healthy Cooking and Eating",
+        "Cooking",
+        "Nutrition"
       ],
-      "slug": "manvsglobe-com",
+      "slug": "garlic-head-com",
       "avg_ads_to_content_ratio": null,
       "avg_ads_in_view": null,
       "avg_ad_refresh": null,
-      "total_unique_gpids": 4,
+      "total_unique_gpids": 46,
       "id_absorption_rate": 1.0,
-      "avg_page_weight": 14.6482,
-      "avg_cpu": 45.6508,
+      "avg_page_weight": 10.2713,
+      "avg_cpu": 52.4487,
       "total_supply_paths": 126,
       "reseller_count": 101,
-      "owner_domain": "manvsglobe.com",
-      "updated_at": "2025-07-03T06:57:45.456Z"
+      "owner_domain": "garlic-head.com",
+      "updated_at": "2025-07-21T16:54:55.878Z"
     }
   },
-  "deilataylor.com": {
-    "a2cr": 0.05949,
+  "metropolitangirl.com": {
+    "a2cr": 0.04738,
     "response": {
-      "publisher_id": 69656,
-      "name": "Eve Out of the Garden",
+      "publisher_id": 342008,
+      "name": "Metropolitan Girl",
       "visit_enabled": true,
       "status": "available",
       "primary_supply_type": "web",
-      "domain": "deilataylor.com",
-      "pub_description": "I am seeking greater light and knowledge, homeschooling, homesteading, understanding Isaiah, and listening to Hugh Nibley. Join my search for answers in Eve out of the Garden.",
+      "domain": "metropolitangirl.com",
+      "pub_description": "Fashion, Travel; Lifestyle blog for driven women -Metropolitan Girl",
       "categories": [
-        "Family and Relationships",
-        "Religion & Spirituality",
-        "Events",
-        "Personal Finance",
-        "Christianity",
-        "Parenting",
+        "Style & Fashion",
         "Hobbies & Interests",
-        "Genres"
+        "Fine Art",
+        "Medical Health",
+        "Business and Finance",
+        "Beauty",
+        "Personal Care",
+        "Makeup and Accessories",
+        "Travel Type",
+        "Travel",
+        "Fashion Trends",
+        "Women's Fashion"
       ],
-      "slug": "deilataylor-com",
-      "avg_ads_to_content_ratio": 0.05949,
-      "avg_ads_in_view": 1.99778,
-      "avg_ad_refresh": 29.722,
-      "total_unique_gpids": 9,
+      "slug": "metropolitangirl-com",
+      "avg_ads_to_content_ratio": 0.04738,
+      "avg_ads_in_view": 0.975,
+      "avg_ad_refresh": 36.667,
+      "total_unique_gpids": 101,
       "id_absorption_rate": 0.58,
-      "avg_page_weight": 13.2598,
-      "avg_cpu": 226.6848,
-      "total_supply_paths": 246,
-      "reseller_count": 163,
-      "owner_domain": "deilataylor.com",
-      "updated_at": "2025-07-02T14:08:30.293Z"
+      "avg_page_weight": 16.5279,
+      "avg_cpu": 296.9855,
+      "total_supply_paths": 251,
+      "reseller_count": 168,
+      "owner_domain": "metropolitangirl.com",
+      "updated_at": "2025-07-18T04:29:57.538Z"
     }
   },
-  "primis.tech": {
+  "acupeveryday.com": {
+    "a2cr": 0.15427,
+    "response": {
+      "publisher_id": 345310,
+      "name": "A Cup Every Day",
+      "visit_enabled": true,
+      "status": "available",
+      "primary_supply_type": "web",
+      "domain": "acupeveryday.com",
+      "pub_description": "Coffee and tea recipes, tips, guides and more! Whether making coffee at home or ordering while out, we have all the resources you'll need.",
+      "categories": [
+        "Food & Drink",
+        "Shopping",
+        "Healthy Cooking and Eating",
+        "Non-Alcoholic Beverages",
+        "Alcoholic Beverages",
+        "Cooking",
+        "Desserts and Baking"
+      ],
+      "slug": "acupeveryday-com",
+      "avg_ads_to_content_ratio": 0.15427,
+      "avg_ads_in_view": 1.68637,
+      "avg_ad_refresh": 33.026,
+      "total_unique_gpids": 37,
+      "id_absorption_rate": 0.39499999999999996,
+      "avg_page_weight": 9.3317,
+      "avg_cpu": 236.6306,
+      "total_supply_paths": 251,
+      "reseller_count": 168,
+      "owner_domain": "acupeveryday.com",
+      "updated_at": "2025-07-19T10:36:31.692Z"
+    }
+  },
+  "hermillennialcloset.com": {
     "a2cr": null,
     "response": {
-      "publisher_id": 234221,
-      "name": "Primis",
+      "error": "{}",
+      "status_code": 404
+    }
+  },
+  "medal.tv": {
+    "a2cr": 0.03287,
+    "response": {
+      "publisher_id": 83154,
+      "name": "Medal.tv | #1 Free Clip Platform",
       "visit_enabled": true,
       "status": "available",
       "primary_supply_type": "web",
-      "domain": "primis.tech",
-      "pub_description": "Primis is the global Video Discovery platform which increases revenue for publishers by helping their users discover high quality video content.",
+      "domain": "medal.tv",
+      "pub_description": "Gamers live here. Medal is the best way to record, clip, edit, and share your gaming clips and videos. Clip, Edit, Share, and Relive your gaming moments.",
+      "categories": null,
+      "slug": "medal-tv",
+      "avg_ads_to_content_ratio": 0.03287,
+      "avg_ads_in_view": 0.58204,
+      "avg_ad_refresh": 22.5,
+      "total_unique_gpids": 194,
+      "id_absorption_rate": 0.6242857142857143,
+      "avg_page_weight": 14.8453,
+      "avg_cpu": 37.4281,
+      "total_supply_paths": 281,
+      "reseller_count": 234,
+      "owner_domain": "medal.tv",
+      "updated_at": "2025-07-30T01:01:10.108Z"
+    }
+  },
+  "she.work": {
+    "a2cr": null,
+    "response": {
+      "error": "{}",
+      "status_code": 404
+    }
+  },
+  "literallydarling.com": {
+    "a2cr": null,
+    "response": {
+      "publisher_id": 67280,
+      "name": "Literally, Darling",
+      "visit_enabled": true,
+      "status": "available",
+      "primary_supply_type": "web",
+      "domain": "literallydarling.com",
+      "pub_description": "An online magazine by millennial women, for millennial women about our gender and generation. This is an exact representation of our exaggerated selves.",
       "categories": [
+        "Family and Relationships",
+        "Style & Fashion",
         "Business and Finance",
-        "Technology & Computing",
-        "Shopping",
-        "Events",
-        "Business",
-        "Computing"
+        "Medical Health",
+        "Parenting",
+        "Healthy Living"
       ],
-      "slug": "primis-tech",
+      "slug": "literallydarling-com",
       "avg_ads_to_content_ratio": null,
       "avg_ads_in_view": null,
       "avg_ad_refresh": null,
-      "total_unique_gpids": 1,
-      "id_absorption_rate": 0.03,
-      "avg_page_weight": 36.0131,
-      "avg_cpu": 39.1178,
+      "total_unique_gpids": 53,
+      "id_absorption_rate": null,
+      "avg_page_weight": 80.8279,
+      "avg_cpu": 87.9714,
       "total_supply_paths": 0,
       "reseller_count": null,
       "owner_domain": null,
-      "updated_at": "2025-07-11T01:04:00.806Z"
+      "updated_at": "2025-05-28T01:00:58.633Z"
     }
   },
-  "thesanemum.com.au": {
+  "jcainer.com": {
     "a2cr": null,
     "response": {
       "error": "{}",
       "status_code": 404
     }
   },
-  "justdabblingalong.com": {
-    "a2cr": 0.10084,
+  "mirandasmind.com": {
+    "a2cr": null,
     "response": {
-      "publisher_id": 301897,
-      "name": "Just Dabbling Along",
+      "error": "{}",
+      "status_code": 404
+    }
+  },
+  "bakerjo.co.uk": {
+    "a2cr": 0.10369,
+    "response": {
+      "publisher_id": 296912,
+      "name": "Baker Jo",
       "visit_enabled": true,
       "status": "available",
       "primary_supply_type": "web",
-      "domain": "justdabblingalong.com",
-      "pub_description": "This is the home page of the blog Just Dabbling Along where we talk about all things homesteading, homemaking, homemade recipes and gardening",
+      "domain": "bakerjo.co.uk",
+      "pub_description": "Baker Jo",
       "categories": [
         "Food & Drink",
         "Hobbies & Interests",
-        "Healthy Living",
-        "Home & Garden",
+        "Personal Celebrations & Life Events",
+        "Family and Relationships",
         "Desserts and Baking",
+        "Arts and Crafts"
+      ],
+      "slug": "bakerjo-co-uk",
+      "avg_ads_to_content_ratio": 0.10369,
+      "avg_ads_in_view": 1.59167,
+      "avg_ad_refresh": 51.25,
+      "total_unique_gpids": 28,
+      "id_absorption_rate": 0.445,
+      "avg_page_weight": 6.8761,
+      "avg_cpu": 267.5683,
+      "total_supply_paths": 253,
+      "reseller_count": 170,
+      "owner_domain": "bakerjo.co.uk",
+      "updated_at": "2025-07-19T10:34:44.178Z"
+    }
+  },
+  "travelingswansons.com": {
+    "a2cr": 0.04796,
+    "response": {
+      "publisher_id": 341388,
+      "name": "travelingswansons.com",
+      "visit_enabled": true,
+      "status": "available",
+      "primary_supply_type": "web",
+      "domain": "travelingswansons.com",
+      "pub_description": "Explore 21 Exciting Things to Do in Gulf Shores and Orange Beach When It Rains! Discover the best indoor activities to make the most of your rainy days in this vibrant coastal region. From trampoline parks to science centers, there's something for everyone, rain or shine. Plan your perfect rainy day adventure now!",
+      "categories": [
+        "Personal Celebrations & Life Events",
+        "Family and Relationships",
+        "Travel",
+        "Wedding",
+        "Parenting",
+        "Travel Type",
+        "Travel Locations",
+        "Travel Preparation and Advice",
+        "Attractions"
+      ],
+      "slug": "travelingswansons-com",
+      "avg_ads_to_content_ratio": 0.04796,
+      "avg_ads_in_view": 0.99016,
+      "avg_ad_refresh": 46.304,
+      "total_unique_gpids": 103,
+      "id_absorption_rate": 0.58,
+      "avg_page_weight": 18.662,
+      "avg_cpu": 315.2466,
+      "total_supply_paths": 251,
+      "reseller_count": 168,
+      "owner_domain": "travelingswansons.com",
+      "updated_at": "2025-07-25T18:56:01.114Z"
+    }
+  },
+  "jenniferperkins.com": {
+    "a2cr": null,
+    "response": {
+      "error": "{}",
+      "status_code": 404
+    }
+  },
+  "leveluppersonalfinance.com": {
+    "a2cr": null,
+    "response": {
+      "error": "{}",
+      "status_code": 404
+    }
+  },
+  "krystalynlaura.com": {
+    "a2cr": 0.04835,
+    "response": {
+      "publisher_id": 310037,
+      "name": "krystalynlaura.com",
+      "visit_enabled": true,
+      "status": "available",
+      "primary_supply_type": "web",
+      "domain": "krystalynlaura.com",
+      "pub_description": "Here are 8 tips to know if you are ready to become a full-time Instagram content creator. Remember that it takes time, effort, and work...",
+      "categories": [
+        "Business and Finance",
+        "Hobbies & Interests",
+        "Personal Finance",
+        "Style & Fashion",
+        "Family and Relationships",
+        "Arts and Crafts",
+        "Business",
+        "Technology & Computing",
+        "Shopping",
+        "Communication",
+        "Computing"
+      ],
+      "slug": "krystalynlaura-com",
+      "avg_ads_to_content_ratio": 0.04835,
+      "avg_ads_in_view": 1.0,
+      "avg_ad_refresh": 31.765,
+      "total_unique_gpids": 6,
+      "id_absorption_rate": 0.58,
+      "avg_page_weight": 36.126,
+      "avg_cpu": 133.8482,
+      "total_supply_paths": 251,
+      "reseller_count": 168,
+      "owner_domain": "krystalynlaura.com",
+      "updated_at": "2025-07-18T01:34:17.211Z"
+    }
+  },
+  "seriouslynatural.org": {
+    "a2cr": 0.05864,
+    "response": {
+      "publisher_id": 67044,
+      "name": "Seriously Natural",
+      "visit_enabled": true,
+      "status": "available",
+      "primary_supply_type": "web",
+      "domain": "seriouslynatural.org",
+      "pub_description": "TAKING NATURAL HAIR, BEAUTY & SKINCARE SO SERIOUSLY!",
+      "categories": [
+        "Style & Fashion",
+        "Business and Finance",
+        "Family and Relationships",
+        "Events",
+        "Beauty",
+        "Body Art",
+        "Personal Care",
+        "Healthy Living"
+      ],
+      "slug": "seriouslynatural-org",
+      "avg_ads_to_content_ratio": 0.05864,
+      "avg_ads_in_view": 1.12832,
+      "avg_ad_refresh": 35.0,
+      "total_unique_gpids": 38,
+      "id_absorption_rate": 0.63,
+      "avg_page_weight": 45.5357,
+      "avg_cpu": 351.0893,
+      "total_supply_paths": 257,
+      "reseller_count": 171,
+      "owner_domain": "seriouslynatural.org",
+      "updated_at": "2025-07-18T02:49:59.327Z"
+    }
+  },
+  "quiltville.com": {
+    "a2cr": null,
+    "response": {
+      "error": "{}",
+      "status_code": 404
+    }
+  },
+  "nodashofgluten.com": {
+    "a2cr": 0.02227,
+    "response": {
+      "publisher_id": 327675,
+      "name": "No Dash of Gluten",
+      "visit_enabled": true,
+      "status": "available",
+      "primary_supply_type": "web",
+      "domain": "nodashofgluten.com",
+      "pub_description": "Simple gluten free recipes and foods for the every day cook.",
+      "categories": [
+        "Food & Drink",
+        "Technology & Computing",
+        "Shopping",
+        "Healthy Living",
+        "Desserts and Baking",
+        "World Cuisines",
+        "Cooking"
+      ],
+      "slug": "nodashofgluten-com",
+      "avg_ads_to_content_ratio": 0.02227,
+      "avg_ads_in_view": 0.61818,
+      "avg_ad_refresh": 28.013,
+      "total_unique_gpids": 51,
+      "id_absorption_rate": 1.0,
+      "avg_page_weight": 18.7895,
+      "avg_cpu": 52.0063,
+      "total_supply_paths": 77,
+      "reseller_count": 20,
+      "owner_domain": "cookingismypassion.com",
+      "updated_at": "2025-07-29T01:04:10.031Z"
+    }
+  },
+  "theflouredcamera.com": {
+    "a2cr": 0.16554,
+    "response": {
+      "publisher_id": 282717,
+      "name": "The Floured Camera",
+      "visit_enabled": true,
+      "status": "available",
+      "primary_supply_type": "web",
+      "domain": "theflouredcamera.com",
+      "pub_description": "Find easy recipes to make your favorite Asian dishes at home (that taste just as great as eating out!) and discover modern twists using popular Asian ingredients.",
+      "categories": [
+        "Food & Drink",
+        "Attractions",
+        "Healthy Living",
+        "Family and Relationships",
         "Cooking",
+        "Healthy Cooking and Eating",
         "World Cuisines"
       ],
-      "slug": "justdabblingalong-com",
-      "avg_ads_to_content_ratio": 0.10084,
-      "avg_ads_in_view": 1.73234,
-      "avg_ad_refresh": null,
-      "total_unique_gpids": 42,
-      "id_absorption_rate": null,
-      "avg_page_weight": 19.1593,
-      "avg_cpu": 334.6779,
-      "total_supply_paths": 0,
-      "reseller_count": null,
-      "owner_domain": "justdabblingalong.com",
-      "updated_at": "2025-03-17T01:59:46.762Z"
-    }
-  },
-  "opendoorsopenhearts.com": {
-    "a2cr": null,
-    "response": {
-      "publisher_id": 368386,
-      "name": "Open Doors Open Hearts -",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "opendoorsopenhearts.com",
-      "pub_description": "Transitioning our traditional mantel to a European style barn beam fireplace mantel has had one of the largest impacts on our living room. Things happen, and before you know it, you're slowed down. But what I try to keep in the forefront of my mind when things like this happen is this little saying. \"You",
-      "categories": [
-        "Hobbies & Interests",
-        "Home & Garden",
-        "Shopping",
-        "Fine Art",
-        "Arts and Crafts",
-        "Interior Decorating"
-      ],
-      "slug": "opendoorsopenhearts-com",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": 25.625,
-      "total_unique_gpids": 80,
-      "id_absorption_rate": 0.58,
-      "avg_page_weight": 17.4666,
-      "avg_cpu": 211.6853,
-      "total_supply_paths": 246,
-      "reseller_count": 163,
-      "owner_domain": "opendoorsopenhearts.com",
-      "updated_at": "2025-07-03T06:48:28.400Z"
-    }
-  },
-  "sparklecat.com": {
-    "a2cr": 0.08181,
-    "response": {
-      "publisher_id": 58190,
-      "name": "Summer\u2019s Fabulous Cat Life",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "sparklecat.com",
-      "pub_description": "featuring Summer, therapy cat and kitty on the go!",
-      "categories": [
-        "Pets",
-        "Family and Relationships",
-        "Style & Fashion",
-        "Events",
-        "Cats",
-        "Dogs",
-        "Parenting",
-        "Hobbies & Interests",
-        "Pop Culture"
-      ],
-      "slug": "sparklecat-com",
-      "avg_ads_to_content_ratio": 0.08181,
-      "avg_ads_in_view": 1.22585,
-      "avg_ad_refresh": 30.313,
-      "total_unique_gpids": 10,
+      "slug": "theflouredcamera-com",
+      "avg_ads_to_content_ratio": 0.16554,
+      "avg_ads_in_view": 2.41139,
+      "avg_ad_refresh": 32.241,
+      "total_unique_gpids": 18,
       "id_absorption_rate": 0.445,
-      "avg_page_weight": 21.3543,
-      "avg_cpu": 164.5303,
-      "total_supply_paths": 246,
-      "reseller_count": 163,
-      "owner_domain": "sparklecat.com",
-      "updated_at": "2025-07-05T01:34:32.900Z"
+      "avg_page_weight": 10.6224,
+      "avg_cpu": 400.0175,
+      "total_supply_paths": 251,
+      "reseller_count": 168,
+      "owner_domain": "theflouredcamera.com",
+      "updated_at": "2025-07-18T01:43:19.684Z"
     }
   },
-  "flightsandfoods.com": {
-    "a2cr": null,
+  "tarot.com": {
+    "a2cr": 0.17341,
     "response": {
-      "error": "{}",
-      "status_code": 404
-    }
-  },
-  "easyhomemadelife.com": {
-    "a2cr": 0.11351,
-    "response": {
-      "publisher_id": 309843,
-      "name": "Easy Homemade Life",
+      "publisher_id": 16776,
+      "name": "Tarot.com",
       "visit_enabled": true,
       "status": "available",
       "primary_supply_type": "web",
-      "domain": "easyhomemadelife.com",
-      "pub_description": "Easyhomemadelife.com is a digital brand that helps thrifty, creative homemakers create super simple recipes and DIY projects. The no-fail ideas shared here all focus on family-friendly, from-scratch, and budget-friendly concepts.",
+      "domain": "tarot.com",
+      "pub_description": "Get free Tarot readings, learn about Tarot cards, and get the insight you need at Tarot.com",
       "categories": [
-        "Food & Drink",
-        "Shopping",
-        "Business and Finance",
-        "Sensitive Topics",
-        "Desserts and Baking",
-        "Cooking",
-        "Hobbies & Interests"
-      ],
-      "slug": "easyhomemadelife-com",
-      "avg_ads_to_content_ratio": 0.11351,
-      "avg_ads_in_view": 1.35827,
-      "avg_ad_refresh": 86.869,
-      "total_unique_gpids": 21,
-      "id_absorption_rate": 0.775,
-      "avg_page_weight": 27.9396,
-      "avg_cpu": 143.3288,
-      "total_supply_paths": 84,
-      "reseller_count": 13,
-      "owner_domain": "primaledgehealth.com",
-      "updated_at": "2025-07-08T03:18:47.300Z"
-    }
-  },
-  "heatherslookingglass.com": {
-    "a2cr": 0.04818,
-    "response": {
-      "publisher_id": 71616,
-      "name": "Through Heather's Looking Glass",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "heatherslookingglass.com",
-      "pub_description": "This section is full of Disney tips, tricks, trip reports, and photos from my personal trips to Walt Disney World, Disneyland on on the Disney Cruise Line.",
-      "categories": [
-        "Sports",
         "Events",
-        "Travel",
-        "Style & Fashion",
-        "Travel Type"
-      ],
-      "slug": "heatherslookingglass-com",
-      "avg_ads_to_content_ratio": 0.04818,
-      "avg_ads_in_view": 1.0,
-      "avg_ad_refresh": 27.5,
-      "total_unique_gpids": 3,
-      "id_absorption_rate": 0.44,
-      "avg_page_weight": 8.8349,
-      "avg_cpu": 87.2017,
-      "total_supply_paths": 246,
-      "reseller_count": 163,
-      "owner_domain": "heatherslookingglass.com",
-      "updated_at": "2025-07-02T20:34:43.319Z"
-    }
-  },
-  "cocktailsaway.com": {
-    "a2cr": 0.0591,
-    "response": {
-      "publisher_id": 282240,
-      "name": "Cocktails Away",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "cocktailsaway.com",
-      "pub_description": "A blog about traveling the world in search of drinks and adventures and the ingredients for both. Curated lists of bars by city and more.",
-      "categories": [
-        "Food & Drink",
-        "Careers",
-        "Travel",
-        "Attractions",
-        "Alcoholic Beverages",
-        "Cooking",
-        "Bars & Restaurants",
-        "Travel Type",
-        "Travel Locations"
-      ],
-      "slug": "cocktailsaway-com",
-      "avg_ads_to_content_ratio": 0.0591,
-      "avg_ads_in_view": 1.17837,
-      "avg_ad_refresh": 33.75,
-      "total_unique_gpids": 34,
-      "id_absorption_rate": 0.63,
-      "avg_page_weight": 6.4976,
-      "avg_cpu": 204.5824,
-      "total_supply_paths": 246,
-      "reseller_count": 163,
-      "owner_domain": "cocktailsaway.com",
-      "updated_at": "2025-07-10T17:51:32.477Z"
-    }
-  },
-  "annarborwithkids.com": {
-    "a2cr": null,
-    "response": {
-      "publisher_id": 328335,
-      "name": "Ann Arbor with Kids",
-      "visit_enabled": true,
-      "status": "available",
-      "primary_supply_type": "web",
-      "domain": "annarborwithkids.com",
-      "pub_description": "Your go-to source for Ann Arbor Family Fun! Find fun activities, events, deals, and more family fun in Ann Arbor with kids.",
-      "categories": [
-        "Education",
         "Family and Relationships",
-        "Events",
-        "Attractions",
+        "Style & Fashion",
+        "Business and Finance",
         "Parenting",
-        "Parenting Children Aged 4-11"
+        "Body Art"
       ],
-      "slug": "annarborwithkids-com",
-      "avg_ads_to_content_ratio": null,
-      "avg_ads_in_view": null,
-      "avg_ad_refresh": 37.25,
-      "total_unique_gpids": 10,
-      "id_absorption_rate": 1.0,
-      "avg_page_weight": 7.4191,
-      "avg_cpu": 49.481,
-      "total_supply_paths": 73,
-      "reseller_count": 16,
-      "owner_domain": "annarborwithkids.com",
-      "updated_at": "2025-07-03T06:52:36.976Z"
+      "slug": "tarot",
+      "avg_ads_to_content_ratio": 0.17341,
+      "avg_ads_in_view": 1.50972,
+      "avg_ad_refresh": 42.292,
+      "total_unique_gpids": 35,
+      "id_absorption_rate": 0.18714285714285714,
+      "avg_page_weight": 18.7884,
+      "avg_cpu": 511.7038,
+      "total_supply_paths": 268,
+      "reseller_count": 181,
+      "owner_domain": "rulingplanetstudios.com",
+      "updated_at": "2025-07-30T01:00:26.246Z"
     }
   },
-  "yourastroguide.com": {
-    "a2cr": 0.10292,
+  "seekingstamps.com": {
+    "a2cr": 0.15269,
     "response": {
-      "publisher_id": 291579,
-      "name": "Astrologers In Chennai | Tamil Astrologer In Chennai | Astrology Services in Chennai",
+      "publisher_id": 353095,
+      "name": "Seeking Stamps",
       "visit_enabled": true,
       "status": "available",
       "primary_supply_type": "web",
-      "domain": "yourastroguide.com",
-      "pub_description": "Guru Peyarchi Palangal 2022 gives a general predictions for all Rasis. Guru Peyarchi Palan is based on Jupiter (Guru) transit 2022.",
+      "domain": "seekingstamps.com",
+      "pub_description": "Discover the perfect blend of academics and adventure as you tour top colleges in this ultimate California college road trip.",
       "categories": [
-        "Shopping",
-        "Religion & Spirituality",
+        "Technology & Computing",
+        "Attractions",
+        "Travel",
         "Genres",
-        "Business and Finance",
-        "Buddhism",
-        "Hinduism",
-        "Education",
-        "College Education"
+        "Food & Drink",
+        "Bars & Restaurants",
+        "Travel Locations",
+        "Travel Type",
+        "Shopping"
       ],
-      "slug": "yourastroguide-com",
-      "avg_ads_to_content_ratio": 0.10292,
-      "avg_ads_in_view": 1.48124,
-      "avg_ad_refresh": 25.417,
-      "total_unique_gpids": 16,
-      "id_absorption_rate": 0.445,
-      "avg_page_weight": 5.8808,
-      "avg_cpu": 318.2649,
-      "total_supply_paths": 246,
-      "reseller_count": 163,
-      "owner_domain": "yourastroguide.com",
-      "updated_at": "2025-07-06T18:41:44.474Z"
+      "slug": "seekingstamps-com",
+      "avg_ads_to_content_ratio": 0.15269,
+      "avg_ads_in_view": 1.38079,
+      "avg_ad_refresh": 68.462,
+      "total_unique_gpids": 67,
+      "id_absorption_rate": 0.58,
+      "avg_page_weight": 24.4885,
+      "avg_cpu": 183.7754,
+      "total_supply_paths": 251,
+      "reseller_count": 168,
+      "owner_domain": "seekingstamps.com",
+      "updated_at": "2025-07-26T08:09:47.949Z"
     }
   }
 }
