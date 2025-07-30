@@ -345,12 +345,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "dinardetectives.com",
-            "name": "Dinar Detectives",
-            "seller_id": "893",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "stopots.com",
             "name": "Gartic Publicidade Digital",
             "seller_id": "1109",
@@ -1512,12 +1506,6 @@
             "domain": "flightera.net",
             "name": "Kreet GmbH",
             "seller_id": "529",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "nlop.com",
-            "name": "Cafrino, LLC",
-            "seller_id": "536",
             "seller_type": "PUBLISHER"
         },
         {
@@ -2685,12 +2673,6 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "apotelyt.com",
-            "name": "Interdiagnostix",
-            "seller_id": "1120",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "lifelabs.com",
             "name": "LifeLabs LP",
             "seller_id": "1121",
@@ -3318,12 +3300,6 @@
             "domain": "totaljerkface.com",
             "name": "Fancy Force LLC ",
             "seller_id": "1465",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "minutemedia.com",
-            "name": "Sportority Inc",
-            "seller_id": "1475",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4197,9 +4173,9 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "neopets.com",
-            "name": "Neopets",
-            "seller_id": "1835",
+            "domain": "",
+            "name": "Test Contract 07-31-2024",
+            "seller_id": "1837",
             "seller_type": "PUBLISHER"
         },
         {
@@ -4876,12 +4852,6 @@
         },
         {
             "domain": "",
-            "name": "Test Contract 07-31-2024",
-            "seller_id": "1837",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "",
             "name": "Test Contract 07-31-2024-2",
             "seller_id": "1838",
             "seller_type": "PUBLISHER"
@@ -4938,6 +4908,18 @@
             "domain": "fbschedules.com",
             "name": "fbschedules.com",
             "seller_id": "1973",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "lake-link.com",
+            "name": "Lake-Link, Inc",
+            "seller_id": "1982",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "bdfutbol.com",
+            "name": "BD Futbol",
+            "seller_id": "1983",
             "seller_type": "PUBLISHER"
         },
         {
@@ -5016,6 +4998,12 @@
             "domain": "mkcllc.ai",
             "name": "MKC LLC",
             "seller_id": "1977",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "alphacoders.com",
+            "name": "Alpha Coders",
+            "seller_id": "1981",
             "seller_type": "PUBLISHER"
         },
         {
@@ -5229,27 +5217,27 @@
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "gpacalculator.net",
-            "name": "Calcadia Inc. ",
-            "seller_id": "1980",
-            "seller_type": "PUBLISHER"
-        },
-        {
-            "domain": "tylertesting.com",
-            "name": "Tyler Test LLC",
-            "seller_id": "1958",
-            "seller_type": "PUBLISHER"
-        },
-        {
             "domain": "remax.com",
             "name": "Remax",
             "seller_id": "1979",
             "seller_type": "PUBLISHER"
         },
         {
-            "domain": "alphacoders.com",
-            "name": "Alpha Coders",
-            "seller_id": "1981",
+            "domain": "gpacalculator.net",
+            "name": "Calcadia Inc. ",
+            "seller_id": "1980",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "https://dazepuzzle.com/",
+            "name": "Dazepuzzle",
+            "seller_id": "1984",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "tylertesting.com",
+            "name": "Tyler Test LLC",
+            "seller_id": "1958",
             "seller_type": "PUBLISHER"
         }
     ],

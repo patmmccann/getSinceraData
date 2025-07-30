@@ -776,6 +776,18 @@
       "name": "On This Day"
     },
     {
+      "seller_id": "269",
+      "seller_type": "PUBLISHER",
+      "domain": "hoyenlahistoria.com",
+      "name": "On This Day"
+    },
+    {
+      "seller_id": "269",
+      "seller_type": "PUBLISHER",
+      "domain": "sharetrader.co.nz",
+      "name": "On This Day"
+    },
+    {
       "seller_id": "1000002232",
       "seller_type": "PUBLISHER",
       "domain": "dekudeals.com",
@@ -906,6 +918,18 @@
       "seller_type": "PUBLISHER",
       "domain": "wheregoes.com ",
       "name": "Vertex Media"
+    },
+    {
+      "seller_id": "288",
+      "seller_type": "PUBLISHER",
+      "domain": "racerxonline.com",
+      "name": "Racerx"
+    },
+    {
+      "seller_id": "289",
+      "seller_type": "PUBLISHER",
+      "domain": "happyburger.io",
+      "name": "Trebuchetent"
     } 
   ]
 }
